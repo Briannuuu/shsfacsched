@@ -1,0 +1,575 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden; /* Prevent body scrolling */
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+	height: 80px;
+    width: calc(100% - 20px); /* Adjust width for the sidebar */
+    background: linear-gradient(rgba(255, 255, 254, 0.767), rgba(255, 255, 254, 0.767)), url("../img/bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 100000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    transition: 0.6s;
+}
+
+header div {
+	width: 25%;
+	display: flex;
+	justify-content: space-between;
+	padding-left: 1em;
+}
+
+header a {
+	text-decoration: none;
+	color: #eef2f6;
+	float: left; 
+	margin: auto;
+	transition: 0.6s;
+	padding: .5em;
+}
+
+header.sticky {
+    opacity: 0;
+    padding: 5px 100px;
+    background: #fff;
+}
+
+.header-button{
+	margin-left: -1000px;
+}
+
+.logo {
+    margin-top: 10px;
+	block-size: 80px;
+}
+
+.nav-button {
+	transition: 0.6s;
+}
+
+.dropbtn {
+    position: absolute;
+    background-color: transparent;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    top: -20px;
+	margin-left: 300px;
+}
+
+.dropbtn ion-icon{
+    font-size: 2.5em;
+}
+
+.dropdown {
+    padding-bottom: 20px;
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 35px;
+	margin-left: 250px;
+    background-color: #009af3;
+    min-width: 120px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #fff;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    color: #F1C93B;
+	transition: 0.6s;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    transition: 0.6s;
+}
+
+.dropdown:hover .dropbtn {
+    color: #009af3;
+	transition: 0.6s;
+}
+
+
+.sidebar {
+    position: fixed;
+    top: 90px; /* Leave space for the fixed header */
+    left: 0;
+    width: 80px;
+    height: calc(100% - 90px); /* Full height minus the header */
+    background-color: #f4ecec;
+    padding: .4rem .8rem;
+    transition: all 0.5s ease;
+    overflow: hidden; /* Prevent sidebar from scrolling */
+}
+
+.sidebar.active ~ .main-content {
+    margin-left: 250px; /* Shift main content when sidebar expands */
+}
+
+.sidebar.active ~ header{	
+	left: 250px;
+	width: calc(100% - 250px)
+}
+
+.sidebar.active {
+    width: 250px;
+}
+
+.sidebar #btn {
+	position: absolute;
+	color: black;
+	top: 1rem;
+	left: 50%;
+	font-size:2.7rem;
+	line-height: 50px;
+	transform: translateX(-50%);
+	cursor: pointer;
+
+}
+
+.sidebar.active #btn {
+	left: 90%;
+}
+
+.sidebar .top .logo {
+	color:black;
+	font-size: 200%;
+	display: flex;
+	height: 50px;
+	width: 100%;
+	align-items: center;
+	pointer-events: none;
+	opacity: 0;
+    transition: all 0.4s ease-out;
+}
+
+.sidebar.active .top .logo{
+	opacity: 1;
+    transition: all 0.4s ease;
+}
+
+.sidebar p{
+	opacity: 0;
+}
+
+.sidebar.active p{
+	opacity: 1;
+}
+
+.sidebar .nav-links li{
+	position: relative;
+	list-style-type: none;
+	height: 70px;
+	width: 90%;
+	margin: 0.8rem auto;
+	line-height: 0px;
+}
+
+.sidebar .nav-links li a{
+	color: black;
+	display:flex;
+	align-items: center;
+	text-decoration: none;
+    margin-left: -25px;
+	border-radius: 0.8rem;
+	font-size: 1.4rem;
+}
+
+.sidebar .nav-links li a:hover{
+	background-color: #007FFF;
+	color:  white;
+    transition: all 0.1s ease;
+}
+
+.sidebar .nav-links li a i {
+	min-width: 50px;
+	text-align: center;
+	height: 50px;
+	border-radius: 12px;
+	line-height: 50px;
+}
+
+.top .logo i{
+	font-size: 3rem;
+	margin-right: 5px;
+}
+
+.user {
+	display: flex;
+	align-items: center;
+	margin: 2rem 0;
+}
+
+.user p{
+	color: black;
+	opacity: 1;
+	margin-left: 1rem;
+	font-size: 1.2rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.sidebar.active .user p {
+    margin-left: 5rem; /* Shift main content when sidebar expands */
+}
+
+.user .image{
+    display: inline-block;
+    padding-left: 1rem;
+}
+
+.user .image-circle{
+    border-radius: 50%;
+}
+
+.user img{
+    height: auto;
+    width: 3.1rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.user .info{
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.user .info{
+    display: inline-block;
+    padding: 5px 5px 15px 10px;
+}
+
+.user .info a{
+    opacity: 0;
+    color: black;
+    font-family: sans-serif;
+    text-decoration: none;
+    transition: all 0.2s ease-out;
+}
+
+.sidebar.active .user .info a{
+    opacity: 1;
+    transition: all 0.4s ease-in;
+}
+
+.bold{
+	font-weight: 600;
+}
+
+.sidebar .nav-item{	
+	opacity: 0;
+    transition: all 0.4s ease-out;
+}
+
+.sidebar.active .nav-item{
+	opacity: 1;
+	padding: 1.2rem 1.2rem;
+	line-height: 1.3rem;
+    transition: all 0.4s ease-in;
+}
+
+.main-content {
+    margin-top: 90px; /* Space for the header */
+    margin-left: 80px; /* Space for the collapsed sidebar */
+    padding: 1rem;
+    height: calc(100% - 90px); /* Full height minus header */
+    overflow-y: auto; /* Enable scrolling only in the main content */
+    transition: all 0.5s ease;
+	z-index: 0;
+}
+
+.sidebar.active ~ .main-content {
+    margin-left: 250px; /* Shift the main content when the sidebar expands */
+    width: calc(100% - 250px); /* Adjust the main content width when the sidebar is active */
+}
+
+.main-content p{
+	color: black;
+}
+
+.container-fluid {
+    position: absolute;
+    width: 1500px;
+    max-width: 100%;
+    margin-left: 50px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: margin-left 0.5s ease; /* Add transition for smooth shifting */
+}
+
+.sidebar.active ~ .main-content .container-fluid {
+    margin-left: 50px; /* Adjust the container-fluid margin when sidebar is active */
+}
+
+.box {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.box-header {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.box-title {
+	position: relative;
+	top: 5px;
+	font-size: large;
+    margin: 0;
+}
+
+.box-body {
+    padding: 15px;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    background-color: #fff;
+}
+
+.table-bordered {
+    border: 1px solid #ddd;
+}
+
+.table th, .table td {
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+	border-left: 2px solid #ddd;
+}
+
+.table th {
+    background-color: #f5f5f5;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.btn {
+	position: relative;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+	left: 50%;
+	transform: translate(-50%);
+}
+
+.btn ion-icon{
+	font-size: 1.3em;
+}
+
+.btn-view {
+    color: #fff;
+    background-color: #266099;
+    border-color: #266099;
+}
+
+.btn-prog{
+	position: relative;
+	padding: 6px 12px;
+	top: -10px;
+    font-size: 14px;
+    font-weight: normal;
+	text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+	margin-left: 600px;
+	left: 50%;
+	transform: translate(-50%);
+}
+
+footer {
+	background-color: #009af3;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+footer p{
+	color: black;
+}
+
+.sidebar.active footer{
+	text-align: center;
+    height: 65px;
+	width: 283px;
+	transition: 0.5s;
+}
+
+.sidebar footer{
+	margin-left: -14px;
+}
+
+.current-page{
+	background-color: #F1C93B;
+}
+
+/* Row styling */
+.row {
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+/* Card styles */
+.small-box {
+    border-radius: 10px;
+    color: #fff;
+    padding: 20px;
+    position: relative;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    text-align: center;
+}
+
+.small-box .inner {
+    font-size: 16px;
+}
+
+.small-box .inner h3 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0 0 10px;
+}
+
+.small-box .icon {
+    font-size: 60px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    opacity: 0.3;
+}
+
+.small-box-footer {
+    display: block;
+    background: rgba(0, 0, 0, 0.1);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    border-radius: 0 0 10px 10px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.small-box-footer:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+/* Colors for different boxes */
+.bg-info {
+    background-color: #17a2b8;
+}
+
+.bg-success {
+    background-color: #28a745;
+}
+
+.bg-warning {
+    background-color: #ffc107;
+}
+
+.bg-danger {
+    background-color: #dc3545;
+}
+
+.chart-container {
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 400px;
+    max-width: 600px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .col-lg-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 769px) {
+    .col-lg-4 {
+        flex: 0 0 30%;
+        max-width: 30%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-lg-4 {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+}
+
+@media (max-width: 768px) {
+    .sidebar {
+        width: 60px;
+    }
+    .sidebar.active {
+        width: 200px;
+    }
+    .main-content {
+        width: calc(100% - 60px);
+    }
+    .main-content .container-fluid {
+        width: 100%;
+    }
+}

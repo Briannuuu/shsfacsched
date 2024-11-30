@@ -1,0 +1,4053 @@
+Subject,Room,Section,Day,Start Time,End Time
+TLE,401,Argon,Monday,6:00,6:40
+Mapeh,401,Argon,Monday,6:40,7:20
+Values Education,401,Argon,Monday,7:20,8:00
+AP,401,Argon,Monday,8:00,8:40
+Science,401,Argon,Monday,8:40,9:20
+Recess,401,Argon,Monday,9:20,9:50
+Mathematics,401,Argon,Thursday,9:50,10:30
+English,401,Argon,Monday,10:30,11:10
+Filipino,401,Argon,Monday,11:10,11:50
+NMP,401,Argon,Monday,11:50,12:30
+ASYNC,401,Argon,Monday,12:30,12:55
+ASYNC,401,Argon,Monday,12:55,1:20
+Values Education,403,Barium,Monday,6:00,6:40
+TLE,402,Barium,Monday,6:40,7:20
+AP,402,Barium,Monday,7:20,8:00
+Science,402,Barium,Monday,8:00,8:40
+Mathematics,402,Barium,Monday,8:40,9:20
+Recess,402,Barium,Monday,9:20,9:50
+English,402,Barium,Monday,9:50,10:30
+Filipino,402,Barium,Monday,10:30,11:10
+Mapeh,402,Barium,Monday,11:10,11:50
+ASYNC,402,Barium,Monday,12:30,12:55
+ASYNC,402,Barium,Monday,12:55,1:20
+NMP,302,Europium,Monday,11:50,12:30
+HGP, VPEI 301,Iron,Monday,11:50,12:30
+NMP, VPEI 303,Keypton,Monday,11:50,12:30
+HGP, DEPED 303,Oxygen,Monday,11:50,12:30
+NMP, DEPED 203,Silver,Monday,11:50,12:30
+AP,403,Copper,Monday,6:00,6:40
+Science,403,Copper,Monday,6:40,7:20
+TLE,403,Copper,Monday,7:20,8:00
+Mathematics,403,Copper,Monday,8:00,8:40
+English,403,Copper,Monday,8:40,9:20
+Recess,403,Copper,Monday,9:20,9:50
+Filipino,403,Copper,Monday,9:50,10:30
+Mapeh,401,Copper,Monday,10:30,11:10
+Values Education,403,Copper,Monday,11:10,11:50
+ASYNC,403,Copper,Monday,12:30,12:55
+ASYNC,403,Copper,Monday,12:55,1:20
+Science,403,Copper,Monday,6:00,6:40
+Mathematics,403,Copper,Monday,6:40,7:20
+English,403,Copper,Monday,7:20,8:00
+TLE,403,Copper,Monday,8:00,8:40
+Filipino,403,Copper,Monday,8:40,9:20
+Recess,403,Copper,Monday,9:20,9:50
+Mapeh,403,Copper,Monday,9:50,10:30
+Values Education,401,Copper,Monday,10:30,11:10
+AP,403,Copper,Monday,11:10,11:50
+ASYNC,403,Copper,Monday,12:30,12:55
+ASYNC,403,Copper,Monday,12:55,1:20
+Science,301,Dubnium,Monday,6:00,6:40
+Mathematics,301,Dubnium,Monday,6:40,7:20
+English,301,Dubnium,Monday,7:20,8:00
+TLE,301,Dubnium,Monday,8:00,8:40
+Filipino,301,Dubnium,Monday,8:40,9:20
+Recess,301,Dubnium,Monday,9:20,9:50
+Mapeh,301,Dubnium,Monday,9:50,10:30
+Values Education,301,Dubnium,Monday,10:30,11:10
+AP,301,Dubnium,Monday,11:10,11;50
+ASYNC,301,Dubnium,Monday,12:30,12:55
+ASYNC,301,Dubnium,Monday,12:55,1:20
+Mathematics,302,Europium,Monday,6:00,6:40
+English,302,Europium,Monday,6:40,7:20
+Filipino,302,Europium,Monday,7:20,8:00
+Mapeh,302,Europium,Monday,8:00,8:40
+TLE,302,Europium,Monday,8:40,9:20
+Recess,302,Europium,Monday,9:20,9:50
+Values Education,302,Europium,Monday,9:50,10:30
+AP,302,Europium,Monday,10:30,11:10
+Science,302,Europium,Monday,11:10,11:50
+ASYNC,302,Europium,Monday,12:30,12:55
+ASYNC,302,Europium,Monday,12:55,1:20
+English,303,Flourine,Monday,6:00,6:40
+Filipino,303,Flourine,Monday,6:40,7:20
+Mapeh,303,Flourine,Monday,7:20,8:00
+Values Education,303,Flourine,Monday,8:00,8:40
+AP,303,Flourine,Monday,8:40,9:20
+Recess,303,Flourine,Monday,9:20,9:50
+TLE,303,Flourine,Monday,9:50,10:30
+Science,303,Flourine,Monday,10:30,11:10
+Mathematics,303,Flourine,Monday,11:10,11:50
+ASYNC,303,Flourine,Monday,12:30,12:55
+ASYNC,303,Flourine,Monday,12:55,1:20
+Filipino, VPEIII 301,Gold,Monday,6:00,6:40
+Mapeh, VPEIII 301,Gold,Monday,6:40,7:20
+Values Education,302,Gold,Monday,7:20,8:00
+AP,302,Gold,Monday,8:00,8:40
+Science,302,Gold,Monday,8:40,9:20
+Recess,302,Gold,Monday,9:20,9:50
+Mathematics,302,Gold,Monday,9:50,10:30
+TLE,302,Gold,Monday,10:30,11:10
+English,302,Gold,Monday,11:10,11:50
+ASYNC,302,Gold,Monday,12:30,12:55
+ASYNC,302,Gold,Monday,12:55,1:20
+Mapeh, VPEIII 302,Hydrogen,Monday,6:00,6:40
+Values Education, VPEIII 302,Hydrogen,Monday,6:40,7:20
+AP, VPEIII 302,Hydrogen,Monday,7:20,8:00
+Science, VPEIII 302,Hydrogen,Monday,8:00,8:40
+Mathematics, VPEIII 302,Hydrogen,Monday,8:40,9:20
+Recess, VPEIII 302,Hydrogen,Monday,9:20,9:50
+English, VPEIII 302,Hydrogen,Monday,9:50,10:30
+Filipino, VPEIII 302,Hydrogen,Monday,10:30,11:10
+TLE, VPEIII 302,Hydrogen,Monday,11:10,11;50
+ASYNC, VPEIII 302,Hydrogen,Monday,12:30,12:55
+ASYNC, VPEIII 302,Hydrogen,Monday,12:55,1:20
+Values Education, VPEI 301,Iron,Monday,6:00,6:40
+AP, VPEI 301,Iron,Monday,6:40,7:20
+Science, VPEI 301,Iron,Monday,7:20,8:00
+Mathematics, VPEI 301,Iron,Monday,8:00,8:40
+Recess, VPEI 301,Iron,Monday,8:40,9:20
+Filipino, VPEI 301,Iron,Monday,9:20,9:50
+Mapeh, VPEI 301,Iron,Monday,10:30,11:10
+TLE, VPEI 301,Iron,Monday,11:10,11:50
+ASYNC, VPEI 301,Iron,Monday,12:30,12:55
+ASYNC, VPEI 301,Iron,Monday,12:55,1:20
+TLE, VPEI 303,Krypton,Monday,6:00,6:40
+Science, VPEI 303,Krypton,Monday,6:40,7:20
+Filipino, VPEI 303,Krypton,Monday,7:20,8:00
+Mathematics, VPEI 303,Krypton,Monday,8:00,8:40
+English, VPEI 303,Krypton,Monday,8:40,9:20
+Recess, VPEI 303,Krypton,Monday,9:20,9:50
+Mapeh, VPEI 303,Krypton,Monday,9:50,10:30
+Values Education, VPEI 303,Krypton,Monday,10:30,11:10
+AP, VPEI 303,Krypton,Monday,11:10,11:50
+ASYNC, VPEI 303,Krypton,Monday,12:30,12:55
+ASYNC, VPEI 303,Krypton,Monday,12:55,1:20
+TLE, VPEI 304,Lithium,Monday,6:00,6:40
+Science, VPEI 304,Lithium,Monday,6:40,7:20
+Filipino, VPEI 304,Lithium,Monday,7:20,8:00
+Mathematics, VPEI 304,Lithium,Monday,8:00,8:40
+English, VPEI 304,Lithium,Monday,8:40,9:20
+Recess, VPEI 304,Lithium,Monday,9:20,9:50
+Mapeh, VPEI 304,Lithium,Monday,9:50,10:30
+Values Education, VPEI 304,Lithium,Monday,10:30,11:10
+AP, VPEI 304,Lithium,Monday,11:10,11:50
+ASYNC, VPEI 304,Lithium,Monday,12:30,12:55
+ASYNC, VPEI 304,Lithium,Monday,12:55,1:20
+TLE, DEPED 301,Magnesium,Monday,6:00,6:40
+Science, DEPED 301,Magnesium,Monday,6:40,7:20
+Filipino, DEPED 301,Magnesium,Monday,7:20,8:00
+Mathematics, DEPED 301,Magnesium,Monday,8:00,8:40
+English, DEPED 301,Magnesium,Monday,8:40,9:20
+Recess, DEPED 301,Magnesium,Monday,9:20,9:50
+Mapeh, DEPED 301,Magnesium,Monday,9:50,10:30
+Values Education, DEPED 301,Magnesium,Monday,10:30,11:10
+AP, DEPED 301,Magnesium,Monday,11:10,11:50
+ASYNC, DEPED 301,Magnesium,Monday,12:30,12:55
+ASYNC, DEPED 301,Magnesium,Monday,12:55,1:20
+TLE, DEPED 302,Neon,Monday,6:00,6:40
+Science, DEPED 302,Neon,Monday,6:40,7:20
+Filipino, DEPED 302,Neon,Monday,7:20,8:00
+Mathematics, DEPED 302,Neon,Monday,8:00,8:40
+English, DEPED 302,Neon,Monday,8:40,9:20
+Recess, DEPED 302,Neon,Monday,9:20,9:50
+Mapeh, DEPED 302,Neon,Monday,9:50,10:30
+Values Education, DEPED 302,Neon,Monday,10:30,11:10
+AP, DEPED 302,Neon,Monday,11:10,11:50
+ASYNC, DEPED 302,Neon,Monday,12:30,12:55
+ASYNC, DEPED 302,Neon,Monday,12:55,1:20
+TLE, DEPED 303,Oxygen,Monday,6:00,6:40
+Science, DEPED 303,Oxygen,Monday,6:40,7:20
+Filipino, DEPED 303,Oxygen,Monday,7:20,8:00
+Mathematics, DEPED 303,Oxygen,Monday,8:00,8:40
+English, DEPED 303,Oxygen,Monday,8:40,9:20
+Recess, DEPED 303,Oxygen,Monday,9:20,9:50
+Mapeh, DEPED 303,Oxygen,Monday,9:50,10:30
+Values Education, DEPED 303,Oxygen,Monday,10:30,11:10
+AP, DEPED 303,Oxygen,Monday,11:10,11:50
+ASYNC, DEPED 303,Oxygen,Monday,12:30,12:55
+ASYNC, DEPED 303,Oxygen,Monday,12:55,1:20
+TLE, DEPED 201,Platinum,Monday,6:00,6:40
+Science, DEPED 201,Platinum,Monday,6:40,7:20
+Filipino, DEPED 201,Platinum,Monday,7:20,8:00
+Mathematics, DEPED 201,Platinum,Monday,8:00,8:40
+English, DEPED 201,Platinum,Monday,8:40,9:20
+Recess, DEPED 201,Platinum,Monday,9:20,9:50
+Mapeh, DEPED 201,Platinum,Monday,9:50,10:30
+Values Education, DEPED 201,Platinum,Monday,10:30,11:10
+AP, DEPED 201,Platinum,Monday,11:10,11:50
+ASYNC, DEPED 201,Platinum,Monday,12:30,12:55
+ASYNC, DEPED 201,Platinum,Monday,12:55,1:20
+TLE, DEPED 202,Radium,Monday,6:00,6:40
+Science, DEPED 202,Radium,Monday,6:40,7:20
+Filipino, DEPED 202,Radium,Monday,7:20,8:00
+Mathematics, DEPED 202,Radium,Monday,8:00,8:40
+English, DEPED 202,Radium,Monday,8:40,9:20
+Recess, DEPED 202,Radium,Monday,9:20,9:50
+Mapeh, DEPED 202,Radium,Monday,9:50,10:30
+Values Education, DEPED 202,Radium,Monday,10:30,11:10
+AP, DEPED 202,Radium,Monday,11:10,11:50
+ASYNC, DEPED 202,Radium,Monday,12:30,12:55
+ASYNC, DEPED 202,Radium,Monday,12:55,1:20
+TLE, DEPED 203,Silver,Monday,6:00,6:40
+Science, DEPED 203,Silver,Monday,6:40,7:20
+Filipino, DEPED 203,Silver,Monday,7:20,8:00
+Mathematics, DEPED 203,Silver,Monday,8:00,8:40
+English, DEPED 203,Silver,Monday,8:40,9:20
+Recess, DEPED 203,Silver,Monday,9:20,9:50
+Mapeh, DEPED 203,Silver,Monday,9:50,10:30
+Values Education, DEPED 203,Silver,Monday,10:30,11:10
+AP, DEPED 203,Silver,Monday,11:10,11:50
+ASYNC, DEPED 203,Silver,Monday,12:30,12:55
+ASYNC, DEPED 203,Silver,Monday,12:55,1:20
+TLE, SPED BLDG,Titanium,Monday,6:00,6:40
+Science, SPED BLDG,Titanium,Monday,6:40,7:20
+Filipino, SPED BLDG,Titanium,Monday,7:20,8:00
+Mathematics, SPED BLDG,Titanium,Monday,8:00,8:40
+English, SPED BLDG,Titanium,Monday,8:40,9:20
+Recess, SPED BLDG,Titanium,Monday,9:20,9:50
+Mapeh, SPED BLDG,Titanium,Monday,9:50,10:30
+Values Education, SPED BLDG,Titanium,Monday,10:30,11:10
+AP, SPED BLDG,Titanium,Monday,11:10,11:50
+ASYNC, SPED BLDG,Titanium,Monday,12:30,12:55
+ASYNC, SPED BLDG,Titanium,Monday,12:55,1:20
+Mapeh, VPEI 302,Uranium,Monday,6:00,6:40
+Values Education, VPEI 302,Uranium,Monday,6:40,7:20
+AP, VPEI 302,Uranium,Monday,7:20,8:00
+Science, VPEI 302,Uranium,Monday,8:00,8:40
+Mathematics, VPEI 302,Uranium,Monday,8:40,9:20
+Recess, VPEI 302,Uranium,Monday,9:20,9:50
+English, VPEI 302,Uranium,Monday,9:50,10:30
+Filipino, VPEI 302,Uranium,Monday,10:30,11:10
+TLE, VPEI 302,Uranium,Monday,11:10,11;50
+ASYNC, VPEI 302,Uranium,Monday,12:30,12:55
+ASYNC, VPEI 302,Uranium,Monday,12:55,1:20
+NMP, BCE 501,Anthurium,Monday,11:50,12:30
+HGP, VPEIII 502,Euphoria,Monday,11:50,12;30
+NMP, VPEII 502,Gardenia,Monday,11:50,12:30
+Filipino, BCE 501,Anthurium,Monday,6:00,6:40
+English, BCE 501,Anthurium,Monday,6:40,7:20
+Mathematics, BCE 501,Anthurium,Monday,7:20,8:00
+Science, BCE 501,Anthurium,Monday,8:00,8:40
+Recess, BCE 501,Anthurium,Monday,8:40,9:20
+AP, BCE 501,Anthurium,Monday,9:20,9:50
+Values Education, BCE 501,Anthurium,Monday,9:50,10:30
+TLE, BCE 501,Anthurium,Monday,10:30,11:10
+Mapeh, BCE 50,Anthurium,Monday,11:10,11:50
+ASYNC, BCE 501,Anthurium,Monday,12:30,12:55
+ASYNC, BCE 501,Anthurium,Monday,12:55,1:20
+Filipino, BCE 502,Buttercup,Monday,6:00,6:40
+English, BCE 502,Buttercup,Monday,6:40,7:20
+Mathematics, BCE 502,Buttercup,Monday,7:20,8:00
+Science, BCE 502,Buttercup,Monday,8:00,8:40
+Recess, BCE 502,Buttercup,Monday,8:40,9:20
+AP, BCE 502,Buttercup,Monday,9:20,9:50
+Values Education, BCE 502,Buttercup,Monday,9:50,10:30
+TLE, BCE 502,Buttercup,Monday,10:30,11:10
+Mapeh, BCE 502,Buttercup,Monday,11:10,11:50
+ASYNC, BCE 502,Buttercup,Monday,12:30,12:55
+ASYNC, BCE 502,Buttercup,Monday,12:55,1:20
+Filipino, BCE 503,Carnation,Monday,6:00,6:40
+English, BCE 503,Carnation,Monday,6:40,7:20
+Mathematics, BCE 503,Carnation,Monday,7:20,8:00
+Science, BCE 503,Carnation,Monday,8:00,8:40
+Recess, BCE 503,Carnation,Monday,8:40,9:20
+AP, BCE 503,Carnation,Monday,9:20,9:50
+ValuesEducation, BCE 503,Carnation,Monday,9:50,10:30
+TLE, BCE 503,Carnation,Monday,10:30,11:10
+Mapeh, BCE 503,Carnation,Monday,11:10,11:50
+ASYNC, BCE 503,Carnation,Monday,12:30,12:55
+ASYNC, BCE 503,Carnation,Monday,12:55,1:20
+Filipino, VPE III 501,Daffodil,Monday,6:00,6:40
+English, VPE III 501,Daffodil,Monday,6:40,7:20
+Mathematics, VPE III 501,Daffodil,Monday,7:20,8:00
+Science, VPE III 501,Daffodil,Monday,8:00,8:40
+Recess, VPE III 501,Daffodil,Monday,8:40,9:20
+AP, VPE III 501,Daffodil,Monday,9:20,9:50
+ValuesEducation, VPE III 501,Daffodil,Monday,9:50,10:30
+TLE, VPE III 501,Daffodil,Monday,10:30,11:10
+Mapeh, VPE III 501,Daffodil,Monday,11:10,11:50
+ASYNC, VPE III 501,Daffodil,Monday,12:30,12:55
+ASYNC, VPE III 501,Daffodil,Monday,12:55,1:20
+Filipino, VPE III 502,Euphoria,Monday,6:00,6:40
+English, VPE III 502,Euphoria,Monday,6:40,7:20
+Mathematics, VPE III 502,Euphoria,Monday,7:20,8:00
+Science, VPE III 502,Euphoria,Monday,8:00,8:40
+Recess, VPE III 502,Euphoria,Monday,8:40,9:20
+AP, VPE III 502,Euphoria,Monday,9:20,9:50
+ValuesEducation, VPE III 502,Euphoria,Monday,9:50,10:30
+TLE, VPE III 502,Euphoria,Monday,10:30,11:10
+Mapeh, VPE III 502,Euphoria,Monday,11:10,11:50
+ASYNC, VPE III 502,Euphoria,Monday,12:30,12:55
+ASYNC, VPE III 502,Euphoria,Monday,12:55,1:20
+Filipino, VPE III 503,Freesia,Monday,6:00,6:40
+English, VPE III 503,Freesia,Monday,6:40,7:20
+Mathematics, VPE III 503,Freesia,Monday,7:20,8:00
+Science, VPE III 503,Freesia,Monday,8:00,8:40
+Recess, VPE III 503,Freesia,Monday,8:40,9:20
+AP, VPE III 503,Freesia,Monday,9:20,9:50
+ValuesEducation, VPE III 503,Freesia,Monday,9:50,10:30
+TLE, VPE III 503,Freesia,Monday,10:30,11:10
+Mapeh, VPE III 503,Freesia,Monday,11:10,11:50
+ASYNC, VPE III 503,Freesia,Monday,12:30,12:55
+ASYNC, VPE III 503,Freesia,Monday,12:55,1:20
+Filipino, VPE II 502,Gardenia,Monday,6:00,6:40
+English, VPE II 502,Gardenia,Monday,6:40,7:20
+Mathematics, VPE II 502,Gardenia,Monday,7:20,8:00
+Science, VPE II 502,Gardenia,Monday,8:00,8:40
+Recess, VPE II 502,Gardenia,Monday,8:40,9:20
+AP, VPE II 502,Gardenia,Monday,9:20,9:50
+ValuesEducation, VPE II 502,Gardenia,Monday,9:50,10:30
+TLE, VPE II 502,Gardenia,Monday,10:30,11:10
+Mapeh, VPE II 502,Gardenia,Monday,11:10,11:50
+ASYNC, VPE II 502,Gardenia,Monday,12:30,12:55
+ASYNC, VPE II 502,Gardenia,Monday,12:55,1:20
+Filipino, BCE 401,Hibiscus,Monday,6:00,6:40
+English, BCE 401,Hibiscus,Monday,6:40,7:20
+Mathematics, BCE 401,Hibiscus,Monday,7:20,8:00
+Science, BCE 401,Hibiscus,Monday,8:00,8:40
+Recess, BCE 401,Hibiscus,Monday,8:40,9:20
+AP, BCE 401,Hibiscus,Monday,9:20,9:50
+ValuesEducation, BCE 401,Hibiscus,Monday,9:50,10:30
+TLE, BCE 401,Hibiscus,Monday,10:30,11:10
+Mapeh, BCE 401,Hibiscus,Monday,11:10,11:50
+ASYNC, BCE 401,Hibiscus,Monday,12:30,12:55
+ASYNC, BCE 401,Hibiscus,Monday,12:55,1:20
+Filipino, BCE 402,Iris,Monday,6:00,6:40
+English, BCE 402,Iris,Monday,6:40,7:20
+Mathematics, BCE 402,Iris,Monday,7:20,8:00
+Science, BCE 402,Iris,Monday,8:00,8:40
+Recess, BCE 402,Iris,Monday,8:40,9:20
+AP, BCE 402,Iris,Monday,9:20,9:50
+ValuesEducation, BCE 402,Iris,Monday,9:50,10:30
+TLE, BCE 402,Iris,Monday,10:30,11:10
+Mapeh, BCE 402,Iris,Monday,11:10,11:50
+ASYNC, BCE 402,Iris,Monday,12:30,12:55
+ASYNC, BCE 402,Iris,Monday,12:55,1:20
+Filipino, BCE 403,Jasmine,Monday,6:00,6:40
+English, BCE 403,Jasmine,Monday,6:40,7:20
+Mathematics, BCE 403,Jasmine,Monday,7:20,8:00
+Science, BCE 403,Jasmine,Monday,8:00,8:40
+Recess, BCE 403,Jasmine,Monday,8:40,9:20
+AP, BCE 403,Jasmine,Monday,9:20,9:50
+ValuesEducation, BCE 403,Jasmine,Monday,9:50,10:30
+TLE, BCE 403,Jasmine,Monday,10:30,11:10
+Mapeh, BCE 403,Jasmine,Monday,11:10,11:50
+NMP, BCE 403,Jasmine,Monday,11:50,12:30
+ASYNC, BCE 403,Jasmine,Monday,12:30,12:55
+ASYNC, BCE 403,Jasmine,Monday,12:55,1:20
+Filipino, VPE III 401,Kalmia,Monday,6:00,6:40
+English, VPE III 401,Kalmia,Monday,6:40,7:20
+Mathematics, VPE III 401,Kalmia,Monday,7:20,8:00
+Science, VPE III 401,Kalmia,Monday,8:00,8:40
+Recess, VPE III 401,Kalmia,Monday,8:40,9:20
+AP, VPE III 401,Kalmia,Monday,9:20,9:50
+ValuesEducation, VPE III 401,Kalmia,Monday,9:50,10:30
+TLE, VPE III 401,Kalmia,Monday,10:30,11:10
+Mapeh, VPE III 401,Kalmia,Monday,11:10,11:50
+ASYNC, VPE III 401,Kalmia,Monday,12:30,12:55
+ASYNC, VPE III 401,Kalmia,Monday,12:55,1:20
+Filipino, VPE III 402,Lavender,Monday,6:00,6:40
+English, VPE III 402,Lavender,Monday,6:40,7:20
+Mathematics, VPE III 402,Lavender,Monday,7:20,8:00
+Science, VPE III 402,Lavender,Monday,8:00,8:40
+Recess, VPE III 402,Lavender,Monday,8:40,9:20
+AP, VPE III 402,Lavender,Monday,9:20,9:50
+ValuesEducation, VPE III 402,Lavender,Monday,9:50,10:30
+TLE, VPE III 402,Lavender,Monday,10:30,11:10
+Mapeh, VPE III 402,Lavender,Monday,11:10,11:50
+ASYNC, VPE III 402,Lavender,Monday,12:30,12:55
+ASYNC, VPE III 402,Lavender,Monday,12:55,1:20
+Filipino, VPE III 403,Marigold,Monday,6:00,6:40
+English, VPE III 403,Marigold,Monday,6:40,7:20
+Mathematics, VPE III 403,Marigold,Monday,7:20,8:00
+Science, VPE III 403,Marigold,Monday,8:00,8:40
+Recess, VPE III 403,Marigold,Monday,8:40,9:20
+AP, VPE III 403,Marigold,Monday,9:20,9:50
+ValuesEducation, VPE III 403,Marigold,Monday,9:50,10:30
+TLE, VPE III 403,Marigold,Monday,10:30,11:10
+Mapeh, VPE III 403,Marigold,Monday,11:10,11:50
+ASYNC, VPE III 403,Marigold,Monday,12:30,12:55
+ASYNC, VPE III 403,Marigold,Monday,12:55,1:20
+Filipino, BCE 301,Narcissus,Monday,6:00,6:40
+English, BCE 301,Narcissus,Monday,6:40,7:20
+Mathematics, BCE 301,Narcissus,Monday,7:20,8:00
+Science, BCE 301,Narcissus,Monday,8:00,8:40
+Recess, BCE 301,Narcissus,Monday,8:40,9:20
+AP, BCE 301,Narcissus,Monday,9:20,9:50
+ValuesEducation, BCE 301,Narcissus,Monday,9:50,10:30
+TLE, BCE 301,Narcissus,Monday,10:30,11:10
+Mapeh, BCE 301,Narcissus,Monday,11:10,11:50
+ASYNC, BCE 301,Narcissus,Monday,12:30,12:55
+ASYNC, BCE 301,Narcissus,Monday,12:55,1:20
+Filipino, BCE 302,Orchid,Monday,6:00,6:40
+English, BCE 302,Orchid,Monday,6:40,7:20
+Mathematics, BCE 302,Orchid,Monday,7:20,8:00
+Science, BCE 302,Orchid,Monday,8:00,8:40
+Recess, BCE 302,Orchid,Monday,8:40,9:20
+AP, BCE 302,Orchid,Monday,9:20,9:50
+ValuesEducation, BCE 302,Orchid,Monday,9:50,10:30
+TLE, BCE 302,Orchid,Monday,10:30,11:10
+Mapeh, BCE 302,Orchid,Monday,11:10,11:50
+ASYNC, BCE 302,Orchid,Monday,12:30,12:55
+ASYNC, BCE 302,Orchid,Monday,12:55,1:20
+NMP, BCE 302,Orchid,Monday,11:50,12:30
+Filipino, BCE 303,Periwinkle,Monday,6:00,6:40
+English, BCE 303,Periwinkle,Monday,6:40,7:20
+Mathematics, BCE 303,Periwinkle,Monday,7:20,8:00
+Science, BCE 303,Periwinkle,Monday,8:00,8:40
+Recess, BCE 303,Periwinkle,Monday,8:40,9:20
+AP, BCE 303,Periwinkle,Monday,9:20,9:50
+ValuesEducation, BCE 303,Periwinkle,Monday,9:50,10:30
+TLE, BCE 303,Periwinkle,Monday,10:30,11:10
+Mapeh, BCE 303,Periwinkle,Monday,11:10,11:50
+ASYNC, BCE 303,Periwinkle,Monday,12:30,12:55
+ASYNC, BCE 303,Periwinkle,Monday,12:55,1:20
+Filipino, DEPED 101,Quesnelia,Monday,6:00,6:40
+English, DEPED 101,Quesnelia,Monday,6:40,7:20
+Mathematics, DEPED 101,Quesnelia,Monday,7:20,8:00
+Science, DEPED 101,Quesnelia,Monday,8:00,8:40
+Recess, DEPED 101,Quesnelia,Monday,8:40,9:20
+AP, DEPED 101,Quesnelia,Monday,9:20,9:50
+ValuesEducation, DEPED 101,Quesnelia,Monday,9:50,10:30
+TLE, DEPED 101,Quesnelia,Monday,10:30,11:10
+Mapeh, DEPED 101,Quesnelia,Monday,11:10,11:50
+ASYNC, DEPED 101,Quesnelia,Monday,12:30,12:55
+ASYNC, DEPED 101,Quesnelia,Monday,12:55,1:20
+Filipino, VPE I 302,Rose,Monday,6:00,6:40
+English, VPE I 302,Rose,Monday,6:40,7:20
+Mathematics, VPE I 302,Rose,Monday,7:20,8:00
+Science, VPE I 302,Rose,Monday,8:00,8:40
+Recess, VPE I 302,Rose,Monday,8:40,9:20
+AP, VPE I 302,Rose,Monday,9:20,9:50
+ValuesEducation, VPE I 302,Rose,Monday,9:50,10:30
+TLE, VPE I 302,Rose,Monday,10:30,11:10
+Mapeh, VPE I 302,Rose,Monday,11:10,11:50
+ASYNC, VPE I 302,Rose,Monday,12:30,12:55
+ASYNC, VPE I 302,Rose,Monday,12:55,1:20
+NMP, VPE I 302,Rose,Monday,11:50,12:30
+Filipino, BCE 501,Amiable,Monday,12:50,1:30
+English, BCE 501,Amiable,Monday,1:30,2:10
+Mathematics, BCE 501,Amiable,Monday,2:10,2:50
+Science,  BCE 501,Amiable,Monday,2:50,3:30
+Recess, BCE 501,Amiable,Monday,3:30,4:00
+AP, BCE 501,Amiable,Monday,4:00,4:40
+ValuesEducation, BCE 501,Amiable,Monday,4:40,5:20
+TLE, BCE 501,Amiable,Monday,5:20,6:00
+Mapeh, BCE 501,Amiable,Monday,6:00,6:40
+NMP, BCE 501,Amiable,Monday,6:40,7:20
+ASYNC, BCE 501,Amiable,Monday,7:20,7:45
+ASYNC, BCE 501,Amiable,Monday,7:45,8:10
+Filipino, BCE 502,Brilliance,Monday,12:50,1:30
+English, BCE 502,Brilliance,Monday,1:30,2:10
+Mathematics, BCE 502,Brilliance,Monday,2:10,2:50
+Science, BCE 502,Brilliance,Monday,2:50,3:30
+Recess, BCE 502,Brilliance,Monday,3:30,4:00
+AP, BCE 502,Brilliance,Monday,4:00,4:40
+ValuesEducation, BCE 502,Brilliance,Monday,4:40,5:20
+TLE, BCE 502,Brilliance,Monday,5:20,6:00
+Mapeh, BCE 502,Brilliance,Monday,6:00,6:40
+ASYNC, BCE 502,Brilliance,Monday,7:20,7:45
+ASYNC, BCE 502,Brilliance,Monday,7:45,8:10
+Filipino, BCE 503,Cheerful,Monday,12:50,1:30
+English, BCE 503,Cheerful,Monday,1:30,2:10
+Mathematics, BCE 503,Cheerful,Monday,2:10,2:50
+Science, BCE 503,Cheerful,Monday,2:50,3:30
+Recess, BCE 503,Cheerful,Monday,3:30,4:00
+AP, BCE 503,Cheerful,Monday,4:00,4:40
+ValuesEducation, BCE 503,Cheerful,Monday,4:40,5:20
+TLE, BCE 503,Cheerful,Monday,5:20,6:00
+Mapeh, BCE 503,Cheerful,Monday,6:00,6:40
+ASYNC, BCE 503,Cheerful,Monday,7:20,7:45
+ASYNC, BCE 503,Cheerful,Monday,7:45,8:10
+Filipino, VPE III 501,Diligence,Monday,12:50,1:30
+English, VPE III 501,Diligence,Monday,1:30,2:10
+Mathematics, VPE III 501,Diligence,Monday,2:10,2:50
+Science, VPE III 501,Diligence,Monday,2:50,3:30
+Recess, VPE III 501,Diligence,Monday,3:30,4:00
+AP, VPE III 501,Diligence,Monday,4:00,4:40
+ValuesEducation, VPE III 501,Diligence,Monday,4:40,5:20
+TLE, VPE III 501,Diligence,Monday,5:20,6:00
+Mapeh, VPE III 501,Diligence,Monday,6:00,6:40
+ASYNC, VPE III 501,Diligence,Monday,7:20,7:45
+ASYNC, VPE III 501,Diligence,Monday,7:45,8:10
+Filipino, VPE III 502,Excellence,Monday,12:50,1:30
+English, VPE III 502,Excellence,Monday,1:30,2:10
+Mathematics, VPE III 502,Excellence,Monday,2:10,2:50
+Science, VPE III 502,Excellence,Monday,2:50,3:30
+Recess, VPE III 502,Excellence,Monday,3:30,4:00
+AP, VPE III 502,Excellence,Monday,4:00,4:40
+ValuesEducation, VPE III 502,Excellence,Monday,4:40,5:20
+TLE, VPE III 502,Excellence,Monday,5:20,6:00
+Mapeh, VPE III 502,Excellence,Monday,6:00,6:40
+ASYNC, VPE III 502,Excellence,Monday,7:20,7:45
+ASYNC, VPE III 502,Excellence,Monday,7:45,8:10
+HGP, VPE III 502,Excellence,Monday,6:40,7:20
+Filipino, VPE III 503,Fortitude,Monday,12:50,1:30
+English, VPE III 503,Fortitude,Monday,1:30,2:10
+Mathematics, VPE III 503,Fortitude,Monday,2:10,2:50
+Science, VPE III 503,Fortitude,Monday,2:50,3:30
+Recess, VPE III 503,Fortitude,Monday,3:30,4:00
+AP, VPE III 503,Fortitude,Monday,4:00,4:40
+ValuesEducation, VPE III 503,Fortitude,Monday,4:40,5:20
+TLE, VPE III 503,Fortitude,Monday,5:20,6:00
+Mapeh, VPE III 503,Fortitude,Monday,6:00,6:40
+ASYNC, VPE III 503,Fortitude,Monday,7:20,7:45
+ASYNC, VPE III 503,Fortitude,Monday,7:45,8:10
+NMP, VPE III 503,Fortitude,Monday,6:40,7:20
+Filipino, BCE 401,Generous,Monday,12:50,1:30
+English, BCE 401,Generous,Monday,1:30,2:10
+Mathematics, BCE 401,Generous,Monday,2:10,2:50
+Science, BCE 401,Generous,Monday,2:50,3:30
+Recess, BCE 401,Generous,Monday,3:30,4:00
+AP, BCE 401,Generous,Monday,4:00,4:40
+ValuesEducation, BCE 401,Generous,Monday,4:40,5:20
+TLE, BCE 401,Generous,Monday,5:20,6:00
+Mapeh, BCE 401,Generous,Monday,6:00,6:40
+ASYNC, BCE 401,Generous,Monday,7:20,7:45
+ASYNC, BCE 401,Generous,Monday,7:45,8:10
+NMP, BCE 401,Generous,Monday,6:40,7:20
+Filipino, BCE 402,Humility,Monday,12:50,1:30
+English, BCE 402,Humility,Monday,1:30,2:10
+Mathematics, BCE 402,Humility,Monday,2:10,2:50
+Science, BCE 402,Humility,Monday,2:50,3:30
+Recess, BCE 402,Humility,Monday,3:30,4:00
+AP, BCE 402,Humility,Monday,4:00,4:40
+ValuesEducation, BCE 402,Humility,Monday,4:40,5:20
+TLE, BCE 402,Humility,Monday,5:20,6:00
+Mapeh, BCE 402,Humility,Monday,6:00,6:40
+ASYNC, BCE 402,Humility,Monday,7:20,7:45
+ASYNC, BCE 402,Humility,Monday,7:45,8:10
+Filipino, VPE III 401,Joyful,Monday,12:50,1:30
+English, VPE III 401,Joyful,Monday,1:30,2:10
+Mathematics, VPE III 401,Joyful,Monday,2:10,2:50
+Science, VPE III 401,Joyful,Monday,2:50,3:30
+Recess, VPE III 401,Joyful,Monday,3:30,4:00
+AP, VPE III 401,Joyful,Monday,4:00,4:40
+ValuesEducation, VPE III 401,Joyful,Monday,4:40,5:20
+TLE, VPE III 401,Joyful,Monday,5:20,6:00
+Mapeh, VPE III 401,Joyful,Monday,6:00,6:40
+ASYNC, VPE III 401,Joyful,Monday,7:20,7:45
+ASYNC, VPE III 401,Joyful,Monday,7:45,8:10
+Filipino, VPE III 402,Kindness,Monday,12:50,1:30
+English, VPE III 402,Kindness,Monday,1:30,2:10
+Mathematics, VPE III 402,Kindness,Monday,2:10,2:50
+Science, VPE III 402,Kindness,Monday,2:50,3:30
+Recess, VPE III 402,Kindness,Monday,3:30,4:00
+AP, VPE III 402,Kindness,Monday,4:00,4:40
+ValuesEducation, VPE III 402,Kindness,Monday,4:40,5:20
+TLE, VPE III 402,Kindness,Monday,5:20,6:00
+Mapeh, VPE III 402,Kindness,Monday,6:00,6:40
+ASYNC, VPE III 402,Kindness,Monday,7:20,7:45
+ASYNC, VPE III 402,Kindness,Monday,7:45,8:10
+Filipino, VPE III 403,Lovable,Monday,12:50,1:30
+English, VPE III 403,Lovable,Monday,1:30,2:10
+Mathematics, VPE III 403,Lovable,Monday,2:10,2:50
+Science, VPE III 403,Lovable,Monday,2:50,3:30
+Recess, VPE III 403,Lovable,Monday,3:30,4:00
+AP, VPE III 403,Lovable,Monday,4:00,4:40
+ValuesEducation, VPE III 403,Lovable,Monday,4:40,5:20
+TLE, VPE III 403,Lovable,Monday,5:20,6:00
+Mapeh, VPE III 403,Lovable,Monday,6:00,6:40
+ASYNC, VPE III 403,Lovable,Monday,7:20,7:45
+ASYNC, VPE III 403,Lovable,Monday,7:45,8:10
+Filipino, BCE 301,Magnificent,Monday,12:50,1:30
+English, BCE 301,Magnificent,Monday,1:30,2:10
+Mathematics, BCE 301,Magnificent,Monday,2:10,2:50
+Science, BCE 301,Magnificent,Monday,2:50,3:30
+Recess, BCE 301,Magnificent,Monday,3:30,4:00
+AP, BCE 301,Magnificent,Monday,4:00,4:40
+ValuesEducation, BCE 301,Magnificent,Monday,4:40,5:20
+TLE, BCE 301,Magnificent,Monday,5:20,6:00
+Mapeh, BCE 301,Magnificent,Monday,6:00,6:40
+ASYNC, BCE 301,Magnificent,Monday,7:20,7:45
+ASYNC, BCE 301,Magnificent,Monday,7:45,8:10
+Filipino, BCE 302,Noble,Monday,12:50,1:30
+English, BCE 302,Noble,Monday,1:30,2:10
+Mathematics, BCE 302,Noble,Monday,2:10,2:50
+Science, BCE 302,Noble,Monday,2:50,3:30
+Recess, BCE 302,Noble,Monday,3:30,4:00
+AP, BCE 302,Noble,Monday,4:00,4:40
+ValuesEducation, BCE 302,Noble,Monday,4:40,5:20
+TLE, BCE 302,Noble,Monday,5:20,6:00
+Mapeh, BCE 302,Noble,Monday,6:00,6:40
+ASYNC, BCE 302,Noble,Monday,7:20,7:45
+ASYNC, BCE 302,Noble,Monday,7:45,8:10
+HGP, BCE 302,Noble,Monday,6:40,7:20
+Filipino, BCE 302,Noble,Monday,12:50,1:30
+English, BCE 302,Noble,Monday,1:30,2:10
+Mathematics, BCE 302,Noble,Monday,2:10,2:50
+Science, BCE 302,Noble,Monday,2:50,3:30
+Recess, BCE 302,Noble,Monday,3:30,4:00
+AP, BCE 302,Noble,Monday,4:00,4:40
+ValuesEducation, BCE 302,Noble,Monday,4:40,5:20
+TLE, BCE 302,Noble,Monday,5:20,6:00
+Mapeh, BCE 302,Noble,Monday,6:00,6:40
+ASYNC, BCE 302,Noble,Monday,7:20,7:45
+ASYNC, BCE 302,Noble,Monday,7:45,8:10
+Mapeh, 4F SPED BLDG,Piety,Monday,6:00,6:40
+ValuesEducation, 4F SPED BLDG,Piety,Monday,6:40,7:20
+TLE, 4F SPED BLDG,Piety,Monday,7:20,8:00
+Mathematics, 4F SPED BLDG,Piety,Monday,8:00,8:40
+Recess, 4F SPED BLDG,Piety,Monday,8:40,9:10
+Filipino, 4F SPED BLDG,Piety,Monday,9:10,9:50
+English, 4F SPED BLDG,Piety,Thursday,9:50,10:30
+AP, 4F SPED BLDG,Piety,Monday,10:30,11:10
+Science, 4F SPED BLDG,Piety,Monday,11:10,11:50
+HGP, 4F SPED BLDG,Piety,Monday,11:50,12:30
+ASYNC, 4F SPED BLDG,Piety,Monday,12:30,12:55
+ASYNC, 4F SPED BLDG,Piety,Monday,12:55,1:20
+HGP, 4F SPED BLDG,Piety,Monday,6:40,7:20
+Mapeh, VPE I 302,Righteous,Monday,6:00,6:40
+ValuesEducation, VPE I 302,Righteous,Monday,6:40,7:20
+TLE, VPE I 302,Righteous,Monday,7:20,8:00
+Mathematics, VPE I 302,Righteous,Monday,8:00,8:40
+Recess, VPE I 302,Righteous,Monday,8:40,9:10
+Filipino, VPE I 302,Righteous,Monday,9:10,9:50
+English, VPE I 302,Righteous,Thursday,9:50,10:30
+AP, VPE I 302,Righteous,Monday,10:30,11:10
+Science, VPE I 302,Righteous,Monday,11:10,11:50
+ASYNC, VPE I 302,Righteous,Monday,12:30,12:55
+ASYNC, VPE I 302,Righteous,Monday,12:55,1:20
+TLE,401,Aurora,Monday,12:50,1:30
+Mapeh,401,Aurora,Monday,1:30,2:10
+ValuesEducation,401,Aurora,Monday,2:10,2:50
+AP,401,Aurora,Monday,2:50,3:30
+Science,401,Aurora,Monday,3:30,4:00
+Recess,401,Aurora,Monday,4:00,4:40
+Mathematics,401,Aurora,Monday,4:40,5:20
+English,401,Aurora,Monday,5:20,6:00
+Filipino,401,Aurora,Monday,6:00,6:40
+ASYNC,401,Aurora,Monday,7:20,7:45
+ASYNC,401,Aurora,Monday,7:45,8:10
+TLE,402,Batanes,Monday,12:50,1:30
+Mapeh,402,Batanes,Monday,1:30,2:10
+ValuesEducation,402,Batanes,Monday,2:10,2:50
+AP,402,Batanes,Monday,2:50,3:30
+Science,402,Batanes,Monday,3:30,4:00
+Recess,402,Batanes,Monday,4:00,4:40
+Mathematics,402,Batanes,Monday,4:40,5:20
+English,402,Batanes,Monday,5:20,6:00
+Filipino,402,Batanes,Monday,6:00,6:40
+ASYNC,402,Batanes,Monday,7:20,7:45
+ASYNC,402,Batanes,Monday,7:45,8:10
+TLE,403,Camiguin,Monday,12:50,1:30
+Mapeh,403,Camiguin,Monday,1:30,2:10
+ValuesEducation,403,Camiguin,Monday,2:10,2:50
+AP,403,Camiguin,Monday,2:50,3:30
+Science,403,Camiguin,Monday,3:30,4:00
+Recess,403,Camiguin,Monday,4:00,4:40
+Mathematics,403,Camiguin,Monday,4:40,5:20
+English,403,Camiguin,Monday,5:20,6:00
+Filipino,403,Camiguin,Monday,6:00,6:40
+ASYNC,403,Camiguin,Monday,7:20,7:45
+ASYNC,403,Camiguin,Monday,7:45,8:10
+TLE,301,Cebu,Monday,12:50,1:30
+Mapeh,301,Cebu,Monday,1:30,2:10
+ValuesEducation,301,Cebu,Monday,2:10,2:50
+AP,301,Cebu,Monday,2:50,3:30
+Science,301,Cebu,Monday,3:30,4:00
+Recess,301,Cebu,Monday,4:00,4:40
+Mathematics,301,Cebu,Monday,4:40,5:20
+English,301,Cebu,Monday,5:20,6:00
+Filipino,301,Cebu,Monday,6:00,6:40
+ASYNC,301,Cebu,Monday,7:20,7:45
+ASYNC,301,Cebu,Monday,7:45,8:10
+TLE,302,Davao,Monday,12:50,1:30
+Mapeh,302,Davao,Monday,1:30,2:10
+ValuesEducation,302,Davao,Monday,2:10,2:50
+AP,302,Davao,Monday,2:50,3:30
+Science,302,Davao,Monday,3:30,4:00
+Recess,302,Davao,Monday,4:00,4:40
+Mathematics,302,Davao,Monday,4:40,5:20
+English,302,Davao,Monday,5:20,6:00
+Filipino,302,Davao,Monday,6:00,6:40
+ASYNC,302,Davao,Monday,7:20,7:45
+ASYNC,302,Davao,Monday,7:45,8:10
+TLE,303,Gen. Santos,Monday,12:50,1:30
+Mapeh,303,Gen. Santos,Monday,1:30,2:10
+ValuesEducation,303,Gen. Santos,Monday,2:10,2:50
+AP,303,Gen. Santos,Monday,2:50,3:30
+Science,303,Gen. Santos,Monday,3:30,4:00
+Recess,303,Gen. Santos,Monday,4:00,4:40
+Mathematics,303,Gen. Santos,Monday,4:40,5:20
+English,303,Gen. Santos,Monday,5:20,6:00
+Filipino,303,Gen. Santos,Monday,6:00,6:40
+ASYNC,303,Gen. Santos,Monday,7:20,7:45
+ASYNC,303,Gen. Santos,Monday,7:45,8:10
+TLE, VPE III 301,Guimaras,Monday,12:50,1:30
+Mapeh, VPE III 301,Guimaras,Monday,1:30,2:10
+ValuesEducation, VPE III 301,Guimaras,Monday,2:10,2:50
+AP, VPE III 301,Guimaras,Monday,2:50,3:30
+Science, VPE III 301,Guimaras,Monday,3:30,4:00
+Recess, VPE III 301,Guimaras,Monday,4:00,4:40
+Mathematics, VPE III 301,Guimaras,Monday,4:40,5:20
+English, VPE III 301,Guimaras,Monday,5:20,6:00
+Filipino, VPE III 301,Guimaras,Monday,6:00,6:40
+ASYNC, VPE III 301,Guimaras,Monday,7:20,7:45
+ASYNC, VPE III 301,Guimaras,Monday,7:45,8:10
+TLE, VPE III 302,Ilocos,Monday,12:50,1:30
+Mapeh, VPE III 302,Ilocos,Monday,1:30,2:10
+ValuesEducation, VPE III 302,Ilocos,Monday,2:10,2:50
+AP, VPE III 302,Ilocos,Monday,2:50,3:30
+Science, VPE III 302,Ilocos,Monday,3:30,4:00
+Recess, VPE III 302,Ilocos,Monday,4:00,4:40
+Mathematics, VPE III 302,Ilocos,Monday,4:40,5:20
+English, VPE III 302,Ilocos,Monday,5:20,6:00
+Filipino, VPE III 302,Ilocos,Monday,6:00,6:40
+ASYNC, VPE III 302,Ilocos,Monday,7:20,7:45
+ASYNC, VPE III 302,Ilocos,Monday,7:45,8:10
+TLE, VPE I 301,Iloilo,Monday,12:50,1:30
+Mapeh, VPE I 301,Iloilo,Monday,1:30,2:10
+ValuesEducation, VPE I 301,Iloilo,Monday,2:10,2:50
+AP, VPE I 301,Iloilo,Monday,2:50,3:30
+Science, VPE I 301,Iloilo,Monday,3:30,4:00
+Recess, VPE I 301,Iloilo,Monday,4:00,4:40
+Mathematics, VPE I 301,Iloilo,Monday,4:40,5:20
+English, VPE I 301,Iloilo,Monday,5:20,6:00
+Filipino, VPE I 301,Iloilo,Monday,6:00,6:40
+ASYNC, VPE I 301,Iloilo,Monday,7:20,7:45
+ASYNC, VPE I 301,Iloilo,Monday,7:45,8:10
+TLE, VPE I 303,Kalinga,Monday,12:50,1:30
+Mapeh, VPE I 303,Kalinga,Monday,1:30,2:10
+ValuesEducation, VPE I 303,Kalinga,Monday,2:10,2:50
+AP, VPE I 303,Kalinga,Monday,2:50,3:30
+Science, VPE I 303,Kalinga,Monday,3:30,4:00
+Recess, VPE I 303,Kalinga,Monday,4:00,4:40
+Mathematics, VPE I 303,Kalinga,Monday,4:40,5:20
+English, VPE I 303,Kalinga,Monday,5:20,6:00
+Filipino, VPE I 303,Kalinga,Monday,6:00,6:40
+ASYNC, VPE I 303,Kalinga,Monday,7:20,7:45
+ASYNC, VPE I 303,Kalinga,Monday,7:45,8:10
+TLE, VPE I 304,Laguna,Monday,12:50,1:30
+Mapeh, VPE I 304,Laguna,Monday,1:30,2:10
+ValuesEducation, VPE I 304,Laguna,Monday,2:10,2:50
+AP, VPE I 304,Laguna,Monday,2:50,3:30
+Science, VPE I 304,Laguna,Monday,3:30,4:00
+Recess, VPE I 304,Laguna,Monday,4:00,4:40
+Mathematics, VPE I 304,Laguna,Monday,4:40,5:20
+English, VPE I 304,Laguna,Monday,5:20,6:00
+Filipino, VPE I 304,Laguna,Monday,6:00,6:40
+ASYNC, VPE I 304,Laguna,Monday,7:20,7:45
+ASYNC, VPE I 304,Laguna,Monday,7:45,8:10
+TLE, DEPED 301,Masbate,Monday,12:50,1:30
+Mapeh, DEPED 301,Masbate,Monday,1:30,2:10
+ValuesEducation, DEPED 301,Masbate,Monday,2:10,2:50
+AP, DEPED 301,Masbate,Monday,2:50,3:30
+Science, DEPED 301,Masbate,Monday,3:30,4:00
+Recess, DEPED 301,Masbate,Monday,4:00,4:40
+Mathematics, DEPED 301,Masbate,Monday,4:40,5:20
+English, DEPED 301,Masbate,Monday,5:20,6:00
+Filipino, DEPED 301,Masbate,Monday,6:00,6:40
+ASYNC, DEPED 301,Masbate,Monday,7:20,7:45
+ASYNC, DEPED 301,Masbate,Monday,7:45,8:10
+TLE, DEPED 302,Pasig,Monday,12:50,1:30
+Mapeh, DEPED 302,Pasig,Monday,1:30,2:10
+ValuesEducation, DEPED 302,Pasig,Monday,2:10,2:50
+AP, DEPED 302,Pasig,Monday,2:50,3:30
+Science, DEPED 302,Pasig,Monday,3:30,4:00
+Recess, DEPED 302,Pasig,Monday,4:00,4:40
+Mathematics, DEPED 302,Pasig,Monday,4:40,5:20
+English, DEPED 302,Pasig,Monday,5:20,6:00
+Filipino, DEPED 302,Pasig,Monday,6:00,6:40
+ASYNC, DEPED 302,Pasig,Monday,7:20,7:45
+ASYNC, DEPED 302,Pasig,Monday,7:45,8:10
+TLE, DEPED 303,Romblon,Monday,12:50,1:30
+Mapeh, DEPED 303,Romblon,Monday,1:30,2:10
+ValuesEducation, DEPED 303,Romblon,Monday,2:10,2:50
+AP, DEPED 303,Romblon,Monday,2:50,3:30
+Science, DEPED 303,Romblon,Monday,3:30,4:00
+Recess, DEPED 303,Romblon,Monday,4:00,4:40
+Mathematics, DEPED 303,Romblon,Monday,4:40,5:20
+English, DEPED 303,Romblon,Monday,5:20,6:00
+Filipino, DEPED 303,Romblon,Monday,6:00,6:40
+ASYNC, DEPED 303,Romblon,Monday,7:20,7:45
+ASYNC, DEPED 303,Romblon,Monday,7:45,8:10
+TLE, DEPED 201,Samar,Monday,12:50,1:30
+Mapeh, DEPED 201,Samar,Monday,1:30,2:10
+ValuesEducation, DEPED 201,Samar,Monday,2:10,2:50
+AP, DEPED 201,Samar,Monday,2:50,3:30
+Science, DEPED 201,Samar,Monday,3:30,4:00
+Recess, DEPED 201,Samar,Monday,4:00,4:40
+Mathematics, DEPED 201,Samar,Monday,4:40,5:20
+English, DEPED 201,Samar,Monday,5:20,6:00
+Filipino, DEPED 201,Samar,Monday,6:00,6:40
+ASYNC, DEPED 201,Samar,Monday,7:20,7:45
+ASYNC, DEPED 201,Samar,Monday,7:45,8:10
+TLE, DEPED 202,Surigao,Monday,12:50,1:30
+Mapeh, DEPED 202,Surigao,Monday,1:30,2:10
+ValuesEducation, DEPED 202,Surigao,Monday,2:10,2:50
+AP, DEPED 202,Surigao,Monday,2:50,3:30
+Science, DEPED 202,Surigao,Monday,3:30,4:00
+Recess, DEPED 202,Surigao,Monday,4:00,4:40
+Mathematics, DEPED 202,Surigao,Monday,4:40,5:20
+English, DEPED 202,Surigao,Monday,5:20,6:00
+Filipino, DEPED 202,Surigao,Monday,6:00,6:40
+ASYNC, DEPED 202,Surigao,Monday,7:20,7:45
+ASYNC, DEPED 202,Surigao,Monday,7:45,8:10
+TLE, DEPED 103,Tawi-Tawi,Monday,6:00,6:40
+Mapeh, DEPED 103,Tawi-Tawi,Monday,6:40,7:20
+ValuesEducation, DEPED 103,Tawi-Tawi,Monday,7:20,8:00
+AP, DEPED 103,Tawi-Tawi,Monday,8:00,8:40
+Science, DEPED 103,Tawi-Tawi,Monday,8:40,9:10
+Recess, DEPED 103,Tawi-Tawi,Monday,9:10,9:50
+Mathematics, DEPED 103,Tawi-Tawi,Thursday,9:50,10:30
+English, DEPED 103,Tawi-Tawi,Monday,10:30,11:10
+Filipino, DEPED 103,Tawi-Tawi,Monday,11:10,11:50
+NMP, DEPED 103,Tawi-Tawi,Monday,11:50,12:30
+ASYNC, DEPED 103,Tawi-Tawi,Monday,12:30,12:55
+ASYNC, DEPED 103,Tawi-Tawi,Monday,12:55,1:20
+TLE, VPE I 302,Zamboanga,Monday,6:00,6:40
+Mapeh, VPE I 302,Zamboanga,Monday,6:40,7:20
+ValuesEducation, VPE I 302,Zamboanga,Monday,7:20,8:00
+AP, VPE I 302,Zamboanga,Monday,8:00,8:40
+Science, VPE I 302,Zamboanga,Monday,8:40,9:10
+Recess, VPE I 302,Zamboanga,Monday,9:10,9:50
+Mathematics, VPE I 302,Zamboanga,Thursday,9:50,10:30
+English, VPE I 302,Zamboanga,Monday,10:30,11:10
+Filipino, VPE I 302,Zamboanga,Monday,11:10,11:50
+NMP, VPE I 302,Zamboanga,Monday,11:50,12:30
+ASYNC, VPE I 302,Zamboanga,Monday,12:30,12:55
+ASYNC, VPE I 302,Zamboanga,Monday,12:55,1:20
+TLE,401,Argon,Tuesday,6:00,6:40
+Mapeh,401,Argon,Tuesday,6:40,7:20
+Values Education,401,Argon,Tuesday,7:20,8:00
+AP,401,Argon,Tuesday,8:00,8:40
+Science,401,Argon,Tuesday,8:40,9:20
+Recess,401,Argon,Tuesday,9:20,9:50
+Mathematics,401,Argon,Thursday,9:50,10:30
+English,401,Argon,Tuesday,10:30,11:10
+Filipino,401,Argon,Tuesday,11:10,11:50
+NMP,401,Argon,Tuesday,11:50,12:30
+ASYNC,401,Argon,Tuesday,12:30,12:55
+ASYNC,401,Argon,Tuesday,12:55,1:20
+Values Education,403,Barium,Tuesday,6:00,6:40
+TLE,402,Barium,Tuesday,6:40,7:20
+AP,402,Barium,Tuesday,7:20,8:00
+Science,402,Barium,Tuesday,8:00,8:40
+Mathematics,402,Barium,Tuesday,8:40,9:20
+Recess,402,Barium,Tuesday,9:20,9:50
+English,402,Barium,Tuesday,9:50,10:30
+Filipino,402,Barium,Tuesday,10:30,11:10
+Mapeh,402,Barium,Tuesday,11:10,11:50
+ASYNC,402,Barium,Tuesday,12:30,12:55
+ASYNC,402,Barium,Tuesday,12:55,1:20
+NMP,302,Europium,Tuesday,11:50,12:30
+HGP, VPEI 301,Iron,Tuesday,11:50,12:30
+NMP, VPEI 303,Keypton,Tuesday,11:50,12:30
+HGP, DEPED 303,Oxygen,Tuesday,11:50,12:30
+NMP, DEPED 203,Silver,Tuesday,11:50,12:30
+AP,403,Copper,Tuesday,6:00,6:40
+Science,403,Copper,Tuesday,6:40,7:20
+TLE,403,Copper,Tuesday,7:20,8:00
+Mathematics,403,Copper,Tuesday,8:00,8:40
+English,403,Copper,Tuesday,8:40,9:20
+Recess,403,Copper,Tuesday,9:20,9:50
+Filipino,403,Copper,Tuesday,9:50,10:30
+Mapeh,401,Copper,Tuesday,10:30,11:10
+Values Education,403,Copper,Tuesday,11:10,11:50
+ASYNC,403,Copper,Tuesday,12:30,12:55
+ASYNC,403,Copper,Tuesday,12:55,1:20
+Science,403,Copper,Tuesday,6:00,6:40
+Mathematics,403,Copper,Tuesday,6:40,7:20
+English,403,Copper,Tuesday,7:20,8:00
+TLE,403,Copper,Tuesday,8:00,8:40
+Filipino,403,Copper,Tuesday,8:40,9:20
+Recess,403,Copper,Tuesday,9:20,9:50
+Mapeh,403,Copper,Tuesday,9:50,10:30
+Values Education,401,Copper,Tuesday,10:30,11:10
+AP,403,Copper,Tuesday,11:10,11:50
+ASYNC,403,Copper,Tuesday,12:30,12:55
+ASYNC,403,Copper,Tuesday,12:55,1:20
+Science,301,Dubnium,Tuesday,6:00,6:40
+Mathematics,301,Dubnium,Tuesday,6:40,7:20
+English,301,Dubnium,Tuesday,7:20,8:00
+TLE,301,Dubnium,Tuesday,8:00,8:40
+Filipino,301,Dubnium,Tuesday,8:40,9:20
+Recess,301,Dubnium,Tuesday,9:20,9:50
+Mapeh,301,Dubnium,Tuesday,9:50,10:30
+Values Education,301,Dubnium,Tuesday,10:30,11:10
+AP,301,Dubnium,Tuesday,11:10,11:50
+ASYNC,301,Dubnium,Tuesday,12:30,12:55
+ASYNC,301,Dubnium,Tuesday,12:55,1:20
+Mathematics,302,Europium,Tuesday,6:00,6:40
+English,302,Europium,Tuesday,6:40,7:20
+Filipino,302,Europium,Tuesday,7:20,8:00
+Mapeh,302,Europium,Tuesday,8:00,8:40
+TLE,302,Europium,Tuesday,8:40,9:20
+Recess,302,Europium,Tuesday,9:20,9:50
+Values Education,302,Europium,Tuesday,9:50,10:30
+AP,302,Europium,Tuesday,10:30,11:10
+Science,302,Europium,Tuesday,11:10,11:50
+ASYNC,302,Europium,Tuesday,12:30,12:55
+ASYNC,302,Europium,Tuesday,12:55,1:20
+English,303,Flourine,Tuesday,6:00,6:40
+Filipino,303,Flourine,Tuesday,6:40,7:20
+Mapeh,303,Flourine,Tuesday,7:20,8:00
+Values Education,303,Flourine,Tuesday,8:00,8:40
+AP,303,Flourine,Tuesday,8:40,9:20
+Recess,303,Flourine,Tuesday,9:20,9:50
+TLE,303,Flourine,Tuesday,9:50,10:30
+Science,303,Flourine,Tuesday,10:30,11:10
+Mathematics,303,Flourine,Tuesday,11:10,11:50
+ASYNC,303,Flourine,Tuesday,12:30,12:55
+ASYNC,303,Flourine,Tuesday,12:55,1:20
+Filipino, VPEIII 301,Gold,Tuesday,6:00,6:40
+Mapeh, VPEIII 301,Gold,Tuesday,6:40,7:20
+Values Education,302,Gold,Tuesday,7:20,8:00
+AP,302,Gold,Tuesday,8:00,8:40
+Science,302,Gold,Tuesday,8:40,9:20
+Recess,302,Gold,Tuesday,9:20,9:50
+Mathematics,302,Gold,Tuesday,9:50,10:30
+TLE,302,Gold,Tuesday,10:30,11:10
+English,302,Gold,Tuesday,11:10,11:50
+ASYNC,302,Gold,Tuesday,12:30,12:55
+ASYNC,302,Gold,Tuesday,12:55,1:20
+Mapeh, VPEIII 302,Hydrogen,Tuesday,6:00,6:40
+Values Education, VPEIII 302,Hydrogen,Tuesday,6:40,7:20
+AP, VPEIII 302,Hydrogen,Tuesday,7:20,8:00
+Science, VPEIII 302,Hydrogen,Tuesday,8:00,8:40
+Mathematics, VPEIII 302,Hydrogen,Tuesday,8:40,9:20
+Recess, VPEIII 302,Hydrogen,Tuesday,9:20,9:50
+English, VPEIII 302,Hydrogen,Tuesday,9:50,10:30
+Filipino, VPEIII 302,Hydrogen,Tuesday,10:30,11:10
+TLE, VPEIII 302,Hydrogen,Tuesday,11:10,11:50
+ASYNC, VPEIII 302,Hydrogen,Tuesday,12:30,12:55
+ASYNC, VPEIII 302,Hydrogen,Tuesday,12:55,1:20
+Values Education, VPEI 301,Iron,Tuesday,6:00,6:40
+AP, VPEI 301,Iron,Tuesday,6:40,7:20
+Science, VPEI 301,Iron,Tuesday,7:20,8:00
+Mathematics, VPEI 301,Iron,Tuesday,8:00,8:40
+Recess, VPEI 301,Iron,Tuesday,8:40,9:20
+Filipino, VPEI 301,Iron,Tuesday,9:20,9:50
+Mapeh, VPEI 301,Iron,Tuesday,10:30,11:10
+TLE, VPEI 301,Iron,Tuesday,11:10,11:50
+ASYNC, VPEI 301,Iron,Tuesday,12:30,12:55
+ASYNC, VPEI 301,Iron,Tuesday,12:55,1:20
+TLE, VPEI 303,Krypton,Tuesday,6:00,6:40
+Science, VPEI 303,Krypton,Tuesday,6:40,7:20
+Filipino, VPEI 303,Krypton,Tuesday,7:20,8:00
+Mathematics, VPEI 303,Krypton,Tuesday,8:00,8:40
+English, VPEI 303,Krypton,Tuesday,8:40,9:20
+Recess, VPEI 303,Krypton,Tuesday,9:20,9:50
+Mapeh, VPEI 303,Krypton,Tuesday,9:50,10:30
+Values Education, VPEI 303,Krypton,Tuesday,10:30,11:10
+AP, VPEI 303,Krypton,Tuesday,11:10,11:50
+ASYNC, VPEI 303,Krypton,Tuesday,12:30,12:55
+ASYNC, VPEI 303,Krypton,Tuesday,12:55,1:20
+TLE, VPEI 304,Lithium,Tuesday,6:00,6:40
+Science, VPEI 304,Lithium,Tuesday,6:40,7:20
+Filipino, VPEI 304,Lithium,Tuesday,7:20,8:00
+Mathematics, VPEI 304,Lithium,Tuesday,8:00,8:40
+English, VPEI 304,Lithium,Tuesday,8:40,9:20
+Recess, VPEI 304,Lithium,Tuesday,9:20,9:50
+Mapeh, VPEI 304,Lithium,Tuesday,9:50,10:30
+Values Education, VPEI 304,Lithium,Tuesday,10:30,11:10
+AP, VPEI 304,Lithium,Tuesday,11:10,11:50
+ASYNC, VPEI 304,Lithium,Tuesday,12:30,12:55
+ASYNC, VPEI 304,Lithium,Tuesday,12:55,1:20
+TLE, DEPED 301,Magnesium,Tuesday,6:00,6:40
+Science, DEPED 301,Magnesium,Tuesday,6:40,7:20
+Filipino, DEPED 301,Magnesium,Tuesday,7:20,8:00
+Mathematics, DEPED 301,Magnesium,Tuesday,8:00,8:40
+English, DEPED 301,Magnesium,Tuesday,8:40,9:20
+Recess, DEPED 301,Magnesium,Tuesday,9:20,9:50
+Mapeh, DEPED 301,Magnesium,Tuesday,9:50,10:30
+Values Education, DEPED 301,Magnesium,Tuesday,10:30,11:10
+AP, DEPED 301,Magnesium,Tuesday,11:10,11:50
+ASYNC, DEPED 301,Magnesium,Tuesday,12:30,12:55
+ASYNC, DEPED 301,Magnesium,Tuesday,12:55,1:20
+TLE, DEPED 302,Neon,Tuesday,6:00,6:40
+Science, DEPED 302,Neon,Tuesday,6:40,7:20
+Filipino, DEPED 302,Neon,Tuesday,7:20,8:00
+Mathematics, DEPED 302,Neon,Tuesday,8:00,8:40
+English, DEPED 302,Neon,Tuesday,8:40,9:20
+Recess, DEPED 302,Neon,Tuesday,9:20,9:50
+Mapeh, DEPED 302,Neon,Tuesday,9:50,10:30
+Values Education, DEPED 302,Neon,Tuesday,10:30,11:10
+AP, DEPED 302,Neon,Tuesday,11:10,11:50
+ASYNC, DEPED 302,Neon,Tuesday,12:30,12:55
+ASYNC, DEPED 302,Neon,Tuesday,12:55,1:20
+TLE, DEPED 303,Oxygen,Tuesday,6:00,6:40
+Science, DEPED 303,Oxygen,Tuesday,6:40,7:20
+Filipino, DEPED 303,Oxygen,Tuesday,7:20,8:00
+Mathematics, DEPED 303,Oxygen,Tuesday,8:00,8:40
+English, DEPED 303,Oxygen,Tuesday,8:40,9:20
+Recess, DEPED 303,Oxygen,Tuesday,9:20,9:50
+Mapeh, DEPED 303,Oxygen,Tuesday,9:50,10:30
+Values Education, DEPED 303,Oxygen,Tuesday,10:30,11:10
+AP, DEPED 303,Oxygen,Tuesday,11:10,11:50
+ASYNC, DEPED 303,Oxygen,Tuesday,12:30,12:55
+ASYNC, DEPED 303,Oxygen,Tuesday,12:55,1:20
+TLE, DEPED 201,Platinum,Tuesday,6:00,6:40
+Science, DEPED 201,Platinum,Tuesday,6:40,7:20
+Filipino, DEPED 201,Platinum,Tuesday,7:20,8:00
+Mathematics, DEPED 201,Platinum,Tuesday,8:00,8:40
+English, DEPED 201,Platinum,Tuesday,8:40,9:20
+Recess, DEPED 201,Platinum,Tuesday,9:20,9:50
+Mapeh, DEPED 201,Platinum,Tuesday,9:50,10:30
+Values Education, DEPED 201,Platinum,Tuesday,10:30,11:10
+AP, DEPED 201,Platinum,Tuesday,11:10,11:50
+ASYNC, DEPED 201,Platinum,Tuesday,12:30,12:55
+ASYNC, DEPED 201,Platinum,Tuesday,12:55,1:20
+TLE, DEPED 202,Radium,Tuesday,6:00,6:40
+Science, DEPED 202,Radium,Tuesday,6:40,7:20
+Filipino, DEPED 202,Radium,Tuesday,7:20,8:00
+Mathematics, DEPED 202,Radium,Tuesday,8:00,8:40
+English, DEPED 202,Radium,Tuesday,8:40,9:20
+Recess, DEPED 202,Radium,Tuesday,9:20,9:50
+Mapeh, DEPED 202,Radium,Tuesday,9:50,10:30
+Values Education, DEPED 202,Radium,Tuesday,10:30,11:10
+AP, DEPED 202,Radium,Tuesday,11:10,11:50
+ASYNC, DEPED 202,Radium,Tuesday,12:30,12:55
+ASYNC, DEPED 202,Radium,Tuesday,12:55,1:20
+TLE, DEPED 203,Silver,Tuesday,6:00,6:40
+Science, DEPED 203,Silver,Tuesday,6:40,7:20
+Filipino, DEPED 203,Silver,Tuesday,7:20,8:00
+Mathematics, DEPED 203,Silver,Tuesday,8:00,8:40
+English, DEPED 203,Silver,Tuesday,8:40,9:20
+Recess, DEPED 203,Silver,Tuesday,9:20,9:50
+Mapeh, DEPED 203,Silver,Tuesday,9:50,10:30
+Values Education, DEPED 203,Silver,Tuesday,10:30,11:10
+AP, DEPED 203,Silver,Tuesday,11:10,11:50
+ASYNC, DEPED 203,Silver,Tuesday,12:30,12:55
+ASYNC, DEPED 203,Silver,Tuesday,12:55,1:20
+TLE, SPED BLDG,Titanium,Tuesday,6:00,6:40
+Science, SPED BLDG,Titanium,Tuesday,6:40,7:20
+Filipino, SPED BLDG,Titanium,Tuesday,7:20,8:00
+Mathematics, SPED BLDG,Titanium,Tuesday,8:00,8:40
+English, SPED BLDG,Titanium,Tuesday,8:40,9:20
+Recess, SPED BLDG,Titanium,Tuesday,9:20,9:50
+Mapeh, SPED BLDG,Titanium,Tuesday,9:50,10:30
+Values Education, SPED BLDG,Titanium,Tuesday,10:30,11:10
+AP, SPED BLDG,Titanium,Tuesday,11:10,11:50
+ASYNC, SPED BLDG,Titanium,Tuesday,12:30,12:55
+ASYNC, SPED BLDG,Titanium,Tuesday,12:55,1:20
+Mapeh,  VPEI 302, Uranium, Tuesday, 6:00 - 6:40,
+Values Education,  VPEI 302, Uranium, Tuesday, 6:40 - 7:20,
+AP,  VPEI 302, Uranium, Tuesday, 7:20 - 8:00,
+Science,  VPEI 302, Uranium, Tuesday, 8:00 - 8:40,
+Mathematics,  VPEI 302, Uranium, Tuesday, 8:40 - 9:20,
+Recess,  VPEI 302, Uranium, Tuesday, 9:20 - 9:50,
+English,  VPEI 302, Uranium, Tuesday, 9:50 - 10:30,
+Filipino,  VPEI 302, Uranium, Tuesday, 10:30 - 11:10,
+TLE,  VPEI 302, Uranium, Tuesday, 11:10 - 11:50,
+ASYNC,  VPEI 302, Uranium, Tuesday, 12:30 - 12:55,
+ASYNC,  VPEI 302, Uranium, Tuesday, 12:55 - 1:20,
+NMP,  BCE 501, Anthurium, Tuesday, 11:50 - 12:30,
+HGP,  VPEIII 502, Euphoria, Tuesday, 11:50 - 12:30,
+NMP,  VPEII 502, Gardenia, Tuesday, 11:50 - 12:30,
+Filipino,  BCE 501, Anthurium, Tuesday, 6:00 - 6:40,
+English,  BCE 501, Anthurium, Tuesday, 6:40 - 7:20,
+Mathematics,  BCE 501, Anthurium, Tuesday, 7:20 - 8:00,
+Science,  BCE 501, Anthurium, Tuesday, 8:00 - 8:40,
+Recess,  BCE 501, Anthurium, Tuesday, 8:40 - 9:20,
+AP,  BCE 501, Anthurium, Tuesday, 9:20 - 9:50,
+Values Education,  BCE 501, Anthurium, Tuesday, 9:50 - 10:30,
+TLE,  BCE 501, Anthurium, Tuesday, 10:30 - 11:10,
+Mapeh,  BCE 50, Anthurium, Tuesday, 11:10 - 11:50,
+ASYNC,  BCE 501, Anthurium, Tuesday, 12:30 - 12:55,
+ASYNC,  BCE 501, Anthurium, Tuesday, 12:55 - 1:20,
+Filipino, BCE 502,Buttercup,Tuesday,6:00,6:40
+English, BCE 502,Buttercup,Tuesday,6:40,7:20
+Mathematics, BCE 502,Buttercup,Tuesday,7:20,8:00
+Science, BCE 502,Buttercup,Tuesday,8:00,8:40
+Recess, BCE 502,Buttercup,Tuesday,8:40,9:20
+AP, BCE 502,Buttercup,Tuesday,9:20,9:50
+Values Education, BCE 502,Buttercup,Tuesday,9:50,10:30
+TLE, BCE 502,Buttercup,Tuesday,10:30,11:10
+Mapeh, BCE 502,Buttercup,Tuesday,11:10,11:50
+ASYNC, BCE 502,Buttercup,Tuesday,12:30,12:55
+ASYNC, BCE 502,Buttercup,Tuesday,12:55,1:20
+Filipino, BCE 503,Carnation,Tuesday,6:00,6:40
+English, BCE 503,Carnation,Tuesday,6:40,7:20
+Mathematics, BCE 503,Carnation,Tuesday,7:20,8:00
+Science, BCE 503,Carnation,Tuesday,8:00,8:40
+Recess, BCE 503,Carnation,Tuesday,8:40,9:20
+AP, BCE 503,Carnation,Tuesday,9:20,9:50
+ValuesEducation, BCE 503,Carnation,Tuesday,9:50,10:30
+TLE, BCE 503,Carnation,Tuesday,10:30,11:10
+Mapeh, BCE 503,Carnation,Tuesday,11:10,11:50
+ASYNC, BCE 503,Carnation,Tuesday,12:30,12:55
+ASYNC, BCE 503,Carnation,Tuesday,12:55,1:20
+Filipino, VPE III 501,Daffodil,Tuesday,6:00,6:40
+English, VPE III 501,Daffodil,Tuesday,6:40,7:20
+Mathematics, VPE III 501,Daffodil,Tuesday,7:20,8:00
+Science, VPE III 501,Daffodil,Tuesday,8:00,8:40
+Recess, VPE III 501,Daffodil,Tuesday,8:40,9:20
+AP, VPE III 501,Daffodil,Tuesday,9:20,9:50
+ValuesEducation, VPE III 501,Daffodil,Tuesday,9:50,10:30
+TLE, VPE III 501,Daffodil,Tuesday,10:30,11:10
+Mapeh, VPE III 501,Daffodil,Tuesday,11:10,11:50
+ASYNC, VPE III 501,Daffodil,Tuesday,12:30,12:55
+ASYNC, VPE III 501,Daffodil,Tuesday,12:55,1:20
+Filipino, VPE III 502,Euphoria,Tuesday,6:00,6:40
+English, VPE III 502,Euphoria,Tuesday,6:40,7:20
+Mathematics, VPE III 502,Euphoria,Tuesday,7:20,8:00
+Science, VPE III 502,Euphoria,Tuesday,8:00,8:40
+Recess, VPE III 502,Euphoria,Tuesday,8:40,9:20
+AP, VPE III 502,Euphoria,Tuesday,9:20,9:50
+ValuesEducation, VPE III 502,Euphoria,Tuesday,9:50,10:30
+TLE, VPE III 502,Euphoria,Tuesday,10:30,11:10
+Mapeh, VPE III 502,Euphoria,Tuesday,11:10,11:50
+ASYNC, VPE III 502,Euphoria,Tuesday,12:30,12:55
+ASYNC, VPE III 502,Euphoria,Tuesday,12:55,1:20
+Filipino, VPE III 503,Freesia,Tuesday,6:00,6:40
+English, VPE III 503,Freesia,Tuesday,6:40,7:20
+Mathematics, VPE III 503,Freesia,Tuesday,7:20,8:00
+Science, VPE III 503,Freesia,Tuesday,8:00,8:40
+Recess, VPE III 503,Freesia,Tuesday,8:40,9:20
+AP, VPE III 503,Freesia,Tuesday,9:20,9:50
+ValuesEducation, VPE III 503,Freesia,Tuesday,9:50,10:30
+TLE, VPE III 503,Freesia,Tuesday,10:30,11:10
+Mapeh, VPE III 503,Freesia,Tuesday,11:10,11:50
+ASYNC, VPE III 503,Freesia,Tuesday,12:30,12:55
+ASYNC, VPE III 503,Freesia,Tuesday,12:55,1:20
+Filipino, VPE II 502,Gardenia,Tuesday,6:00,6:40
+English, VPE II 502,Gardenia,Tuesday,6:40,7:20
+Mathematics, VPE II 502,Gardenia,Tuesday,7:20,8:00
+Science, VPE II 502,Gardenia,Tuesday,8:00,8:40
+Recess, VPE II 502,Gardenia,Tuesday,8:40,9:20
+AP, VPE II 502,Gardenia,Tuesday,9:20,9:50
+ValuesEducation, VPE II 502,Gardenia,Tuesday,9:50,10:30
+TLE, VPE II 502,Gardenia,Tuesday,10:30,11:10
+Mapeh, VPE II 502,Gardenia,Tuesday,11:10,11:50
+ASYNC, VPE II 502,Gardenia,Tuesday,12:30,12:55
+ASYNC, VPE II 502,Gardenia,Tuesday,12:55,1:20
+Filipino, BCE 401,Hibiscus,Tuesday,6:00,6:40
+English, BCE 401,Hibiscus,Tuesday,6:40,7:20
+Mathematics, BCE 401,Hibiscus,Tuesday,7:20,8:00
+Science, BCE 401,Hibiscus,Tuesday,8:00,8:40
+Recess, BCE 401,Hibiscus,Tuesday,8:40,9:20
+AP, BCE 401,Hibiscus,Tuesday,9:20,9:50
+ValuesEducation, BCE 401,Hibiscus,Tuesday,9:50,10:30
+TLE, BCE 401,Hibiscus,Tuesday,10:30,11:10
+Mapeh, BCE 401,Hibiscus,Tuesday,11:10,11:50
+ASYNC, BCE 401,Hibiscus,Tuesday,12:30,12:55
+ASYNC, BCE 401,Hibiscus,Tuesday,12:55,1:20
+Filipino, BCE 402,Iris,Tuesday,6:00,6:40
+English, BCE 402,Iris,Tuesday,6:40,7:20
+Mathematics, BCE 402,Iris,Tuesday,7:20,8:00
+Science, BCE 402,Iris,Tuesday,8:00,8:40
+Recess, BCE 402,Iris,Tuesday,8:40,9:20
+AP, BCE 402,Iris,Tuesday,9:20,9:50
+ValuesEducation, BCE 402,Iris,Tuesday,9:50,10:30
+TLE, BCE 402,Iris,Tuesday,10:30,11:10
+Mapeh, BCE 402,Iris,Tuesday,11:10,11:50
+ASYNC, BCE 402,Iris,Tuesday,12:30,12:55
+ASYNC, BCE 402,Iris,Tuesday,12:55,1:20
+Filipino, BCE 403,Jasmine,Tuesday,6:00,6:40
+English, BCE 403,Jasmine,Tuesday,6:40,7:20
+Mathematics, BCE 403,Jasmine,Tuesday,7:20,8:00
+Science, BCE 403,Jasmine,Tuesday,8:00,8:40
+Recess, BCE 403,Jasmine,Tuesday,8:40,9:20
+AP, BCE 403,Jasmine,Tuesday,9:20,9:50
+ValuesEducation, BCE 403,Jasmine,Tuesday,9:50,10:30
+TLE, BCE 403,Jasmine,Tuesday,10:30,11:10
+Mapeh, BCE 403,Jasmine,Tuesday,11:10,11:50
+NMP, BCE 403,Jasmine,Tuesday,11:50,12:30
+ASYNC, BCE 403,Jasmine,Tuesday,12:30,12:55
+ASYNC, BCE 403,Jasmine,Tuesday,12:55,1:20
+Filipino, VPE III 401,Kalmia,Tuesday,6:00,6:40
+English, VPE III 401,Kalmia,Tuesday,6:40,7:20
+Mathematics, VPE III 401,Kalmia,Tuesday,7:20,8:00
+Science, VPE III 401,Kalmia,Tuesday,8:00,8:40
+Recess, VPE III 401,Kalmia,Tuesday,8:40,9:20
+AP, VPE III 401,Kalmia,Tuesday,9:20,9:50
+ValuesEducation, VPE III 401,Kalmia,Tuesday,9:50,10:30
+TLE, VPE III 401,Kalmia,Tuesday,10:30,11:10
+Mapeh, VPE III 401,Kalmia,Tuesday,11:10,11:50
+ASYNC, VPE III 401,Kalmia,Tuesday,12:30,12:55
+ASYNC, VPE III 401,Kalmia,Tuesday,12:55,1:20
+Filipino, VPE III 402,Lavender,Tuesday,6:00,6:40
+English, VPE III 402,Lavender,Tuesday,6:40,7:20
+Mathematics, VPE III 402,Lavender,Tuesday,7:20,8:00
+Science, VPE III 402,Lavender,Tuesday,8:00,8:40
+Recess, VPE III 402,Lavender,Tuesday,8:40,9:20
+AP, VPE III 402,Lavender,Tuesday,9:20,9:50
+ValuesEducation, VPE III 402,Lavender,Tuesday,9:50,10:30
+TLE, VPE III 402,Lavender,Tuesday,10:30,11:10
+Mapeh, VPE III 402,Lavender,Tuesday,11:10,11:50
+ASYNC, VPE III 402,Lavender,Tuesday,12:30,12:55
+ASYNC, VPE III 402,Lavender,Tuesday,12:55,1:20
+Filipino, VPE III 403,Marigold,Tuesday,6:00,6:40
+English, VPE III 403,Marigold,Tuesday,6:40,7:20
+Mathematics, VPE III 403,Marigold,Tuesday,7:20,8:00
+Science, VPE III 403,Marigold,Tuesday,8:00,8:40
+Recess, VPE III 403,Marigold,Tuesday,8:40,9:20
+AP, VPE III 403,Marigold,Tuesday,9:20,9:50
+ValuesEducation, VPE III 403,Marigold,Tuesday,9:50,10:30
+TLE, VPE III 403,Marigold,Tuesday,10:30,11:10
+Mapeh, VPE III 403,Marigold,Tuesday,11:10,11:50
+ASYNC, VPE III 403,Marigold,Tuesday,12:30,12:55
+ASYNC, VPE III 403,Marigold,Tuesday,12:55,1:20
+Filipino, BCE 301,Narcissus,Tuesday,6:00,6:40
+English, BCE 301,Narcissus,Tuesday,6:40,7:20
+Mathematics, BCE 301,Narcissus,Tuesday,7:20,8:00
+Science, BCE 301,Narcissus,Tuesday,8:00,8:40
+Recess, BCE 301,Narcissus,Tuesday,8:40,9:20
+AP, BCE 301,Narcissus,Tuesday,9:20,9:50
+ValuesEducation, BCE 301,Narcissus,Tuesday,9:50,10:30
+TLE, BCE 301,Narcissus,Tuesday,10:30,11:10
+Mapeh, BCE 301,Narcissus,Tuesday,11:10,11:50
+ASYNC, BCE 301,Narcissus,Tuesday,12:30,12:55
+ASYNC, BCE 301,Narcissus,Tuesday,12:55,1:20
+Filipino, BCE 302,Orchid,Tuesday,6:00,6:40
+English, BCE 302,Orchid,Tuesday,6:40,7:20
+Mathematics, BCE 302,Orchid,Tuesday,7:20,8:00
+Science, BCE 302,Orchid,Tuesday,8:00,8:40
+Recess, BCE 302,Orchid,Tuesday,8:40,9:20
+AP, BCE 302,Orchid,Tuesday,9:20,9:50
+ValuesEducation, BCE 302,Orchid,Tuesday,9:50,10:30
+TLE, BCE 302,Orchid,Tuesday,10:30,11:10
+Mapeh, BCE 302,Orchid,Tuesday,11:10,11:50
+ASYNC, BCE 302,Orchid,Tuesday,12:30,12:55
+ASYNC, BCE 302,Orchid,Tuesday,12:55,1:20
+NMP, BCE 302,Orchid,Tuesday,11:50,12:30
+Filipino, BCE 303,Periwinkle,Tuesday,6:00,6:40
+English, BCE 303,Periwinkle,Tuesday,6:40,7:20
+Mathematics, BCE 303,Periwinkle,Tuesday,7:20,8:00
+Science, BCE 303,Periwinkle,Tuesday,8:00,8:40
+Recess, BCE 303,Periwinkle,Tuesday,8:40,9:20
+AP, BCE 303,Periwinkle,Tuesday,9:20,9:50
+ValuesEducation, BCE 303,Periwinkle,Tuesday,9:50,10:30
+TLE, BCE 303,Periwinkle,Tuesday,10:30,11:10
+Mapeh, BCE 303,Periwinkle,Tuesday,11:10,11:50
+ASYNC, BCE 303,Periwinkle,Tuesday,12:30,12:55
+ASYNC, BCE 303,Periwinkle,Tuesday,12:55,1:20
+Filipino, DEPED 101,Quesnelia,Tuesday,6:00,6:40
+English, DEPED 101,Quesnelia,Tuesday,6:40,7:20
+Mathematics, DEPED 101,Quesnelia,Tuesday,7:20,8:00
+Science, DEPED 101,Quesnelia,Tuesday,8:00,8:40
+Recess, DEPED 101,Quesnelia,Tuesday,8:40,9:20
+AP, DEPED 101,Quesnelia,Tuesday,9:20,9:50
+ValuesEducation, DEPED 101,Quesnelia,Tuesday,9:50,10:30
+TLE, DEPED 101,Quesnelia,Tuesday,10:30,11:10
+Mapeh, DEPED 101,Quesnelia,Tuesday,11:10,11:50
+ASYNC, DEPED 101,Quesnelia,Tuesday,12:30,12:55
+ASYNC, DEPED 101,Quesnelia,Tuesday,12:55,1:20
+Filipino, VPE I 302,Rose,Tuesday,6:00,6:40
+English, VPE I 302,Rose,Tuesday,6:40,7:20
+Mathematics, VPE I 302,Rose,Tuesday,7:20,8:00
+Science, VPE I 302,Rose,Tuesday,8:00,8:40
+Recess, VPE I 302,Rose,Tuesday,8:40,9:20
+AP, VPE I 302,Rose,Tuesday,9:20,9:50
+ValuesEducation, VPE I 302,Rose,Tuesday,9:50,10:30
+TLE, VPE I 302,Rose,Tuesday,10:30,11:10
+Mapeh, VPE I 302,Rose,Tuesday,11:10,11:50
+ASYNC, VPE I 302,Rose,Tuesday,12:30,12:55
+ASYNC, VPE I 302,Rose,Tuesday,12:55,1:20
+NMP, VPE I 302,Rose,Tuesday,11:50,12:30
+Filipino, BCE 501,Amiable,Tuesday,12:50,1:30
+English, BCE 501,Amiable,Tuesday,1:30,2:10
+Mathematics, BCE 501,Amiable,Tuesday,2:10,2:50
+Science, BCE 501,Amiable,Tuesday,2:50,3:30
+Recess, BCE 501,Amiable,Tuesday,3:30,4:00
+AP, BCE 501,Amiable,Tuesday,4:00,4:40
+ValuesEducation, BCE 501,Amiable,Tuesday,4:40,5:20
+TLE, BCE 501,Amiable,Tuesday,5:20,6:00
+Mapeh, BCE 501,Amiable,Tuesday,6:00,6:40
+NMP, BCE 501,Amiable,Tuesday,6:40,7:20
+ASYNC, BCE 501,Amiable,Tuesday,7:20,7:45
+ASYNC, BCE 501,Amiable,Tuesday,7:45,8:10
+Filipino, BCE 502,Brilliance,Tuesday,12:50,1:30
+English, BCE 502,Brilliance,Tuesday,1:30,2:10
+Mathematics, BCE 502,Brilliance,Tuesday,2:10,2:50
+Science, BCE 502,Brilliance,Tuesday,2:50,3:30
+Recess, BCE 502,Brilliance,Tuesday,3:30,4:00
+AP, BCE 502,Brilliance,Tuesday,4:00,4:40
+ValuesEducation, BCE 502,Brilliance,Tuesday,4:40,5:20
+TLE, BCE 502,Brilliance,Tuesday,5:20,6:00
+Mapeh, BCE 502,Brilliance,Tuesday,6:00,6:40
+ASYNC, BCE 502,Brilliance,Tuesday,7:20,7:45
+ASYNC, BCE 502,Brilliance,Tuesday,7:45,8:10
+Filipino, BCE 503,Cheerful,Tuesday,12:50,1:30
+English, BCE 503,Cheerful,Tuesday,1:30,2:10
+Mathematics, BCE 503,Cheerful,Tuesday,2:10,2:50
+Science, BCE 503,Cheerful,Tuesday,2:50,3:30
+Recess, BCE 503,Cheerful,Tuesday,3:30,4:00
+AP, BCE 503,Cheerful,Tuesday,4:00,4:40
+ValuesEducation, BCE 503,Cheerful,Tuesday,4:40,5:20
+TLE, BCE 503,Cheerful,Tuesday,5:20,6:00
+Mapeh, BCE 503,Cheerful,Tuesday,6:00,6:40
+ASYNC, BCE 503,Cheerful,Tuesday,7:20,7:45
+ASYNC, BCE 503,Cheerful,Tuesday,7:45,8:10
+Filipino, VPE III 501,Diligence,Tuesday,12:50,1:30
+English, VPE III 501,Diligence,Tuesday,1:30,2:10
+Mathematics, VPE III 501,Diligence,Tuesday,2:10,2:50
+Science, VPE III 501,Diligence,Tuesday,2:50,3:30
+Recess, VPE III 501,Diligence,Tuesday,3:30,4:00
+AP, VPE III 501,Diligence,Tuesday,4:00,4:40
+ValuesEducation, VPE III 501,Diligence,Tuesday,4:40,5:20
+TLE, VPE III 501,Diligence,Tuesday,5:20,6:00
+Mapeh, VPE III 501,Diligence,Tuesday,6:00,6:40
+ASYNC, VPE III 501,Diligence,Tuesday,7:20,7:45
+ASYNC, VPE III 501,Diligence,Tuesday,7:45,8:10
+Filipino, VPE III 502,Excellence,Tuesday,12:50,1:30
+English, VPE III 502,Excellence,Tuesday,1:30,2:10
+Mathematics, VPE III 502,Excellence,Tuesday,2:10,2:50
+Science, VPE III 502,Excellence,Tuesday,2:50,3:30
+Recess, VPE III 502,Excellence,Tuesday,3:30,4:00
+AP, VPE III 502,Excellence,Tuesday,4:00,4:40
+ValuesEducation, VPE III 502,Excellence,Tuesday,4:40,5:20
+TLE, VPE III 502,Excellence,Tuesday,5:20,6:00
+Mapeh, VPE III 502,Excellence,Tuesday,6:00,6:40
+ASYNC, VPE III 502,Excellence,Tuesday,7:20,7:45
+ASYNC, VPE III 502,Excellence,Tuesday,7:45,8:10
+HGP, VPE III 502,Excellence,Tuesday,6:40,7:20
+Filipino, VPE III 503,Fortitude,Tuesday,12:50,1:30
+English, VPE III 503,Fortitude,Tuesday,1:30,2:10
+Mathematics, VPE III 503,Fortitude,Tuesday,2:10,2:50
+Science, VPE III 503,Fortitude,Tuesday,2:50,3:30
+Recess, VPE III 503,Fortitude,Tuesday,3:30,4:00
+AP, VPE III 503,Fortitude,Tuesday,4:00,4:40
+ValuesEducation, VPE III 503,Fortitude,Tuesday,4:40,5:20
+TLE, VPE III 503,Fortitude,Tuesday,5:20,6:00
+Mapeh, VPE III 503,Fortitude,Tuesday,6:00,6:40
+ASYNC, VPE III 503,Fortitude,Tuesday,7:20,7:45
+ASYNC, VPE III 503,Fortitude,Tuesday,7:45,8:10
+NMP, VPE III 503,Fortitude,Tuesday,6:40,7:20
+Filipino, BCE 401,Generous,Tuesday,12:50,1:30
+English, BCE 401,Generous,Tuesday,1:30,2:10
+Mathematics, BCE 401,Generous,Tuesday,2:10,2:50
+Science, BCE 401,Generous,Tuesday,2:50,3:30
+Recess, BCE 401,Generous,Tuesday,3:30,4:00
+AP, BCE 401,Generous,Tuesday,4:00,4:40
+ValuesEducation, BCE 401,Generous,Tuesday,4:40,5:20
+TLE, BCE 401,Generous,Tuesday,5:20,6:00
+Mapeh, BCE 401,Generous,Tuesday,6:00,6:40
+ASYNC, BCE 401,Generous,Tuesday,7:20,7:45
+ASYNC, BCE 401,Generous,Tuesday,7:45,8:10
+NMP, BCE 401,Generous,Tuesday,6:40,7:20
+Filipino, BCE 402,Humility,Tuesday,12:50,1:30
+English, BCE 402,Humility,Tuesday,1:30,2:10
+Mathematics, BCE 402,Humility,Tuesday,2:10,2:50
+Science, BCE 402,Humility,Tuesday,2:50,3:30
+Recess, BCE 402,Humility,Tuesday,3:30,4:00
+AP, BCE 402,Humility,Tuesday,4:00,4:40
+ValuesEducation, BCE 402,Humility,Tuesday,4:40,5:20
+TLE, BCE 402,Humility,Tuesday,5:20,6:00
+Mapeh, BCE 402,Humility,Tuesday,6:00,6:40
+ASYNC, BCE 402,Humility,Tuesday,7:20,7:45
+ASYNC, BCE 402,Humility,Tuesday,7:45,8:10
+Filipino, VPE III 401,Joyful,Tuesday,12:50,1:30
+English, VPE III 401,Joyful,Tuesday,1:30,2:10
+Mathematics, VPE III 401,Joyful,Tuesday,2:10,2:50
+Science, VPE III 401,Joyful,Tuesday,2:50,3:30
+Recess, VPE III 401,Joyful,Tuesday,3:30,4:00
+AP, VPE III 401,Joyful,Tuesday,4:00,4:40
+ValuesEducation, VPE III 401,Joyful,Tuesday,4:40,5:20
+TLE, VPE III 401,Joyful,Tuesday,5:20,6:00
+Mapeh, VPE III 401,Joyful,Tuesday,6:00,6:40
+ASYNC, VPE III 401,Joyful,Tuesday,7:20,7:45
+ASYNC, VPE III 401,Joyful,Tuesday,7:45,8:10
+Filipino, VPE III 402,Kindness,Tuesday,12:50,1:30
+English, VPE III 402,Kindness,Tuesday,1:30,2:10
+Mathematics, VPE III 402,Kindness,Tuesday,2:10,2:50
+Science, VPE III 402,Kindness,Tuesday,2:50,3:30
+Recess, VPE III 402,Kindness,Tuesday,3:30,4:00
+AP, VPE III 402,Kindness,Tuesday,4:00,4:40
+ValuesEducation, VPE III 402,Kindness,Tuesday,4:40,5:20
+TLE, VPE III 402,Kindness,Tuesday,5:20,6:00
+Mapeh, VPE III 402,Kindness,Tuesday,6:00,6:40
+ASYNC, VPE III 402,Kindness,Tuesday,7:20,7:45
+ASYNC, VPE III 402,Kindness,Tuesday,7:45,8:10
+Filipino, VPE III 403,Lovable,Tuesday,12:50,1:30
+English, VPE III 403,Lovable,Tuesday,1:30,2:10
+Mathematics, VPE III 403,Lovable,Tuesday,2:10,2:50
+Science, VPE III 403,Lovable,Tuesday,2:50,3:30
+Recess, VPE III 403,Lovable,Tuesday,3:30,4:00
+AP, VPE III 403,Lovable,Tuesday,4:00,4:40
+ValuesEducation, VPE III 403,Lovable,Tuesday,4:40,5:20
+TLE, VPE III 403,Lovable,Tuesday,5:20,6:00
+Mapeh, VPE III 403,Lovable,Tuesday,6:00,6:40
+ASYNC, VPE III 403,Lovable,Tuesday,7:20,7:45
+ASYNC, VPE III 403,Lovable,Tuesday,7:45,8:10
+Filipino, BCE 301,Magnificent,Tuesday,12:50,1:30
+English, BCE 301,Magnificent,Tuesday,1:30,2:10
+Mathematics, BCE 301,Magnificent,Tuesday,2:10,2:50
+Science, BCE 301,Magnificent,Tuesday,2:50,3:30
+Recess, BCE 301,Magnificent,Tuesday,3:30,4:00
+AP, BCE 301,Magnificent,Tuesday,4:00,4:40
+ValuesEducation, BCE 301,Magnificent,Tuesday,4:40,5:20
+TLE, BCE 301,Magnificent,Tuesday,5:20,6:00
+Mapeh, BCE 301,Magnificent,Tuesday,6:00,6:40
+ASYNC, BCE 301,Magnificent,Tuesday,7:20,7:45
+ASYNC, BCE 301,Magnificent,Tuesday,7:45,8:10
+Filipino, BCE 302,Noble,Tuesday,12:50,1:30
+English, BCE 302,Noble,Tuesday,1:30,2:10
+Mathematics, BCE 302,Noble,Tuesday,2:10,2:50
+Science, BCE 302,Noble,Tuesday,2:50,3:30
+Recess, BCE 302,Noble,Tuesday,3:30,4:00
+AP, BCE 302,Noble,Tuesday,4:00,4:40
+ValuesEducation, BCE 302,Noble,Tuesday,4:40,5:20
+TLE, BCE 302,Noble,Tuesday,5:20,6:00
+Mapeh, BCE 302,Noble,Tuesday,6:00,6:40
+ASYNC, BCE 302,Noble,Tuesday,7:20,7:45
+ASYNC, BCE 302,Noble,Tuesday,7:45,8:10
+Mapeh, 4F SPED BLDG,Piety,Tuesday,6:00,6:40
+ValuesEducation, 4F SPED BLDG,Piety,Tuesday,6:40,7:20
+TLE, 4F SPED BLDG,Piety,Tuesday,7:20,8:00
+Mathematics, 4F SPED BLDG,Piety,Tuesday,8:00,8:40
+Recess, 4F SPED BLDG,Piety,Tuesday,8:40,9:10
+Filipino, 4F SPED BLDG,Piety,Tuesday,9:10,9:50
+English, 4F SPED BLDG,Piety,Thursday,9:50,10:30
+AP, 4F SPED BLDG,Piety,Tuesday,10:30,11:10
+Science, 4F SPED BLDG,Piety,Tuesday,11:10,11:50
+HGP, 4F SPED BLDG,Piety,Tuesday,11:50,12:30
+ASYNC, 4F SPED BLDG,Piety,Tuesday,12:30,12:55
+ASYNC, 4F SPED BLDG,Piety,Tuesday,12:55,1:20
+Mapeh, VPE I 302,Righteous,Tuesday,6:00,6:40
+ValuesEducation, VPE I 302,Righteous,Tuesday,6:40,7:20
+TLE, VPE I 302,Righteous,Tuesday,7:20,8:00
+Mathematics, VPE I 302,Righteous,Tuesday,8:00,8:40
+Recess, VPE I 302,Righteous,Tuesday,8:40,9:10
+Filipino, VPE I 302,Righteous,Tuesday,9:10,9:50
+English, VPE I 302,Righteous,Thursday,9:50,10:30
+AP, VPE I 302,Righteous,Tuesday,10:30,11:10
+Science, VPE I 302,Righteous,Tuesday,11:10,11:50
+ASYNC, VPE I 302,Righteous,Tuesday,12:30,12:55
+ASYNC, VPE I 302,Righteous,Tuesday,12:55,1:20
+TLE,401,Aurora,Tuesday,12:50,1:30
+Mapeh,401,Aurora,Tuesday,1:30,2:10
+ValuesEducation,401,Aurora,Tuesday,2:10,2:50
+AP,401,Aurora,Tuesday,2:50,3:30
+Science,401,Aurora,Tuesday,3:30,4:00
+Recess,401,Aurora,Tuesday,4:00,4:40
+Mathematics,401,Aurora,Tuesday,4:40,5:20
+English,401,Aurora,Tuesday,5:20,6:00
+Filipino,401,Aurora,Tuesday,6:00,6:40
+ASYNC,401,Aurora,Tuesday,7:20,7:45
+ASYNC,401,Aurora,Tuesday,7:45,8:10
+TLE,402,Batanes,Tuesday,12:50,1:30
+Mapeh,402,Batanes,Tuesday,1:30,2:10
+ValuesEducation,402,Batanes,Tuesday,2:10,2:50
+AP,402,Batanes,Tuesday,2:50,3:30
+Science,402,Batanes,Tuesday,3:30,4:00
+Recess,402,Batanes,Tuesday,4:00,4:40
+Mathematics,402,Batanes,Tuesday,4:40,5:20
+English,402,Batanes,Tuesday,5:20,6:00
+Filipino,402,Batanes,Tuesday,6:00,6:40
+ASYNC,402,Batanes,Tuesday,7:20,7:45
+ASYNC,402,Batanes,Tuesday,7:45,8:10
+TLE,403,Camiguin,Tuesday,12:50,1:30
+Mapeh,403,Camiguin,Tuesday,1:30,2:10
+ValuesEducation,403,Camiguin,Tuesday,2:10,2:50
+AP,403,Camiguin,Tuesday,2:50,3:30
+Science,403,Camiguin,Tuesday,3:30,4:00
+Recess,403,Camiguin,Tuesday,4:00,4:40
+Mathematics,403,Camiguin,Tuesday,4:40,5:20
+English,403,Camiguin,Tuesday,5:20,6:00
+Filipino,403,Camiguin,Tuesday,6:00,6:40
+ASYNC,403,Camiguin,Tuesday,7:20,7:45
+ASYNC,403,Camiguin,Tuesday,7:45,8:10
+TLE,301,Cebu,Tuesday,12:50,1:30
+Mapeh,301,Cebu,Tuesday,1:30,2:10
+ValuesEducation,301,Cebu,Tuesday,2:10,2:50
+AP,301,Cebu,Tuesday,2:50,3:30
+Science,301,Cebu,Tuesday,3:30,4:00
+Recess,301,Cebu,Tuesday,4:00,4:40
+Mathematics,301,Cebu,Tuesday,4:40,5:20
+English,301,Cebu,Tuesday,5:20,6:00
+Filipino,301,Cebu,Tuesday,6:00,6:40
+ASYNC,301,Cebu,Tuesday,7:20,7:45
+ASYNC,301,Cebu,Tuesday,7:45,8:10
+TLE,302,Davao,Tuesday,12:50,1:30
+Mapeh,302,Davao,Tuesday,1:30,2:10
+ValuesEducation,302,Davao,Tuesday,2:10,2:50
+AP,302,Davao,Tuesday,2:50,3:30
+Science,302,Davao,Tuesday,3:30,4:00
+Recess,302,Davao,Tuesday,4:00,4:40
+Mathematics,302,Davao,Tuesday,4:40,5:20
+English,302,Davao,Tuesday,5:20,6:00
+Filipino,302,Davao,Tuesday,6:00,6:40
+ASYNC,302,Davao,Tuesday,7:20,7:45
+ASYNC,302,Davao,Tuesday,7:45,8:10
+TLE,303,Gen. Santos,Tuesday,12:50,1:30
+Mapeh,303,Gen. Santos,Tuesday,1:30,2:10
+ValuesEducation,303,Gen. Santos,Tuesday,2:10,2:50
+AP,303,Gen. Santos,Tuesday,2:50,3:30
+Science,303,Gen. Santos,Tuesday,3:30,4:00
+Recess,303,Gen. Santos,Tuesday,4:00,4:40
+Mathematics,303,Gen. Santos,Tuesday,4:40,5:20
+English,303,Gen. Santos,Tuesday,5:20,6:00
+Filipino,303,Gen. Santos,Tuesday,6:00,6:40
+ASYNC,303,Gen. Santos,Tuesday,7:20,7:45
+ASYNC,303,Gen. Santos,Tuesday,7:45,8:10
+TLE, VPE III 301,Guimaras,Tuesday,12:50,1:30
+Mapeh, VPE III 301,Guimaras,Tuesday,1:30,2:10
+ValuesEducation, VPE III 301,Guimaras,Tuesday,2:10,2:50
+AP, VPE III 301,Guimaras,Tuesday,2:50,3:30
+Science, VPE III 301,Guimaras,Tuesday,3:30,4:00
+Recess, VPE III 301,Guimaras,Tuesday,4:00,4:40
+Mathematics, VPE III 301,Guimaras,Tuesday,4:40,5:20
+English, VPE III 301,Guimaras,Tuesday,5:20,6:00
+Filipino, VPE III 301,Guimaras,Tuesday,6:00,6:40
+ASYNC, VPE III 301,Guimaras,Tuesday,7:20,7:45
+ASYNC, VPE III 301,Guimaras,Tuesday,7:45,8:10
+TLE, VPE III 302,Ilocos,Tuesday,12:50,1:30
+Mapeh, VPE III 302,Ilocos,Tuesday,1:30,2:10
+ValuesEducation, VPE III 302,Ilocos,Tuesday,2:10,2:50
+AP, VPE III 302,Ilocos,Tuesday,2:50,3:30
+Science, VPE III 302,Ilocos,Tuesday,3:30,4:00
+Recess, VPE III 302,Ilocos,Tuesday,4:00,4:40
+Mathematics, VPE III 302,Ilocos,Tuesday,4:40,5:20
+English, VPE III 302,Ilocos,Tuesday,5:20,6:00
+Filipino, VPE III 302,Ilocos,Tuesday,6:00,6:40
+ASYNC, VPE III 302,Ilocos,Tuesday,7:20,7:45
+ASYNC, VPE III 302,Ilocos,Tuesday,7:45,8:10
+TLE, VPE I 301,Iloilo,Tuesday,12:50,1:30
+Mapeh, VPE I 301,Iloilo,Tuesday,1:30,2:10
+ValuesEducation, VPE I 301,Iloilo,Tuesday,2:10,2:50
+AP, VPE I 301,Iloilo,Tuesday,2:50,3:30
+Science, VPE I 301,Iloilo,Tuesday,3:30,4:00
+Recess, VPE I 301,Iloilo,Tuesday,4:00,4:40
+Mathematics, VPE I 301,Iloilo,Tuesday,4:40,5:20
+English, VPE I 301,Iloilo,Tuesday,5:20,6:00
+Filipino, VPE I 301,Iloilo,Tuesday,6:00,6:40
+ASYNC, VPE I 301,Iloilo,Tuesday,7:20,7:45
+ASYNC, VPE I 301,Iloilo,Tuesday,7:45,8:10
+TLE, VPE I 303,Kalinga,Tuesday,12:50,1:30
+Mapeh, VPE I 303,Kalinga,Tuesday,1:30,2:10
+ValuesEducation, VPE I 303,Kalinga,Tuesday,2:10,2:50
+AP, VPE I 303,Kalinga,Tuesday,2:50,3:30
+Science, VPE I 303,Kalinga,Tuesday,3:30,4:00
+Recess, VPE I 303,Kalinga,Tuesday,4:00,4:40
+Mathematics, VPE I 303,Kalinga,Tuesday,4:40,5:20
+English, VPE I 303,Kalinga,Tuesday,5:20,6:00
+Filipino, VPE I 303,Kalinga,Tuesday,6:00,6:40
+ASYNC, VPE I 303,Kalinga,Tuesday,7:20,7:45
+ASYNC, VPE I 303,Kalinga,Tuesday,7:45,8:10
+TLE, VPE I 304,Laguna,Tuesday,12:50,1:30
+Mapeh, VPE I 304,Laguna,Tuesday,1:30,2:10
+ValuesEducation, VPE I 304,Laguna,Tuesday,2:10,2:50
+AP, VPE I 304,Laguna,Tuesday,2:50,3:30
+Science, VPE I 304,Laguna,Tuesday,3:30,4:00
+Recess, VPE I 304,Laguna,Tuesday,4:00,4:40
+Mathematics, VPE I 304,Laguna,Tuesday,4:40,5:20
+English, VPE I 304,Laguna,Tuesday,5:20,6:00
+Filipino, VPE I 304,Laguna,Tuesday,6:00,6:40
+ASYNC, VPE I 304,Laguna,Tuesday,7:20,7:45
+ASYNC, VPE I 304,Laguna,Tuesday,7:45,8:10
+TLE, DEPED 301,Masbate,Tuesday,12:50,1:30
+Mapeh, DEPED 301,Masbate,Tuesday,1:30,2:10
+ValuesEducation, DEPED 301,Masbate,Tuesday,2:10,2:50
+AP, DEPED 301,Masbate,Tuesday,2:50,3:30
+Science, DEPED 301,Masbate,Tuesday,3:30,4:00
+Recess, DEPED 301,Masbate,Tuesday,4:00,4:40
+Mathematics, DEPED 301,Masbate,Tuesday,4:40,5:20
+English, DEPED 301,Masbate,Tuesday,5:20,6:00
+Filipino, DEPED 301,Masbate,Tuesday,6:00,6:40
+ASYNC, DEPED 301,Masbate,Tuesday,7:20,7:45
+ASYNC, DEPED 301,Masbate,Tuesday,7:45,8:10
+TLE, DEPED 302,Pasig,Tuesday,12:50,1:30
+Mapeh, DEPED 302,Pasig,Tuesday,1:30,2:10
+ValuesEducation, DEPED 302,Pasig,Tuesday,2:10,2:50
+AP, DEPED 302,Pasig,Tuesday,2:50,3:30
+Science, DEPED 302,Pasig,Tuesday,3:30,4:00
+Recess, DEPED 302,Pasig,Tuesday,4:00,4:40
+Mathematics, DEPED 302,Pasig,Tuesday,4:40,5:20
+English, DEPED 302,Pasig,Tuesday,5:20,6:00
+Filipino, DEPED 302,Pasig,Tuesday,6:00,6:40
+ASYNC, DEPED 302,Pasig,Tuesday,7:20,7:45
+ASYNC, DEPED 302,Pasig,Tuesday,7:45,8:10
+TLE, DEPED 303,Romblon,Tuesday,12:50,1:30
+Mapeh, DEPED 303,Romblon,Tuesday,1:30,2:10
+ValuesEducation, DEPED 303,Romblon,Tuesday,2:10,2:50
+AP, DEPED 303,Romblon,Tuesday,2:50,3:30
+Science, DEPED 303,Romblon,Tuesday,3:30,4:00
+Recess, DEPED 303,Romblon,Tuesday,4:00,4:40
+Mathematics, DEPED 303,Romblon,Tuesday,4:40,5:20
+English, DEPED 303,Romblon,Tuesday,5:20,6:00
+Filipino, DEPED 303,Romblon,Tuesday,6:00,6:40
+ASYNC, DEPED 303,Romblon,Tuesday,7:20,7:45
+ASYNC, DEPED 303,Romblon,Tuesday,7:45,8:10
+TLE, DEPED 201,Samar,Tuesday,12:50,1:30
+Mapeh, DEPED 201,Samar,Tuesday,1:30,2:10
+ValuesEducation, DEPED 201,Samar,Tuesday,2:10,2:50
+AP, DEPED 201,Samar,Tuesday,2:50,3:30
+Science, DEPED 201,Samar,Tuesday,3:30,4:00
+Recess, DEPED 201,Samar,Tuesday,4:00,4:40
+Mathematics, DEPED 201,Samar,Tuesday,4:40,5:20
+English, DEPED 201,Samar,Tuesday,5:20,6:00
+Filipino, DEPED 201,Samar,Tuesday,6:00,6:40
+ASYNC, DEPED 201,Samar,Tuesday,7:20,7:45
+ASYNC, DEPED 201,Samar,Tuesday,7:45,8:10
+TLE, DEPED 202,Surigao,Tuesday,12:50,1:30
+Mapeh, DEPED 202,Surigao,Tuesday,1:30,2:10
+ValuesEducation, DEPED 202,Surigao,Tuesday,2:10,2:50
+AP, DEPED 202,Surigao,Tuesday,2:50,3:30
+Science, DEPED 202,Surigao,Tuesday,3:30,4:00
+Recess, DEPED 202,Surigao,Tuesday,4:00,4:40
+Mathematics, DEPED 202,Surigao,Tuesday,4:40,5:20
+English, DEPED 202,Surigao,Tuesday,5:20,6:00
+Filipino, DEPED 202,Surigao,Tuesday,6:00,6:40
+ASYNC, DEPED 202,Surigao,Tuesday,7:20,7:45
+ASYNC, DEPED 202,Surigao,Tuesday,7:45,8:10
+TLE, DEPED 103,Tawi-Tawi,Tuesday,6:00,6:40
+Mapeh, DEPED 103,Tawi-Tawi,Tuesday,6:40,7:20
+ValuesEducation, DEPED 103,Tawi-Tawi,Tuesday,7:20,8:00
+AP, DEPED 103,Tawi-Tawi,Tuesday,8:00,8:40
+Science, DEPED 103,Tawi-Tawi,Tuesday,8:40,9:10
+Recess, DEPED 103,Tawi-Tawi,Tuesday,9:10,9:50
+Mathematics, DEPED 103,Tawi-Tawi,Thursday,9:50,10:30
+English, DEPED 103,Tawi-Tawi,Tuesday,10:30,11:10
+Filipino, DEPED 103,Tawi-Tawi,Tuesday,11:10,11:50
+NMP, DEPED 103,Tawi-Tawi,Tuesday,11:50,12:30
+ASYNC, DEPED 103,Tawi-Tawi,Tuesday,12:30,12:55
+ASYNC, DEPED 103,Tawi-Tawi,Tuesday,12:55,1:20
+TLE, VPE I 302,Zamboanga,Tuesday,6:00,6:40
+Mapeh, VPE I 302,Zamboanga,Tuesday,6:40,7:20
+ValuesEducation, VPE I 302,Zamboanga,Tuesday,7:20,8:00
+AP, VPE I 302,Zamboanga,Tuesday,8:00,8:40
+Science, VPE I 302,Zamboanga,Tuesday,8:40,9:10
+Recess, VPE I 302,Zamboanga,Tuesday,9:10,9:50
+Mathematics, VPE I 302,Zamboanga,Thursday,9:50,10:30
+English, VPE I 302,Zamboanga,Tuesday,10:30,11:10
+Filipino, VPE I 302,Zamboanga,Tuesday,11:10,11:50
+NMP, VPE I 302,Zamboanga,Tuesday,11:50,12:30
+ASYNC, VPE I 302,Zamboanga,Tuesday,12:30,12:55
+ASYNC, VPE I 302,Zamboanga,Tuesday,12:55,1:20
+TLE,401,Argon,Wednesday,6:00,6:40
+Mapeh,401,Argon,Wednesday,6:40,7:20
+Values Education,401,Argon,Wednesday,7:20,8:00
+AP,401,Argon,Wednesday,8:00,8:40
+Science,401,Argon,Wednesday,8:40,9:20
+Recess,401,Argon,Wednesday,9:20,9:50
+Mathematics,401,Argon,Thursday,9:50,10:30
+English,401,Argon,Wednesday,10:30,11:10
+Filipino,401,Argon,Wednesday,11:10,11:50
+NMP,401,Argon,Wednesday,11:50,12:30
+ASYNC,401,Argon,Wednesday,12:30,12:55
+ASYNC,401,Argon,Wednesday,12:55,1:20
+Values Education,403,Barium,Wednesday,6:00,6:40
+TLE,402,Barium,Wednesday,6:40,7:20
+AP,402,Barium,Wednesday,7:20,8:00
+Science,402,Barium,Wednesday,8:00,8:40
+Mathematics,402,Barium,Wednesday,8:40,9:20
+Recess,402,Barium,Wednesday,9:20,9:50
+English,402,Barium,Wednesday,9:50,10:30
+Filipino,402,Barium,Wednesday,10:30,11:10
+Mapeh,402,Barium,Wednesday,11:10,11:50
+ASYNC,402,Barium,Wednesday,12:30,12:55
+ASYNC,402,Barium,Wednesday,12:55,1:20
+NMP,302,Europium,Wednesday,11:50,12:30
+HGP, VPEI 301,Iron,Wednesday,11:50,12:30
+NMP, VPEI 303,Krypton,Wednesday,11:50,12:30
+HGP, DEPED 303,Oxygen,Wednesday,11:50,12:30
+NMP, DEPED 203,Silver,Wednesday,11:50,12:30
+AP,403,Copper,Wednesday,6:00,6:40
+Science,403,Copper,Wednesday,6:40,7:20
+TLE,403,Copper,Wednesday,7:20,8:00
+Mathematics,403,Copper,Wednesday,8:00,8:40
+English,403,Copper,Wednesday,8:40,9:20
+Recess,403,Copper,Wednesday,9:20,9:50
+Filipino,403,Copper,Wednesday,9:50,10:30
+Mapeh,401,Copper,Wednesday,10:30,11:10
+Values Education,403,Copper,Wednesday,11:10,11:50
+ASYNC,403,Copper,Wednesday,12:30,12:55
+ASYNC,403,Copper,Wednesday,12:55,1:20
+Science,403,Copper,Wednesday,6:00,6:40
+Mathematics,403,Copper,Wednesday,6:40,7:20
+English,403,Copper,Wednesday,7:20,8:00
+TLE,403,Copper,Wednesday,8:00,8:40
+Filipino,403,Copper,Wednesday,8:40,9:20
+Recess,403,Copper,Wednesday,9:20,9:50
+Mapeh,403,Copper,Wednesday,9:50,10:30
+Values Education,401,Copper,Wednesday,10:30,11:10
+AP,403,Copper,Wednesday,11:10,11:50
+ASYNC,403,Copper,Wednesday,12:30,12:55
+ASYNC,403,Copper,Wednesday,12:55,1:20
+Science,301,Dubnium,Wednesday,6:00,6:40
+Mathematics,301,Dubnium,Wednesday,6:40,7:20
+English,301,Dubnium,Wednesday,7:20,8:00
+TLE,301,Dubnium,Wednesday,8:00,8:40
+Filipino,301,Dubnium,Wednesday,8:40,9:20
+Recess,301,Dubnium,Wednesday,9:20,9:50
+Mapeh,301,Dubnium,Wednesday,9:50,10:30
+Values Education,301,Dubnium,Wednesday,10:30,11:10
+AP,301,Dubnium,Wednesday,11:10,11:50
+ASYNC,301,Dubnium,Wednesday,12:30,12:55
+ASYNC,301,Dubnium,Wednesday,12:55,1:20
+Mathematics,302,Europium,Wednesday,6:00,6:40
+English,302,Europium,Wednesday,6:40,7:20
+Filipino,302,Europium,Wednesday,7:20,8:00
+Mapeh,302,Europium,Wednesday,8:00,8:40
+TLE,302,Europium,Wednesday,8:40,9:20
+Recess,302,Europium,Wednesday,9:20,9:50
+Values Education,302,Europium,Wednesday,9:50,10:30
+AP,302,Europium,Wednesday,10:30,11:10
+Science,302,Europium,Wednesday,11:10,11:50
+ASYNC,302,Europium,Wednesday,12:30,12:55
+ASYNC,302,Europium,Wednesday,12:55,1:20
+English,303,Fluorine,Wednesday,6:00,6:40
+Filipino,303,Fluorine,Wednesday,6:40,7:20
+Mapeh,303,Fluorine,Wednesday,7:20,8:00
+Values Education,303,Fluorine,Wednesday,8:00,8:40
+AP,303,Fluorine,Wednesday,8:40,9:20
+Recess,303,Fluorine,Wednesday,9:20,9:50
+TLE,303,Fluorine,Wednesday,9:50,10:30
+Science,303,Fluorine,Wednesday,10:30,11:10
+Mathematics,303,Fluorine,Wednesday,11:10,11:50
+ASYNC,303,Fluorine,Wednesday,12:30,12:55
+ASYNC,303,Fluorine,Wednesday,12:55,1:20
+Filipino, VPEIII 301,Gold,Wednesday,6:00,6:40
+Mapeh, VPEIII 301,Gold,Wednesday,6:40,7:20
+Values Education,302,Gold,Wednesday,7:20,8:00
+AP,302,Gold,Wednesday,8:00,8:40
+Science,302,Gold,Wednesday,8:40,9:20
+Recess,302,Gold,Wednesday,9:20,9:50
+Mathematics,302,Gold,Wednesday,9:50,10:30
+TLE,302,Gold,Wednesday,10:30,11:10
+English,302,Gold,Wednesday,11:10,11:50
+ASYNC,302,Gold,Wednesday,12:30,12:55
+ASYNC,302,Gold,Wednesday,12:55,1:20
+Mapeh, VPEIII 302,Hydrogen,Wednesday,6:00,6:40
+Values Education, VPEIII 302,Hydrogen,Wednesday,6:40,7:20
+AP, VPEIII 302,Hydrogen,Wednesday,7:20,8:00
+Science, VPEIII 302,Hydrogen,Wednesday,8:00,8:40
+Mathematics, VPEIII 302,Hydrogen,Wednesday,8:40,9:20
+Recess, VPEIII 302,Hydrogen,Wednesday,9:20,9:50
+English, VPEIII 302,Hydrogen,Wednesday,9:50,10:30
+Filipino, VPEIII 302,Hydrogen,Wednesday,10:30,11:10
+TLE, VPEIII 302,Hydrogen,Wednesday,11:10,11:50
+ASYNC, VPEIII 302,Hydrogen,Wednesday,12:30,12:55
+ASYNC, VPEIII 302,Hydrogen,Wednesday,12:55,1:20
+Values Education, VPEI 301,Iron,Wednesday,6:00,6:40
+AP, VPEI 301,Iron,Wednesday,6:40,7:20
+Science, VPEI 301,Iron,Wednesday,7:20,8:00
+Mathematics, VPEI 301,Iron,Wednesday,8:00,8:40
+Recess, VPEI 301,Iron,Wednesday,8:40,9:20
+Filipino, VPEI 301,Iron,Wednesday,9:20,9:50
+Mapeh, VPEI 301,Iron,Wednesday,10:30,11:10
+TLE, VPEI 301,Iron,Wednesday,11:10,11:50
+ASYNC, VPEI 301,Iron,Wednesday,12:30,12:55
+ASYNC, VPEI 301,Iron,Wednesday,12:55,1:20
+TLE, VPEI 303,Krypton,Wednesday,6:00,6:40
+Science, VPEI 303,Krypton,Wednesday,6:40,7:20
+Filipino, VPEI 303,Krypton,Wednesday,7:20,8:00
+Mathematics, VPEI 303,Krypton,Wednesday,8:00,8:40
+English, VPEI 303,Krypton,Wednesday,8:40,9:20
+Recess, VPEI 303,Krypton,Wednesday,9:20,9:50
+Mapeh, VPEI 303,Krypton,Wednesday,9:50,10:30
+Values Education, VPEI 303,Krypton,Wednesday,10:30,11:10
+AP, VPEI 303,Krypton,Wednesday,11:10,11:50
+ASYNC, VPEI 303,Krypton,Wednesday,12:30,12:55
+ASYNC, VPEI 303,Krypton,Wednesday,12:55,1:20
+TLE, VPEI 304,Lithium,Wednesday,6:00,6:40
+Science, VPEI 304,Lithium,Wednesday,6:40,7:20
+Filipino, VPEI 304,Lithium,Wednesday,7:20,8:00
+Mathematics, VPEI 304,Lithium,Wednesday,8:00,8:40
+English, VPEI 304,Lithium,Wednesday,8:40,9:20
+Recess, VPEI 304,Lithium,Wednesday,9:20,9:50
+Mapeh, VPEI 304,Lithium,Wednesday,9:50,10:30
+Values Education, VPEI 304,Lithium,Wednesday,10:30,11:10
+AP, VPEI 304,Lithium,Wednesday,11:10,11:50
+ASYNC, VPEI 304,Lithium,Wednesday,12:30,12:55
+ASYNC, VPEI 304,Lithium,Wednesday,12:55,1:20
+TLE, DEPED 301,Magnesium,Wednesday,6:00,6:40
+Science, DEPED 301,Magnesium,Wednesday,6:40,7:20
+Filipino, DEPED 301,Magnesium,Wednesday,7:20,8:00
+Mathematics, DEPED 301,Magnesium,Wednesday,8:00,8:40
+English, DEPED 301,Magnesium,Wednesday,8:40,9:20
+Recess, DEPED 301,Magnesium,Wednesday,9:20,9:50
+Mapeh, DEPED 301,Magnesium,Wednesday,9:50,10:30
+Values Education, DEPED 301,Magnesium,Wednesday,10:30,11:10
+AP, DEPED 301,Magnesium,Wednesday,11:10,11:50
+ASYNC, DEPED 301,Magnesium,Wednesday,12:30,12:55
+ASYNC, DEPED 301,Magnesium,Wednesday,12:55,1:20
+TLE, DEPED 302,Neon,Wednesday,6:00,6:40
+Science, DEPED 302,Neon,Wednesday,6:40,7:20
+Filipino, DEPED 302,Neon,Wednesday,7:20,8:00
+Mathematics, DEPED 302,Neon,Wednesday,8:00,8:40
+English, DEPED 302,Neon,Wednesday,8:40,9:20
+Recess, DEPED 302,Neon,Wednesday,9:20,9:50
+Mapeh, DEPED 302,Neon,Wednesday,9:50,10:30
+Values Education, DEPED 302,Neon,Wednesday,10:30,11:10
+AP, DEPED 302,Neon,Wednesday,11:10,11:50
+ASYNC, DEPED 302,Neon,Wednesday,12:30,12:55
+ASYNC, DEPED 302,Neon,Wednesday,12:55,1:20
+TLE, DEPED 303,Oxygen,Wednesday,6:00,6:40
+Science, DEPED 303,Oxygen,Wednesday,6:40,7:20
+Filipino, DEPED 303,Oxygen,Wednesday,7:20,8:00
+Mathematics, DEPED 303,Oxygen,Wednesday,8:00,8:40
+English, DEPED 303,Oxygen,Wednesday,8:40,9:20
+Recess, DEPED 303,Oxygen,Wednesday,9:20,9:50
+Mapeh, DEPED 303,Oxygen,Wednesday,9:50,10:30
+Values Education, DEPED 303,Oxygen,Wednesday,10:30,11:10
+AP, DEPED 303,Oxygen,Wednesday,11:10,11:50
+ASYNC, DEPED 303,Oxygen,Wednesday,12:30,12:55
+ASYNC, DEPED 303,Oxygen,Wednesday,12:55,1:20
+TLE, DEPED 201,Platinum,Wednesday,6:00,6:40
+Science, DEPED 201,Platinum,Wednesday,6:40,7:20
+Filipino, DEPED 201,Platinum,Wednesday,7:20,8:00
+Mathematics, DEPED 201,Platinum,Wednesday,8:00,8:40
+English, DEPED 201,Platinum,Wednesday,8:40,9:20
+Recess, DEPED 201,Platinum,Wednesday,9:20,9:50
+Mapeh, DEPED 201,Platinum,Wednesday,9:50,10:30
+Values Education, DEPED 201,Platinum,Wednesday,10:30,11:10
+AP, DEPED 201,Platinum,Wednesday,11:10,11:50
+ASYNC, DEPED 201,Platinum,Wednesday,12:30,12:55
+ASYNC, DEPED 201,Platinum,Wednesday,12:55,1:20
+TLE, DEPED 202,Radium,Wednesday,6:00,6:40
+Science, DEPED 202,Radium,Wednesday,6:40,7:20
+Filipino, DEPED 202,Radium,Wednesday,7:20,8:00
+Mathematics, DEPED 202,Radium,Wednesday,8:00,8:40
+English, DEPED 202,Radium,Wednesday,8:40,9:20
+Recess, DEPED 202,Radium,Wednesday,9:20,9:50
+Mapeh, DEPED 202,Radium,Wednesday,9:50,10:30
+Values Education, DEPED 202,Radium,Wednesday,10:30,11:10
+AP, DEPED 202,Radium,Wednesday,11:10,11:50
+ASYNC, DEPED 202,Radium,Wednesday,12:30,12:55
+ASYNC, DEPED 202,Radium,Wednesday,12:55,1:20
+TLE, DEPED 203,Silver,Wednesday,6:00,6:40
+Science, DEPED 203,Silver,Wednesday,6:40,7:20
+Filipino, DEPED 203,Silver,Wednesday,7:20,8:00
+Mathematics, DEPED 203,Silver,Wednesday,8:00,8:40
+English, DEPED 203,Silver,Wednesday,8:40,9:20
+Recess, DEPED 203,Silver,Wednesday,9:20,9:50
+Mapeh, DEPED 203,Silver,Wednesday,9:50,10:30
+Values Education, DEPED 203,Silver,Wednesday,10:30,11:10
+AP, DEPED 203,Silver,Wednesday,11:10,11:50
+ASYNC, DEPED 203,Silver,Wednesday,12:30,12:55
+ASYNC, DEPED 203,Silver,Wednesday,12:55,1:20
+TLE, SPED BLDG,Titanium,Wednesday,6:00,6:40
+Science, SPED BLDG,Titanium,Wednesday,6:40,7:20
+Filipino, SPED BLDG,Titanium,Wednesday,7:20,8:00
+Mathematics, SPED BLDG,Titanium,Wednesday,8:00,8:40
+English, SPED BLDG,Titanium,Wednesday,8:40,9:20
+Recess, SPED BLDG,Titanium,Wednesday,9:20,9:50
+Mapeh, SPED BLDG,Titanium,Wednesday,9:50,10:30
+Values Education, SPED BLDG,Titanium,Wednesday,10:30,11:10
+AP, SPED BLDG,Titanium,Wednesday,11:10,11:50
+ASYNC, SPED BLDG,Titanium,Wednesday,12:30,12:55
+ASYNC, SPED BLDG,Titanium,Wednesday,12:55,1:20
+Mapeh, VPEI 302,Uranium,Wednesday,6:00,6:40
+Values Education, VPEI 302,Uranium,Wednesday,6:40,7:20
+AP, VPEI 302,Uranium,Wednesday,7:20,8:00
+Science, VPEI 302,Uranium,Wednesday,8:00,8:40
+Mathematics, VPEI 302,Uranium,Wednesday,8:40,9:20
+Recess, VPEI 302,Uranium,Wednesday,9:20,9:50
+English, VPEI 302,Uranium,Wednesday,9:50,10:30
+Filipino, VPEI 302,Uranium,Wednesday,10:30,11:10
+TLE, VPEI 302,Uranium,Wednesday,11:10,11:50
+ASYNC, VPEI 302,Uranium,Wednesday,12:30,12:55
+ASYNC, VPEI 302,Uranium,Wednesday,12:55,1:20
+NMP, BCE 501,Anthurium,Wednesday,11:50,12:30
+HGP, VPEIII 502,Euphoria,Wednesday,11:50,12:30
+NMP, VPEII 502,Gardenia,Wednesday,11:50,12:30
+Filipino, BCE 501,Anthurium,Wednesday,6:00,6:40
+English, BCE 501,Anthurium,Wednesday,6:40,7:20
+Mathematics, BCE 501,Anthurium,Wednesday,7:20,8:00
+Science, BCE 501,Anthurium,Wednesday,8:00,8:40
+Recess, BCE 501,Anthurium,Wednesday,8:40,9:20
+AP, BCE 501,Anthurium,Wednesday,9:20,9:50
+Values Education, BCE 501,Anthurium,Wednesday,9:50,10:30
+TLE, BCE 501,Anthurium,Wednesday,10:30,11:10
+Mapeh, BCE 501,Anthurium,Wednesday,11:10,11:50
+ASYNC, BCE 501,Anthurium,Wednesday,12:30,12:55
+ASYNC, BCE 501,Anthurium,Wednesday,12:55,1:20
+Filipino, BCE 502,Buttercup,Wednesday,6:00,6:40
+English, BCE 502,Buttercup,Wednesday,6:40,7:20
+Mathematics, BCE 502,Buttercup,Wednesday,7:20,8:00
+Science, BCE 502,Buttercup,Wednesday,8:00,8:40
+Recess, BCE 502,Buttercup,Wednesday,8:40,9:20
+AP, BCE 502,Buttercup,Wednesday,9:20,9:50
+Values Education, BCE 502,Buttercup,Wednesday,9:50,10:30
+TLE, BCE 502,Buttercup,Wednesday,10:30,11:10
+Mapeh, BCE 502,Buttercup,Wednesday,11:10,11:50
+ASYNC, BCE 502,Buttercup,Wednesday,12:30,12:55
+ASYNC, BCE 502,Buttercup,Wednesday,12:55,1:20
+Filipino, BCE 503,Carnation,Wednesday,6:00,6:40
+English, BCE 503,Carnation,Wednesday,6:40,7:20
+Mathematics, BCE 503,Carnation,Wednesday,7:20,8:00
+Science, BCE 503,Carnation,Wednesday,8:00,8:40
+Recess, BCE 503,Carnation,Wednesday,8:40,9:20
+AP, BCE 503,Carnation,Wednesday,9:20,9:50
+ValuesEducation, BCE 503,Carnation,Wednesday,9:50,10:30
+TLE, BCE 503,Carnation,Wednesday,10:30,11:10
+Mapeh, BCE 503,Carnation,Wednesday,11:10,11:50
+ASYNC, BCE 503,Carnation,Wednesday,12:30,12:55
+ASYNC, BCE 503,Carnation,Wednesday,12:55,1:20
+Filipino, VPE III 501,Daffodil,Wednesday,6:00,6:40
+English, VPE III 501,Daffodil,Wednesday,6:40,7:20
+Mathematics, VPE III 501,Daffodil,Wednesday,7:20,8:00
+Science, VPE III 501,Daffodil,Wednesday,8:00,8:40
+Recess, VPE III 501,Daffodil,Wednesday,8:40,9:20
+AP, VPE III 501,Daffodil,Wednesday,9:20,9:50
+ValuesEducation, VPE III 501,Daffodil,Wednesday,9:50,10:30
+TLE, VPE III 501,Daffodil,Wednesday,10:30,11:10
+Mapeh, VPE III 501,Daffodil,Wednesday,11:10,11:50
+ASYNC, VPE III 501,Daffodil,Wednesday,12:30,12:55
+ASYNC, VPE III 501,Daffodil,Wednesday,12:55,1:20
+Filipino, VPE III 502,Euphoria,Wednesday,6:00,6:40
+English, VPE III 502,Euphoria,Wednesday,6:40,7:20
+Mathematics, VPE III 502,Euphoria,Wednesday,7:20,8:00
+Science, VPE III 502,Euphoria,Wednesday,8:00,8:40
+Recess, VPE III 502,Euphoria,Wednesday,8:40,9:20
+AP, VPE III 502,Euphoria,Wednesday,9:20,9:50
+ValuesEducation, VPE III 502,Euphoria,Wednesday,9:50,10:30
+TLE, VPE III 502,Euphoria,Wednesday,10:30,11:10
+Mapeh, VPE III 502,Euphoria,Wednesday,11:10,11:50
+ASYNC, VPE III 502,Euphoria,Wednesday,12:30,12:55
+ASYNC, VPE III 502,Euphoria,Wednesday,12:55,1:20
+Filipino, VPE III 503,Freesia,Wednesday,6:00,6:40
+English, VPE III 503,Freesia,Wednesday,6:40,7:20
+Mathematics, VPE III 503,Freesia,Wednesday,7:20,8:00
+Science, VPE III 503,Freesia,Wednesday,8:00,8:40
+Recess, VPE III 503,Freesia,Wednesday,8:40,9:20
+AP, VPE III 503,Freesia,Wednesday,9:20,9:50
+ValuesEducation, VPE III 503,Freesia,Wednesday,9:50,10:30
+TLE, VPE III 503,Freesia,Wednesday,10:30,11:10
+Mapeh, VPE III 503,Freesia,Wednesday,11:10,11:50
+ASYNC, VPE III 503,Freesia,Wednesday,12:30,12:55
+ASYNC, VPE III 503,Freesia,Wednesday,12:55,1:20
+Filipino, VPE II 502,Gardenia,Wednesday,6:00,6:40
+English, VPE II 502,Gardenia,Wednesday,6:40,7:20
+Mathematics, VPE II 502,Gardenia,Wednesday,7:20,8:00
+Science, VPE II 502,Gardenia,Wednesday,8:00,8:40
+Recess, VPE II 502,Gardenia,Wednesday,8:40,9:20
+AP, VPE II 502,Gardenia,Wednesday,9:20,9:50
+ValuesEducation, VPE II 502,Gardenia,Wednesday,9:50,10:30
+TLE, VPE II 502,Gardenia,Wednesday,10:30,11:10
+Mapeh, VPE II 502,Gardenia,Wednesday,11:10,11:50
+ASYNC, VPE II 502,Gardenia,Wednesday,12:30,12:55
+ASYNC, VPE II 502,Gardenia,Wednesday,12:55,1:20
+Filipino, BCE 401,Hibiscus,Wednesday,6:00,6:40
+English, BCE 401,Hibiscus,Wednesday,6:40,7:20
+Mathematics, BCE 401,Hibiscus,Wednesday,7:20,8:00
+Science, BCE 401,Hibiscus,Wednesday,8:00,8:40
+Recess, BCE 401,Hibiscus,Wednesday,8:40,9:20
+AP, BCE 401,Hibiscus,Wednesday,9:20,9:50
+ValuesEducation, BCE 401,Hibiscus,Wednesday,9:50,10:30
+TLE, BCE 401,Hibiscus,Wednesday,10:30,11:10
+Mapeh, BCE 401,Hibiscus,Wednesday,11:10,11:50
+ASYNC, BCE 401,Hibiscus,Wednesday,12:30,12:55
+ASYNC, BCE 401,Hibiscus,Wednesday,12:55,1:20
+Filipino, BCE 402,Iris,Wednesday,6:00,6:40
+English, BCE 402,Iris,Wednesday,6:40,7:20
+Mathematics, BCE 402,Iris,Wednesday,7:20,8:00
+Science, BCE 402,Iris,Wednesday,8:00,8:40
+Recess, BCE 402,Iris,Wednesday,8:40,9:20
+AP, BCE 402,Iris,Wednesday,9:20,9:50
+ValuesEducation, BCE 402,Iris,Wednesday,9:50,10:30
+TLE, BCE 402,Iris,Wednesday,10:30,11:10
+Mapeh, BCE 402,Iris,Wednesday,11:10,11:50
+ASYNC, BCE 402,Iris,Wednesday,12:30,12:55
+ASYNC, BCE 402,Iris,Wednesday,12:55,1:20
+Filipino, BCE 403,Jasmine,Wednesday,6:00,6:40
+English, BCE 403,Jasmine,Wednesday,6:40,7:20
+Mathematics, BCE 403,Jasmine,Wednesday,7:20,8:00
+Science, BCE 403,Jasmine,Wednesday,8:00,8:40
+Recess, BCE 403,Jasmine,Wednesday,8:40,9:20
+AP, BCE 403,Jasmine,Wednesday,9:20,9:50
+ValuesEducation, BCE 403,Jasmine,Wednesday,9:50,10:30
+TLE, BCE 403,Jasmine,Wednesday,10:30,11:10
+Mapeh, BCE 403,Jasmine,Wednesday,11:10,11:50
+NMP, BCE 403,Jasmine,Wednesday,11:50,12:30
+ASYNC, BCE 403,Jasmine,Wednesday,12:30,12:55
+ASYNC, BCE 403,Jasmine,Wednesday,12:55,1:20
+Filipino, VPE III 401,Kalmia,Wednesday,6:00,6:40
+English, VPE III 401,Kalmia,Wednesday,6:40,7:20
+Mathematics, VPE III 401,Kalmia,Wednesday,7:20,8:00
+Science, VPE III 401,Kalmia,Wednesday,8:00,8:40
+Recess, VPE III 401,Kalmia,Wednesday,8:40,9:20
+AP, VPE III 401,Kalmia,Wednesday,9:20,9:50
+ValuesEducation, VPE III 401,Kalmia,Wednesday,9:50,10:30
+TLE, VPE III 401,Kalmia,Wednesday,10:30,11:10
+Mapeh, VPE III 401,Kalmia,Wednesday,11:10,11:50
+ASYNC, VPE III 401,Kalmia,Wednesday,12:30,12:55
+ASYNC, VPE III 401,Kalmia,Wednesday,12:55,1:20
+Filipino, VPE III 402,Lavender,Wednesday,6:00,6:40
+English, VPE III 402,Lavender,Wednesday,6:40,7:20
+Mathematics, VPE III 402,Lavender,Wednesday,7:20,8:00
+Science, VPE III 402,Lavender,Wednesday,8:00,8:40
+Recess, VPE III 402,Lavender,Wednesday,8:40,9:20
+AP, VPE III 402,Lavender,Wednesday,9:20,9:50
+ValuesEducation, VPE III 402,Lavender,Wednesday,9:50,10:30
+TLE, VPE III 402,Lavender,Wednesday,10:30,11:10
+Mapeh, VPE III 402,Lavender,Wednesday,11:10,11:50
+ASYNC, VPE III 402,Lavender,Wednesday,12:30,12:55
+ASYNC, VPE III 402,Lavender,Wednesday,12:55,1:20
+Filipino, VPE III 403,Marigold,Wednesday,6:00,6:40
+English, VPE III 403,Marigold,Wednesday,6:40,7:20
+Mathematics, VPE III 403,Marigold,Wednesday,7:20,8:00
+Science, VPE III 403,Marigold,Wednesday,8:00,8:40
+Recess, VPE III 403,Marigold,Wednesday,8:40,9:20
+AP, VPE III 403,Marigold,Wednesday,9:20,9:50
+ValuesEducation, VPE III 403,Marigold,Wednesday,9:50,10:30
+TLE, VPE III 403,Marigold,Wednesday,10:30,11:10
+Mapeh, VPE III 403,Marigold,Wednesday,11:10,11:50
+ASYNC, VPE III 403,Marigold,Wednesday,12:30,12:55
+ASYNC, VPE III 403,Marigold,Wednesday,12:55,1:20
+Filipino, BCE 301,Narcissus,Wednesday,6:00,6:40
+English, BCE 301,Narcissus,Wednesday,6:40,7:20
+Mathematics, BCE 301,Narcissus,Wednesday,7:20,8:00
+Science, BCE 301,Narcissus,Wednesday,8:00,8:40
+Recess, BCE 301,Narcissus,Wednesday,8:40,9:20
+AP, BCE 301,Narcissus,Wednesday,9:20,9:50
+ValuesEducation, BCE 301,Narcissus,Wednesday,9:50,10:30
+TLE, BCE 301,Narcissus,Wednesday,10:30,11:10
+Mapeh, BCE 301,Narcissus,Wednesday,11:10,11:50
+ASYNC, BCE 301,Narcissus,Wednesday,12:30,12:55
+ASYNC, BCE 301,Narcissus,Wednesday,12:55,1:20
+Filipino, BCE 302,Orchid,Wednesday,6:00,6:40
+English, BCE 302,Orchid,Wednesday,6:40,7:20
+Mathematics, BCE 302,Orchid,Wednesday,7:20,8:00
+Science, BCE 302,Orchid,Wednesday,8:00,8:40
+Recess, BCE 302,Orchid,Wednesday,8:40,9:20
+AP, BCE 302,Orchid,Wednesday,9:20,9:50
+ValuesEducation, BCE 302,Orchid,Wednesday,9:50,10:30
+TLE, BCE 302,Orchid,Wednesday,10:30,11:10
+Mapeh, BCE 302,Orchid,Wednesday,11:10,11:50
+ASYNC, BCE 302,Orchid,Wednesday,12:30,12:55
+ASYNC, BCE 302,Orchid,Wednesday,12:55,1:20
+NMP, BCE 302,Orchid,Wednesday,11:50,12:30
+Filipino, BCE 303,Periwinkle,Wednesday,6:00,6:40
+English, BCE 303,Periwinkle,Wednesday,6:40,7:20
+Mathematics, BCE 303,Periwinkle,Wednesday,7:20,8:00
+Science, BCE 303,Periwinkle,Wednesday,8:00,8:40
+Recess, BCE 303,Periwinkle,Wednesday,8:40,9:20
+AP, BCE 303,Periwinkle,Wednesday,9:20,9:50
+ValuesEducation, BCE 303,Periwinkle,Wednesday,9:50,10:30
+TLE, BCE 303,Periwinkle,Wednesday,10:30,11:10
+Mapeh, BCE 303,Periwinkle,Wednesday,11:10,11:50
+ASYNC, BCE 303,Periwinkle,Wednesday,12:30,12:55
+ASYNC, BCE 303,Periwinkle,Wednesday,12:55,1:20
+Filipino, DEPED 101,Quesnelia,Wednesday,6:00,6:40
+English, DEPED 101,Quesnelia,Wednesday,6:40,7:20
+Mathematics, DEPED 101,Quesnelia,Wednesday,7:20,8:00
+Science, DEPED 101,Quesnelia,Wednesday,8:00,8:40
+Recess, DEPED 101,Quesnelia,Wednesday,8:40,9:20
+AP, DEPED 101,Quesnelia,Wednesday,9:20,9:50
+ValuesEducation, DEPED 101,Quesnelia,Wednesday,9:50,10:30
+TLE, DEPED 101,Quesnelia,Wednesday,10:30,11:10
+Mapeh, DEPED 101,Quesnelia,Wednesday,11:10,11:50
+ASYNC, DEPED 101,Quesnelia,Wednesday,12:30,12:55
+ASYNC, DEPED 101,Quesnelia,Wednesday,12:55,1:20
+Filipino, VPE I 302,Rose,Wednesday,6:00,6:40
+English, VPE I 302,Rose,Wednesday,6:40,7:20
+Mathematics, VPE I 302,Rose,Wednesday,7:20,8:00
+Science, VPE I 302,Rose,Wednesday,8:00,8:40
+Recess, VPE I 302,Rose,Wednesday,8:40,9:20
+AP, VPE I 302,Rose,Wednesday,9:20,9:50
+ValuesEducation, VPE I 302,Rose,Wednesday,9:50,10:30
+TLE, VPE I 302,Rose,Wednesday,10:30,11:10
+Mapeh, VPE I 302,Rose,Wednesday,11:10,11:50
+ASYNC, VPE I 302,Rose,Wednesday,12:30,12:55
+ASYNC, VPE I 302,Rose,Wednesday,12:55,1:20
+NMP, VPE I 302,Rose,Wednesday,11:50,12:30
+Filipino, BCE 501,Amiable,Wednesday,12:50,1:30
+English, BCE 501,Amiable,Wednesday,1:30,2:10
+Mathematics, BCE 501,Amiable,Wednesday,2:10,2:50
+Science, BCE 501,Amiable,Wednesday,2:50,3:30
+Recess, BCE 501,Amiable,Wednesday,3:30,4:00
+AP, BCE 501,Amiable,Wednesday,4:00,4:40
+ValuesEducation, BCE 501,Amiable,Wednesday,4:40,5:20
+TLE, BCE 501,Amiable,Wednesday,5:20,6:00
+Mapeh, BCE 501,Amiable,Wednesday,6:00,6:40
+NMP, BCE 501,Amiable,Wednesday,6:40,7:20
+ASYNC, BCE 501,Amiable,Wednesday,7:20,7:45
+ASYNC, BCE 501,Amiable,Wednesday,7:45,8:10
+Filipino, BCE 502,Brilliance,Wednesday,12:50,1:30
+English, BCE 502,Brilliance,Wednesday,1:30,2:10
+Mathematics, BCE 502,Brilliance,Wednesday,2:10,2:50
+Science, BCE 502,Brilliance,Wednesday,2:50,3:30
+Recess, BCE 502,Brilliance,Wednesday,3:30,4:00
+AP, BCE 502,Brilliance,Wednesday,4:00,4:40
+ValuesEducation, BCE 502,Brilliance,Wednesday,4:40,5:20
+TLE, BCE 502,Brilliance,Wednesday,5:20,6:00
+Mapeh, BCE 502,Brilliance,Wednesday,6:00,6:40
+ASYNC, BCE 502,Brilliance,Wednesday,7:20,7:45
+ASYNC, BCE 502,Brilliance,Wednesday,7:45,8:10
+Filipino, BCE 503,Cheerful,Wednesday,12:50,1:30
+English, BCE 503,Cheerful,Wednesday,1:30,2:10
+Mathematics, BCE 503,Cheerful,Wednesday,2:10,2:50
+Science, BCE 503,Cheerful,Wednesday,2:50,3:30
+Recess, BCE 503,Cheerful,Wednesday,3:30,4:00
+AP, BCE 503,Cheerful,Wednesday,4:00,4:40
+ValuesEducation, BCE 503,Cheerful,Wednesday,4:40,5:20
+TLE, BCE 503,Cheerful,Wednesday,5:20,6:00
+Mapeh, BCE 503,Cheerful,Wednesday,6:00,6:40
+ASYNC, BCE 503,Cheerful,Wednesday,7:20,7:45
+ASYNC, BCE 503,Cheerful,Wednesday,7:45,8:10
+Filipino, VPE III 501,Diligence,Wednesday,12:50,1:30
+English, VPE III 501,Diligence,Wednesday,1:30,2:10
+Mathematics, VPE III 501,Diligence,Wednesday,2:10,2:50
+Science, VPE III 501,Diligence,Wednesday,2:50,3:30
+Recess, VPE III 501,Diligence,Wednesday,3:30,4:00
+AP, VPE III 501,Diligence,Wednesday,4:00,4:40
+ValuesEducation, VPE III 501,Diligence,Wednesday,4:40,5:20
+TLE, VPE III 501,Diligence,Wednesday,5:20,6:00
+Mapeh, VPE III 501,Diligence,Wednesday,6:00,6:40
+ASYNC, VPE III 501,Diligence,Wednesday,7:20,7:45
+ASYNC, VPE III 501,Diligence,Wednesday,7:45,8:10
+Filipino, VPE III 502,Excellence,Wednesday,12:50,1:30
+English, VPE III 502,Excellence,Wednesday,1:30,2:10
+Mathematics, VPE III 502,Excellence,Wednesday,2:10,2:50
+Science, VPE III 502,Excellence,Wednesday,2:50,3:30
+Recess, VPE III 502,Excellence,Wednesday,3:30,4:00
+AP, VPE III 502,Excellence,Wednesday,4:00,4:40
+ValuesEducation, VPE III 502,Excellence,Wednesday,4:40,5:20
+TLE, VPE III 502,Excellence,Wednesday,5:20,6:00
+Mapeh, VPE III 502,Excellence,Wednesday,6:00,6:40
+HGP, VPE III 502,Excellence,Wednesday,6:40,7:20
+ASYNC, VPE III 502,Excellence,Wednesday,7:20,7:45
+ASYNC, VPE III 502,Excellence,Wednesday,7:45,8:10
+Filipino, VPE III 503,Fortitude,Wednesday,12:50,1:30
+English, VPE III 503,Fortitude,Wednesday,1:30,2:10
+Mathematics, VPE III 503,Fortitude,Wednesday,2:10,2:50
+Science, VPE III 503,Fortitude,Wednesday,2:50,3:30
+Recess, VPE III 503,Fortitude,Wednesday,3:30,4:00
+AP, VPE III 503,Fortitude,Wednesday,4:00,4:40
+ValuesEducation, VPE III 503,Fortitude,Wednesday,4:40,5:20
+TLE, VPE III 503,Fortitude,Wednesday,5:20,6:00
+Mapeh, VPE III 503,Fortitude,Wednesday,6:00,6:40
+NMP, VPE III 503,Fortitude,Wednesday,6:40,7:20
+ASYNC, VPE III 503,Fortitude,Wednesday,7:20,7:45
+ASYNC, VPE III 503,Fortitude,Wednesday,7:45,8:10
+Filipino, BCE 401,Generous,Wednesday,12:50,1:30
+English, BCE 401,Generous,Wednesday,1:30,2:10
+Mathematics, BCE 401,Generous,Wednesday,2:10,2:50
+Science, BCE 401,Generous,Wednesday,2:50,3:30
+Recess, BCE 401,Generous,Wednesday,3:30,4:00
+AP, BCE 401,Generous,Wednesday,4:00,4:40
+ValuesEducation, BCE 401,Generous,Wednesday,4:40,5:20
+TLE, BCE 401,Generous,Wednesday,5:20,6:00
+Mapeh, BCE 401,Generous,Wednesday,6:00,6:40
+NMP, BCE 401,Generous,Wednesday,6:40,7:20
+ASYNC, BCE 401,Generous,Wednesday,7:20,7:45
+ASYNC, BCE 401,Generous,Wednesday,7:45,8:10
+Filipino, BCE 402,Humility,Wednesday,12:50,1:30
+English, BCE 402,Humility,Wednesday,1:30,2:10
+Mathematics, BCE 402,Humility,Wednesday,2:10,2:50
+Science, BCE 402,Humility,Wednesday,2:50,3:30
+Recess, BCE 402,Humility,Wednesday,3:30,4:00
+AP, BCE 402,Humility,Wednesday,4:00,4:40
+ValuesEducation, BCE 402,Humility,Wednesday,4:40,5:20
+TLE, BCE 402,Humility,Wednesday,5:20,6:00
+Mapeh, BCE 402,Humility,Wednesday,6:00,6:40
+ASYNC, BCE 402,Humility,Wednesday,7:20,7:45
+ASYNC, BCE 402,Humility,Wednesday,7:45,8:10
+Filipino, VPE III 401,Joyful,Wednesday,12:50,1:30
+English, VPE III 401,Joyful,Wednesday,1:30,2:10
+Mathematics, VPE III 401,Joyful,Wednesday,2:10,2:50
+Science, VPE III 401,Joyful,Wednesday,2:50,3:30
+Recess, VPE III 401,Joyful,Wednesday,3:30,4:00
+AP, VPE III 401,Joyful,Wednesday,4:00,4:40
+ValuesEducation, VPE III 401,Joyful,Wednesday,4:40,5:20
+TLE, VPE III 401,Joyful,Wednesday,5:20,6:00
+Mapeh, VPE III 401,Joyful,Wednesday,6:00,6:40
+ASYNC, VPE III 401,Joyful,Wednesday,7:20,7:45
+ASYNC, VPE III 401,Joyful,Wednesday,7:45,8:10
+Filipino, VPE III 402,Kindness,Wednesday,12:50,1:30
+English, VPE III 402,Kindness,Wednesday,1:30,2:10
+Mathematics, VPE III 402,Kindness,Wednesday,2:10,2:50
+Science, VPE III 402,Kindness,Wednesday,2:50,3:30
+Recess, VPE III 402,Kindness,Wednesday,3:30,4:00
+AP, VPE III 402,Kindness,Wednesday,4:00,4:40
+ValuesEducation, VPE III 402,Kindness,Wednesday,4:40,5:20
+TLE, VPE III 402,Kindness,Wednesday,5:20,6:00
+Mapeh, VPE III 402,Kindness,Wednesday,6:00,6:40
+ASYNC, VPE III 402,Kindness,Wednesday,7:20,7:45
+ASYNC, VPE III 402,Kindness,Wednesday,7:45,8:10
+Filipino, VPE III 403,Lovable,Wednesday,12:50,1:30
+English, VPE III 403,Lovable,Wednesday,1:30,2:10
+Mathematics, VPE III 403,Lovable,Wednesday,2:10,2:50
+Science, VPE III 403,Lovable,Wednesday,2:50,3:30
+Recess, VPE III 403,Lovable,Wednesday,3:30,4:00
+AP, VPE III 403,Lovable,Wednesday,4:00,4:40
+ValuesEducation, VPE III 403,Lovable,Wednesday,4:40,5:20
+TLE, VPE III 403,Lovable,Wednesday,5:20,6:00
+Mapeh, VPE III 403,Lovable,Wednesday,6:00,6:40
+ASYNC, VPE III 403,Lovable,Wednesday,7:20,7:45
+ASYNC, VPE III 403,Lovable,Wednesday,7:45,8:10
+Filipino, BCE 301,Magnificent,Wednesday,12:50,1:30
+English, BCE 301,Magnificent,Wednesday,1:30,2:10
+Mathematics, BCE 301,Magnificent,Wednesday,2:10,2:50
+Science, BCE 301,Magnificent,Wednesday,2:50,3:30
+Recess, BCE 301,Magnificent,Wednesday,3:30,4:00
+AP, BCE 301,Magnificent,Wednesday,4:00,4:40
+ValuesEducation, BCE 301,Magnificent,Wednesday,4:40,5:20
+TLE, BCE 301,Magnificent,Wednesday,5:20,6:00
+Mapeh, BCE 301,Magnificent,Wednesday,6:00,6:40
+ASYNC, BCE 301,Magnificent,Wednesday,7:20,7:45
+ASYNC, BCE 301,Magnificent,Wednesday,7:45,8:10
+Filipino, BCE 302,Noble,Wednesday,12:50,1:30
+English, BCE 302,Noble,Wednesday,1:30,2:10
+Mathematics, BCE 302,Noble,Wednesday,2:10,2:50
+Science, BCE 302,Noble,Wednesday,2:50,3:30
+Recess, BCE 302,Noble,Wednesday,3:30,4:00
+AP, BCE 302,Noble,Wednesday,4:00,4:40
+ValuesEducation, BCE 302,Noble,Wednesday,4:40,5:20
+TLE, BCE 302,Noble,Wednesday,5:20,6:00
+Mapeh, BCE 302,Noble,Wednesday,6:00,6:40
+ASYNC, BCE 302,Noble,Wednesday,7:20,7:45
+ASYNC, BCE 302,Noble,Wednesday,7:45,8:10
+Mapeh, 4F SPED BLDG,Piety,Wednesday,6:00,6:40
+ValuesEducation, 4F SPED BLDG,Piety,Wednesday,6:40,7:20
+TLE, 4F SPED BLDG,Piety,Wednesday,7:20,8:00
+Mathematics, 4F SPED BLDG,Piety,Wednesday,8:00,8:40
+Recess, 4F SPED BLDG,Piety,Wednesday,8:40,9:10
+Filipino, 4F SPED BLDG,Piety,Wednesday,9:10,9:50
+English, 4F SPED BLDG,Piety,Thursday,9:50,10:30
+AP, 4F SPED BLDG,Piety,Wednesday,10:30,11:10
+Science, 4F SPED BLDG,Piety,Wednesday,11:10,11:50
+HGP, 4F SPED BLDG,Piety,Wednesday,11:50,12:30
+ASYNC, 4F SPED BLDG,Piety,Wednesday,12:30,12:55
+ASYNC, 4F SPED BLDG,Piety,Wednesday,12:55,1:20
+Mapeh, VPE I 302,Righteous,Wednesday,6:00,6:40
+ValuesEducation, VPE I 302,Righteous,Wednesday,6:40,7:20
+TLE, VPE I 302,Righteous,Wednesday,7:20,8:00
+Mathematics, VPE I 302,Righteous,Wednesday,8:00,8:40
+Recess, VPE I 302,Righteous,Wednesday,8:40,9:10
+Filipino, VPE I 302,Righteous,Wednesday,9:10,9:50
+English, VPE I 302,Righteous,Thursday,9:50,10:30
+AP, VPE I 302,Righteous,Wednesday,10:30,11:10
+Science, VPE I 302,Righteous,Wednesday,11:10,11:50
+ASYNC, VPE I 302,Righteous,Wednesday,12:30,12:55
+ASYNC, VPE I 302,Righteous,Wednesday,12:55,1:20
+TLE,401,Aurora,Wednesday,12:50,1:30
+Mapeh,401,Aurora,Wednesday,1:30,2:10
+ValuesEducation,401,Aurora,Wednesday,2:10,2:50
+AP,401,Aurora,Wednesday,2:50,3:30
+Science,401,Aurora,Wednesday,3:30,4:00
+Recess,401,Aurora,Wednesday,4:00,4:40
+Mathematics,401,Aurora,Wednesday,4:40,5:20
+English,401,Aurora,Wednesday,5:20,6:00
+Filipino,401,Aurora,Wednesday,6:00,6:40
+ASYNC,401,Aurora,Wednesday,7:20,7:45
+ASYNC,401,Aurora,Wednesday,7:45,8:10
+TLE,402,Batanes,Wednesday,12:50,1:30
+Mapeh,402,Batanes,Wednesday,1:30,2:10
+ValuesEducation,402,Batanes,Wednesday,2:10,2:50
+AP,402,Batanes,Wednesday,2:50,3:30
+Science,402,Batanes,Wednesday,3:30,4:00
+Recess,402,Batanes,Wednesday,4:00,4:40
+Mathematics,402,Batanes,Wednesday,4:40,5:20
+English,402,Batanes,Wednesday,5:20,6:00
+Filipino,402,Batanes,Wednesday,6:00,6:40
+ASYNC,402,Batanes,Wednesday,7:20,7:45
+ASYNC,402,Batanes,Wednesday,7:45,8:10
+TLE,403,Camiguin,Wednesday,12:50,1:30
+Mapeh,403,Camiguin,Wednesday,1:30,2:10
+ValuesEducation,403,Camiguin,Wednesday,2:10,2:50
+AP,403,Camiguin,Wednesday,2:50,3:30
+Science,403,Camiguin,Wednesday,3:30,4:00
+Recess,403,Camiguin,Wednesday,4:00,4:40
+Mathematics,403,Camiguin,Wednesday,4:40,5:20
+English,403,Camiguin,Wednesday,5:20,6:00
+Filipino,403,Camiguin,Wednesday,6:00,6:40
+ASYNC,403,Camiguin,Wednesday,7:20,7:45
+ASYNC,403,Camiguin,Wednesday,7:45,8:10
+TLE,301,Cebu,Wednesday,12:50,1:30
+Mapeh,301,Cebu,Wednesday,1:30,2:10
+ValuesEducation,301,Cebu,Wednesday,2:10,2:50
+AP,301,Cebu,Wednesday,2:50,3:30
+Science,301,Cebu,Wednesday,3:30,4:00
+Recess,301,Cebu,Wednesday,4:00,4:40
+Mathematics,301,Cebu,Wednesday,4:40,5:20
+English,301,Cebu,Wednesday,5:20,6:00
+Filipino,301,Cebu,Wednesday,6:00,6:40
+ASYNC,301,Cebu,Wednesday,7:20,7:45
+ASYNC,301,Cebu,Wednesday,7:45,8:10
+TLE,302,Davao,Wednesday,12:50,1:30
+Mapeh,302,Davao,Wednesday,1:30,2:10
+ValuesEducation,302,Davao,Wednesday,2:10,2:50
+AP,302,Davao,Wednesday,2:50,3:30
+Science,302,Davao,Wednesday,3:30,4:00
+Recess,302,Davao,Wednesday,4:00,4:40
+Mathematics,302,Davao,Wednesday,4:40,5:20
+English,302,Davao,Wednesday,5:20,6:00
+Filipino,302,Davao,Wednesday,6:00,6:40
+ASYNC,302,Davao,Wednesday,7:20,7:45
+ASYNC,302,Davao,Wednesday,7:45,8:10
+TLE,303,Gen. Santos,Wednesday,12:50,1:30
+Mapeh,303,Gen. Santos,Wednesday,1:30,2:10
+ValuesEducation,303,Gen. Santos,Wednesday,2:10,2:50
+AP,303,Gen. Santos,Wednesday,2:50,3:30
+Science,303,Gen. Santos,Wednesday,3:30,4:00
+Recess,303,Gen. Santos,Wednesday,4:00,4:40
+Mathematics,303,Gen. Santos,Wednesday,4:40,5:20
+English,303,Gen. Santos,Wednesday,5:20,6:00
+Filipino,303,Gen. Santos,Wednesday,6:00,6:40
+ASYNC,303,Gen. Santos,Wednesday,7:20,7:45
+ASYNC,303,Gen. Santos,Wednesday,7:45,8:10
+TLE, VPE III 301,Guimaras,Wednesday,12:50,1:30
+Mapeh, VPE III 301,Guimaras,Wednesday,1:30,2:10
+ValuesEducation, VPE III 301,Guimaras,Wednesday,2:10,2:50
+AP, VPE III 301,Guimaras,Wednesday,2:50,3:30
+Science, VPE III 301,Guimaras,Wednesday,3:30,4:00
+Recess, VPE III 301,Guimaras,Wednesday,4:00,4:40
+Mathematics, VPE III 301,Guimaras,Wednesday,4:40,5:20
+English, VPE III 301,Guimaras,Wednesday,5:20,6:00
+Filipino, VPE III 301,Guimaras,Wednesday,6:00,6:40
+ASYNC, VPE III 301,Guimaras,Wednesday,7:20,7:45
+ASYNC, VPE III 301,Guimaras,Wednesday,7:45,8:10
+TLE, VPE III 302,Ilocos,Wednesday,12:50,1:30
+Mapeh, VPE III 302,Ilocos,Wednesday,1:30,2:10
+ValuesEducation, VPE III 302,Ilocos,Wednesday,2:10,2:50
+AP, VPE III 302,Ilocos,Wednesday,2:50,3:30
+Science, VPE III 302,Ilocos,Wednesday,3:30,4:00
+Recess, VPE III 302,Ilocos,Wednesday,4:00,4:40
+Mathematics, VPE III 302,Ilocos,Wednesday,4:40,5:20
+English, VPE III 302,Ilocos,Wednesday,5:20,6:00
+Filipino, VPE III 302,Ilocos,Wednesday,6:00,6:40
+ASYNC, VPE III 302,Ilocos,Wednesday,7:20,7:45
+ASYNC, VPE III 302,Ilocos,Wednesday,7:45,8:10
+TLE, VPE I 301,Iloilo,Wednesday,12:50,1:30
+Mapeh, VPE I 301,Iloilo,Wednesday,1:30,2:10
+ValuesEducation, VPE I 301,Iloilo,Wednesday,2:10,2:50
+AP, VPE I 301,Iloilo,Wednesday,2:50,3:30
+Science, VPE I 301,Iloilo,Wednesday,3:30,4:00
+Recess, VPE I 301,Iloilo,Wednesday,4:00,4:40
+Mathematics, VPE I 301,Iloilo,Wednesday,4:40,5:20
+English, VPE I 301,Iloilo,Wednesday,5:20,6:00
+Filipino, VPE I 301,Iloilo,Wednesday,6:00,6:40
+ASYNC, VPE I 301,Iloilo,Wednesday,7:20,7:45
+ASYNC, VPE I 301,Iloilo,Wednesday,7:45,8:10
+TLE, VPE I 303,Kalinga,Wednesday,12:50,1:30
+Mapeh, VPE I 303,Kalinga,Wednesday,1:30,2:10
+ValuesEducation, VPE I 303,Kalinga,Wednesday,2:10,2:50
+AP, VPE I 303,Kalinga,Wednesday,2:50,3:30
+Science, VPE I 303,Kalinga,Wednesday,3:30,4:00
+Recess, VPE I 303,Kalinga,Wednesday,4:00,4:40
+Mathematics, VPE I 303,Kalinga,Wednesday,4:40,5:20
+English, VPE I 303,Kalinga,Wednesday,5:20,6:00
+Filipino, VPE I 303,Kalinga,Wednesday,6:00,6:40
+ASYNC, VPE I 303,Kalinga,Wednesday,7:20,7:45
+ASYNC, VPE I 303,Kalinga,Wednesday,7:45,8:10
+TLE, VPE I 304,Laguna,Wednesday,12:50,1:30
+Mapeh, VPE I 304,Laguna,Wednesday,1:30,2:10
+ValuesEducation, VPE I 304,Laguna,Wednesday,2:10,2:50
+AP, VPE I 304,Laguna,Wednesday,2:50,3:30
+Science, VPE I 304,Laguna,Wednesday,3:30,4:00
+Recess, VPE I 304,Laguna,Wednesday,4:00,4:40
+Mathematics, VPE I 304,Laguna,Wednesday,4:40,5:20
+English, VPE I 304,Laguna,Wednesday,5:20,6:00
+Filipino, VPE I 304,Laguna,Wednesday,6:00,6:40
+ASYNC, VPE I 304,Laguna,Wednesday,7:20,7:45
+ASYNC, VPE I 304,Laguna,Wednesday,7:45,8:10
+TLE, DEPED 301,Masbate,Wednesday,12:50,1:30
+Mapeh, DEPED 301,Masbate,Wednesday,1:30,2:10
+ValuesEducation, DEPED 301,Masbate,Wednesday,2:10,2:50
+AP, DEPED 301,Masbate,Wednesday,2:50,3:30
+Science, DEPED 301,Masbate,Wednesday,3:30,4:00
+Recess, DEPED 301,Masbate,Wednesday,4:00,4:40
+Mathematics, DEPED 301,Masbate,Wednesday,4:40,5:20
+English, DEPED 301,Masbate,Wednesday,5:20,6:00
+Filipino, DEPED 301,Masbate,Wednesday,6:00,6:40
+ASYNC, DEPED 301,Masbate,Wednesday,7:20,7:45
+ASYNC, DEPED 301,Masbate,Wednesday,7:45,8:10
+TLE, DEPED 302,Pasig,Wednesday,12:50,1:30
+Mapeh, DEPED 302,Pasig,Wednesday,1:30,2:10
+ValuesEducation, DEPED 302,Pasig,Wednesday,2:10,2:50
+AP, DEPED 302,Pasig,Wednesday,2:50,3:30
+Science, DEPED 302,Pasig,Wednesday,3:30,4:00
+Recess, DEPED 302,Pasig,Wednesday,4:00,4:40
+Mathematics, DEPED 302,Pasig,Wednesday,4:40,5:20
+English, DEPED 302,Pasig,Wednesday,5:20,6:00
+Filipino, DEPED 302,Pasig,Wednesday,6:00,6:40
+ASYNC, DEPED 302,Pasig,Wednesday,7:20,7:45
+ASYNC, DEPED 302,Pasig,Wednesday,7:45,8:10
+TLE, DEPED 303,Romblon,Wednesday,12:50,1:30
+Mapeh, DEPED 303,Romblon,Wednesday,1:30,2:10
+ValuesEducation, DEPED 303,Romblon,Wednesday,2:10,2:50
+AP, DEPED 303,Romblon,Wednesday,2:50,3:30
+Science, DEPED 303,Romblon,Wednesday,3:30,4:00
+Recess, DEPED 303,Romblon,Wednesday,4:00,4:40
+Mathematics, DEPED 303,Romblon,Wednesday,4:40,5:20
+English, DEPED 303,Romblon,Wednesday,5:20,6:00
+Filipino, DEPED 303,Romblon,Wednesday,6:00,6:40
+ASYNC, DEPED 303,Romblon,Wednesday,7:20,7:45
+ASYNC, DEPED 303,Romblon,Wednesday,7:45,8:10
+TLE, DEPED 201,Samar,Wednesday,12:50,1:30
+Mapeh, DEPED 201,Samar,Wednesday,1:30,2:10
+ValuesEducation, DEPED 201,Samar,Wednesday,2:10,2:50
+AP, DEPED 201,Samar,Wednesday,2:50,3:30
+Science, DEPED 201,Samar,Wednesday,3:30,4:00
+Recess, DEPED 201,Samar,Wednesday,4:00,4:40
+Mathematics, DEPED 201,Samar,Wednesday,4:40,5:20
+English, DEPED 201,Samar,Wednesday,5:20,6:00
+Filipino, DEPED 201,Samar,Wednesday,6:00,6:40
+ASYNC, DEPED 201,Samar,Wednesday,7:20,7:45
+ASYNC, DEPED 201,Samar,Wednesday,7:45,8:10
+TLE, DEPED 202,Surigao,Wednesday,12:50,1:30
+Mapeh, DEPED 202,Surigao,Wednesday,1:30,2:10
+ValuesEducation, DEPED 202,Surigao,Wednesday,2:10,2:50
+AP, DEPED 202,Surigao,Wednesday,2:50,3:30
+Science, DEPED 202,Surigao,Wednesday,3:30,4:00
+Recess, DEPED 202,Surigao,Wednesday,4:00,4:40
+Mathematics, DEPED 202,Surigao,Wednesday,4:40,5:20
+English, DEPED 202,Surigao,Wednesday,5:20,6:00
+Filipino, DEPED 202,Surigao,Wednesday,6:00,6:40
+ASYNC, DEPED 202,Surigao,Wednesday,7:20,7:45
+ASYNC, DEPED 202,Surigao,Wednesday,7:45,8:10
+TLE, DEPED 103,Tawi-Tawi,Wednesday,6:00,6:40
+Mapeh, DEPED 103,Tawi-Tawi,Wednesday,6:40,7:20
+ValuesEducation, DEPED 103,Tawi-Tawi,Wednesday,7:20,8:00
+AP, DEPED 103,Tawi-Tawi,Wednesday,8:00,8:40
+Science, DEPED 103,Tawi-Tawi,Wednesday,8:40,9:10
+Recess, DEPED 103,Tawi-Tawi,Wednesday,9:10,9:50
+Mathematics, DEPED 103,Tawi-Tawi,Wednesday,9:50,10:30
+English, DEPED 103,Tawi-Tawi,Wednesday,10:30,11:10
+Filipino, DEPED 103,Tawi-Tawi,Wednesday,11:10,11:50
+NMP, DEPED 103,Tawi-Tawi,Wednesday,11:50,12:30
+ASYNC, DEPED 103,Tawi-Tawi,Wednesday,12:30,12:55
+ASYNC, DEPED 103,Tawi-Tawi,Wednesday,12:55,1:20
+TLE, VPE I 302,Zamboanga,Wednesday,6:00,6:40
+Mapeh, VPE I 302,Zamboanga,Wednesday,6:40,7:20
+ValuesEducation, VPE I 302,Zamboanga,Wednesday,7:20,8:00
+AP, VPE I 302,Zamboanga,Wednesday,8:00,8:40
+Science, VPE I 302,Zamboanga,Wednesday,8:40,9:10
+Recess, VPE I 302,Zamboanga,Wednesday,9:10,9:50
+Mathematics, VPE I 302,Zamboanga,Wednesday,9:50,10:30
+English, VPE I 302,Zamboanga,Wednesday,10:30,11:10
+Filipino, VPE I 302,Zamboanga,Wednesday,11:10,11:50
+NMP, VPE I 302,Zamboanga,Wednesday,11:50,12:30
+ASYNC, VPE I 302,Zamboanga,Wednesday,12:30,12:55
+ASYNC, VPE I 302,Zamboanga,Wednesday,12:55,1:20
+TLE,401,Argon,Thursday,6:00,6:40
+Mapeh,401,Argon,Thursday,6:40,7:20
+Values Education,401,Argon,Thursday,7:20,8:00
+AP,401,Argon,Thursday,8:00,8:40
+Science,401,Argon,Thursday,8:40,9:20
+Recess,401,Argon,Thursday,9:20,9:50
+Mathematics,401,Argon,Thursday,9:50,10:30
+English,401,Argon,Thursday,10:30,11:10
+Filipino,401,Argon,Thursday,11:10,11:50
+NMP,401,Argon,Thursday,11:50,12:30
+ASYNC,401,Argon,Thursday,12:30,12:55
+ASYNC,401,Argon,Thursday,12:55,1:20
+Values Education,403,Barium,Thursday,6:00,6:40
+TLE,402,Barium,Thursday,6:40,7:20
+AP,402,Barium,Thursday,7:20,8:00
+Science,402,Barium,Thursday,8:00,8:40
+Mathematics,402,Barium,Thursday,8:40,9:20
+Recess,402,Barium,Thursday,9:20,9:50
+English,402,Barium,Thursday,9:50,10:30
+Filipino,402,Barium,Thursday,10:30,11:10
+Mapeh,402,Barium,Thursday,11:10,11:50
+ASYNC,402,Barium,Thursday,12:30,12:55
+ASYNC,402,Barium,Thursday,12:55,1:20
+NMP,302,Europium,Thursday,11:50,12:30
+HGP, VPEI 301,Iron,Thursday,11:50,12:30
+NMP, VPEI 303,Keypton,Thursday,11:50,12:30
+HGP, DEPED 303,Oxygen,Thursday,11:50,12:30
+NMP, DEPED 203,Silver,Thursday,11:50,12:30
+AP,403,Copper,Thursday,6:00,6:40
+Science,403,Copper,Thursday,6:40,7:20
+TLE,403,Copper,Thursday,7:20,8:00
+Mathematics,403,Copper,Thursday,8:00,8:40
+English,403,Copper,Thursday,8:40,9:20
+Recess,403,Copper,Thursday,9:20,9:50
+Filipino,403,Copper,Thursday,9:50,10:30
+Mapeh,401,Copper,Thursday,10:30,11:10
+Values Education,403,Copper,Thursday,11:10,11:50
+ASYNC,403,Copper,Thursday,12:30,12:55
+ASYNC,403,Copper,Thursday,12:55,1:20
+Science,403,Copper,Thursday,6:00,6:40
+Mathematics,403,Copper,Thursday,6:40,7:20
+English,403,Copper,Thursday,7:20,8:00
+TLE,403,Copper,Thursday,8:00,8:40
+Filipino,403,Copper,Thursday,8:40,9:20
+Recess,403,Copper,Thursday,9:20,9:50
+Mapeh,403,Copper,Thursday,9:50,10:30
+Values Education,401,Copper,Thursday,10:30,11:10
+AP,403,Copper,Thursday,11:10,11:50
+ASYNC,403,Copper,Thursday,12:30,12:55
+ASYNC,403,Copper,Thursday,12:55,1:20
+Science,301,Dubnium,Thursday,6:00,6:40
+Mathematics,301,Dubnium,Thursday,6:40,7:20
+English,301,Dubnium,Thursday,7:20,8:00
+TLE,301,Dubnium,Thursday,8:00,8:40
+Filipino,301,Dubnium,Thursday,8:40,9:20
+Recess,301,Dubnium,Thursday,9:20,9:50
+Mapeh,301,Dubnium,Thursday,9:50,10:30
+Values Education,301,Dubnium,Thursday,10:30,11:10
+AP,301,Dubnium,Thursday,11:10,11:50
+ASYNC,301,Dubnium,Thursday,12:30,12:55
+ASYNC,301,Dubnium,Thursday,12:55,1:20
+Mathematics,302,Europium,Thursday,6:00,6:40
+English,302,Europium,Thursday,6:40,7:20
+Filipino,302,Europium,Thursday,7:20,8:00
+Mapeh,302,Europium,Thursday,8:00,8:40
+TLE,302,Europium,Thursday,8:40,9:20
+Recess,302,Europium,Thursday,9:20,9:50
+Values Education,302,Europium,Thursday,9:50,10:30
+AP,302,Europium,Thursday,10:30,11:10
+Science,302,Europium,Thursday,11:10,11:50
+ASYNC,302,Europium,Thursday,12:30,12:55
+ASYNC,302,Europium,Thursday,12:55,1:20
+English,303,Flourine,Thursday,6:00,6:40
+Filipino,303,Flourine,Thursday,6:40,7:20
+Mapeh,303,Flourine,Thursday,7:20,8:00
+Values Education,303,Flourine,Thursday,8:00,8:40
+AP,303,Flourine,Thursday,8:40,9:20
+Recess,303,Flourine,Thursday,9:20,9:50
+TLE,303,Flourine,Thursday,9:50,10:30
+Science,303,Flourine,Thursday,10:30,11:10
+Mathematics,303,Flourine,Thursday,11:10,11:50
+ASYNC,303,Flourine,Thursday,12:30,12:55
+ASYNC,303,Flourine,Thursday,12:55,1:20
+Filipino, VPEIII 301,Gold,Thursday,6:00,6:40
+Mapeh, VPEIII 301,Gold,Thursday,6:40,7:20
+Values Education,302,Gold,Thursday,7:20,8:00
+AP,302,Gold,Thursday,8:00,8:40
+Science,302,Gold,Thursday,8:40,9:20
+Recess,302,Gold,Thursday,9:20,9:50
+Mathematics,302,Gold,Thursday,9:50,10:30
+TLE,302,Gold,Thursday,10:30,11:10
+English,302,Gold,Thursday,11:10,11:50
+ASYNC,302,Gold,Thursday,12:30,12:55
+ASYNC,302,Gold,Thursday,12:55,1:20
+Mapeh, VPEIII 302,Hydrogen,Thursday,6:00,6:40
+Values Education, VPEIII 302,Hydrogen,Thursday,6:40,7:20
+AP, VPEIII 302,Hydrogen,Thursday,7:20,8:00
+Science, VPEIII 302,Hydrogen,Thursday,8:00,8:40
+Mathematics, VPEIII 302,Hydrogen,Thursday,8:40,9:20
+Recess, VPEIII 302,Hydrogen,Thursday,9:20,9:50
+English, VPEIII 302,Hydrogen,Thursday,9:50,10:30
+Filipino, VPEIII 302,Hydrogen,Thursday,10:30,11:10
+TLE, VPEIII 302,Hydrogen,Thursday,11:10,11:50
+ASYNC, VPEIII 302,Hydrogen,Thursday,12:30,12:55
+ASYNC, VPEIII 302,Hydrogen,Thursday,12:55,1:20
+Values Education, VPEI 301,Iron,Thursday,6:00,6:40
+AP, VPEI 301,Iron,Thursday,6:40,7:20
+Science, VPEI 301,Iron,Thursday,7:20,8:00
+Mathematics, VPEI 301,Iron,Thursday,8:00,8:40
+Recess, VPEI 301,Iron,Thursday,8:40,9:20
+Filipino, VPEI 301,Iron,Thursday,9:20,9:50
+Mapeh, VPEI 301,Iron,Thursday,10:30,11:10
+TLE, VPEI 301,Iron,Thursday,11:10,11:50
+ASYNC, VPEI 301,Iron,Thursday,12:30,12:55
+ASYNC, VPEI 301,Iron,Thursday,12:55,1:20
+TLE, VPEI 303,Krypton,Thursday,6:00,6:40
+Science, VPEI 303,Krypton,Thursday,6:40,7:20
+Filipino, VPEI 303,Krypton,Thursday,7:20,8:00
+Mathematics, VPEI 303,Krypton,Thursday,8:00,8:40
+English, VPEI 303,Krypton,Thursday,8:40,9:20
+Recess, VPEI 303,Krypton,Thursday,9:20,9:50
+Mapeh, VPEI 303,Krypton,Thursday,9:50,10:30
+Values Education, VPEI 303,Krypton,Thursday,10:30,11:10
+AP, VPEI 303,Krypton,Thursday,11:10,11:50
+ASYNC, VPEI 303,Krypton,Thursday,12:30,12:55
+ASYNC, VPEI 303,Krypton,Thursday,12:55,1:20
+TLE, VPEI 304,Lithium,Thursday,6:00,6:40
+Science, VPEI 304,Lithium,Thursday,6:40,7:20
+Filipino, VPEI 304,Lithium,Thursday,7:20,8:00
+Mathematics, VPEI 304,Lithium,Thursday,8:00,8:40
+English, VPEI 304,Lithium,Thursday,8:40,9:20
+Recess, VPEI 304,Lithium,Thursday,9:20,9:50
+Mapeh, VPEI 304,Lithium,Thursday,9:50,10:30
+Values Education, VPEI 304,Lithium,Thursday,10:30,11:10
+AP, VPEI 304,Lithium,Thursday,11:10,11:50
+ASYNC, VPEI 304,Lithium,Thursday,12:30,12:55
+ASYNC, VPEI 304,Lithium,Thursday,12:55,1:20
+TLE, DEPED 301,Magnesium,Thursday,6:00,6:40
+Science, DEPED 301,Magnesium,Thursday,6:40,7:20
+Filipino, DEPED 301,Magnesium,Thursday,7:20,8:00
+Mathematics, DEPED 301,Magnesium,Thursday,8:00,8:40
+English, DEPED 301,Magnesium,Thursday,8:40,9:20
+Recess, DEPED 301,Magnesium,Thursday,9:20,9:50
+Mapeh, DEPED 301,Magnesium,Thursday,9:50,10:30
+Values Education, DEPED 301,Magnesium,Thursday,10:30,11:10
+AP, DEPED 301,Magnesium,Thursday,11:10,11:50
+ASYNC, DEPED 301,Magnesium,Thursday,12:30,12:55
+ASYNC, DEPED 301,Magnesium,Thursday,12:55,1:20
+TLE, DEPED 302,Neon,Thursday,6:00,6:40
+Science, DEPED 302,Neon,Thursday,6:40,7:20
+Filipino, DEPED 302,Neon,Thursday,7:20,8:00
+Mathematics, DEPED 302,Neon,Thursday,8:00,8:40
+English, DEPED 302,Neon,Thursday,8:40,9:20
+Recess, DEPED 302,Neon,Thursday,9:20,9:50
+Mapeh, DEPED 302,Neon,Thursday,9:50,10:30
+Values Education, DEPED 302,Neon,Thursday,10:30,11:10
+AP, DEPED 302,Neon,Thursday,11:10,11:50
+ASYNC, DEPED 302,Neon,Thursday,12:30,12:55
+ASYNC, DEPED 302,Neon,Thursday,12:55,1:20
+TLE, DEPED 303,Oxygen,Thursday,6:00,6:40
+Science, DEPED 303,Oxygen,Thursday,6:40,7:20
+Filipino, DEPED 303,Oxygen,Thursday,7:20,8:00
+Mathematics, DEPED 303,Oxygen,Thursday,8:00,8:40
+English, DEPED 303,Oxygen,Thursday,8:40,9:20
+Recess, DEPED 303,Oxygen,Thursday,9:20,9:50
+Mapeh, DEPED 303,Oxygen,Thursday,9:50,10:30
+Values Education, DEPED 303,Oxygen,Thursday,10:30,11:10
+AP, DEPED 303,Oxygen,Thursday,11:10,11:50
+ASYNC, DEPED 303,Oxygen,Thursday,12:30,12:55
+ASYNC, DEPED 303,Oxygen,Thursday,12:55,1:20
+TLE, DEPED 201,Platinum,Thursday,6:00,6:40
+Science, DEPED 201,Platinum,Thursday,6:40,7:20
+Filipino, DEPED 201,Platinum,Thursday,7:20,8:00
+Mathematics, DEPED 201,Platinum,Thursday,8:00,8:40
+English, DEPED 201,Platinum,Thursday,8:40,9:20
+Recess, DEPED 201,Platinum,Thursday,9:20,9:50
+Mapeh, DEPED 201,Platinum,Thursday,9:50,10:30
+Values Education, DEPED 201,Platinum,Thursday,10:30,11:10
+AP, DEPED 201,Platinum,Thursday,11:10,11:50
+ASYNC, DEPED 201,Platinum,Thursday,12:30,12:55
+ASYNC, DEPED 201,Platinum,Thursday,12:55,1:20
+TLE, DEPED 202,Radium,Thursday,6:00,6:40
+Science, DEPED 202,Radium,Thursday,6:40,7:20
+Filipino, DEPED 202,Radium,Thursday,7:20,8:00
+Mathematics, DEPED 202,Radium,Thursday,8:00,8:40
+English, DEPED 202,Radium,Thursday,8:40,9:20
+Recess, DEPED 202,Radium,Thursday,9:20,9:50
+Mapeh, DEPED 202,Radium,Thursday,9:50,10:30
+Values Education, DEPED 202,Radium,Thursday,10:30,11:10
+AP, DEPED 202,Radium,Thursday,11:10,11:50
+ASYNC, DEPED 202,Radium,Thursday,12:30,12:55
+ASYNC, DEPED 202,Radium,Thursday,12:55,1:20
+TLE, DEPED 203,Silver,Thursday,6:00,6:40
+Science, DEPED 203,Silver,Thursday,6:40,7:20
+Filipino, DEPED 203,Silver,Thursday,7:20,8:00
+Mathematics, DEPED 203,Silver,Thursday,8:00,8:40
+English, DEPED 203,Silver,Thursday,8:40,9:20
+Recess, DEPED 203,Silver,Thursday,9:20,9:50
+Mapeh, DEPED 203,Silver,Thursday,9:50,10:30
+Values Education, DEPED 203,Silver,Thursday,10:30,11:10
+AP, DEPED 203,Silver,Thursday,11:10,11:50
+ASYNC, DEPED 203,Silver,Thursday,12:30,12:55
+ASYNC, DEPED 203,Silver,Thursday,12:55,1:20
+TLE, SPED BLDG,Titanium,Thursday,6:00,6:40
+Science, SPED BLDG,Titanium,Thursday,6:40,7:20
+Filipino, SPED BLDG,Titanium,Thursday,7:20,8:00
+Mathematics, SPED BLDG,Titanium,Thursday,8:00,8:40
+English, SPED BLDG,Titanium,Thursday,8:40,9:20
+Recess, SPED BLDG,Titanium,Thursday,9:20,9:50
+Mapeh, SPED BLDG,Titanium,Thursday,9:50,10:30
+Values Education, SPED BLDG,Titanium,Thursday,10:30,11:10
+AP, SPED BLDG,Titanium,Thursday,11:10,11:50
+ASYNC, SPED BLDG,Titanium,Thursday,12:30,12:55
+ASYNC, SPED BLDG,Titanium,Thursday,12:55,1:20
+Mapeh, VPEI 302,Uranium,Thursday,6:00,6:40
+Values Education, VPEI 302,Uranium,Thursday,6:40,7:20
+AP, VPEI 302,Uranium,Thursday,7:20,8:00
+Science, VPEI 302,Uranium,Thursday,8:00,8:40
+Mathematics, VPEI 302,Uranium,Thursday,8:40,9:20
+Recess, VPEI 302,Uranium,Thursday,9:20,9:50
+English, VPEI 302,Uranium,Thursday,9:50,10:30
+Filipino, VPEI 302,Uranium,Thursday,10:30,11:10
+TLE, VPEI 302,Uranium,Thursday,11:10,11:50
+ASYNC, VPEI 302,Uranium,Thursday,12:30,12:55
+ASYNC, VPEI 302,Uranium,Thursday,12:55,1:20
+NMP, BCE 501,Anthurium,Thursday,11:50,12:30
+HGP, VPEIII 502,Euphoria,Thursday,11:50,12:30
+NMP, VPEII 502,Gardenia,Thursday,11:50,12:30
+Filipino, BCE 501,Anthurium,Thursday,6:00,6:40
+English, BCE 501,Anthurium,Thursday,6:40,7:20
+Mathematics, BCE 501,Anthurium,Thursday,7:20,8:00
+Science, BCE 501,Anthurium,Thursday,8:00,8:40
+Recess, BCE 501,Anthurium,Thursday,8:40,9:20
+AP, BCE 501,Anthurium,Thursday,9:20,9:50
+ValuesEducation, BCE 501,Anthurium,Thursday,9:50,10:30
+TLE, BCE 501,Anthurium,Thursday,10:30,11:10
+Mapeh, BCE 50,Anthurium,Thursday,11:10,11:50
+ASYNC, BCE 501,Anthurium,Thursday,12:30,12:55
+ASYNC, BCE 501,Anthurium,Thursday,12:55,1:20
+Filipino, BCE 502,Buttercup,Thursday,6:00,6:40
+English, BCE 502,Buttercup,Thursday,6:40,7:20
+Mathematics, BCE 502,Buttercup,Thursday,7:20,8:00
+Science, BCE 502,Buttercup,Thursday,8:00,8:40
+Recess, BCE 502,Buttercup,Thursday,8:40,9:20
+AP, BCE 502,Buttercup,Thursday,9:20,9:50
+ValuesEducation, BCE 502,Buttercup,Thursday,9:50,10:30
+TLE, BCE 502,Buttercup,Thursday,10:30,11:10
+Mapeh, BCE 502,Buttercup,Thursday,11:10,11:50
+ASYNC, BCE 502,Buttercup,Thursday,12:30,12:55
+ASYNC, BCE 502,Buttercup,Thursday,12:55,1:20
+Filipino, BCE 503,Carnation,Thursday,6:00,6:40
+English, BCE 503,Carnation,Thursday,6:40,7:20
+Mathematics, BCE 503,Carnation,Thursday,7:20,8:00
+Science, BCE 503,Carnation,Thursday,8:00,8:40
+Recess, BCE 503,Carnation,Thursday,8:40,9:20
+AP, BCE 503,Carnation,Thursday,9:20,9:50
+ValuesEducation, BCE 503,Carnation,Thursday,9:50,10:30
+TLE, BCE 503,Carnation,Thursday,10:30,11:10
+Mapeh, BCE 503,Carnation,Thursday,11:10,11:50
+ASYNC, BCE 503,Carnation,Thursday,12:30,12:55
+ASYNC, BCE 503,Carnation,Thursday,12:55,1:20
+Filipino, VPEIII 501,Daffodil,Thursday,6:00,6:40
+English, VPEIII 501,Daffodil,Thursday,6:40,7:20
+Mathematics, VPEIII 501,Daffodil,Thursday,7:20,8:00
+Science, VPEIII 501,Daffodil,Thursday,8:00,8:40
+Recess, VPEIII 501,Daffodil,Thursday,8:40,9:20
+AP, VPEIII 501,Daffodil,Thursday,9:20,9:50
+ValuesEducation, VPEIII 501,Daffodil,Thursday,9:50,10:30
+TLE, VPEIII 501,Daffodil,Thursday,10:30,11:10
+Mapeh, VPEIII 501,Daffodil,Thursday,11:10,11:50
+ASYNC, VPEIII 501,Daffodil,Thursday,12:30,12:55
+ASYNC, VPEIII 501,Daffodil,Thursday,12:55,1:20
+Filipino, VPEIII 502,Euphoria,Thursday,6:00,6:40
+English, VPEIII 502,Euphoria,Thursday,6:40,7:20
+Mathematics, VPEIII 502,Euphoria,Thursday,7:20,8:00
+Science, VPEIII 502,Euphoria,Thursday,8:00,8:40
+Recess, VPEIII 502,Euphoria,Thursday,8:40,9:20
+AP, VPEIII 502,Euphoria,Thursday,9:20,9:50
+ValuesEducation, VPEIII 502,Euphoria,Thursday,9:50,10:30
+TLE, VPEIII 502,Euphoria,Thursday,10:30,11:10
+Mapeh, VPEIII 502,Euphoria,Thursday,11:10,11:50
+ASYNC, VPEIII 502,Euphoria,Thursday,12:30,12:55
+ASYNC, VPEIII 502,Euphoria,Thursday,12:55,1:20
+Filipino, VPEIII 503,Freesia,Thursday,6:00,6:40
+English, VPEIII 503,Freesia,Thursday,6:40,7:20
+Mathematics, VPEIII 503,Freesia,Thursday,7:20,8:00
+Science, VPEIII 503,Freesia,Thursday,8:00,8:40
+Recess, VPEIII 503,Freesia,Thursday,8:40,9:20
+AP, VPEIII 503,Freesia,Thursday,9:20,9:50
+ValuesEducation, VPEIII 503,Freesia,Thursday,9:50,10:30
+TLE, VPEIII 503,Freesia,Thursday,10:30,11:10
+Mapeh, VPEIII 503,Freesia,Thursday,11:10,11:50
+ASYNC, VPEIII 503,Freesia,Thursday,12:30,12:55
+ASYNC, VPEIII 503,Freesia,Thursday,12:55,1:20
+Filipino, VPEII 502,Gardenia,Thursday,6:00,6:40
+English, VPEII 502,Gardenia,Thursday,6:40,7:20
+Mathematics, VPEII 502,Gardenia,Thursday,7:20,8:00
+Science, VPEII 502,Gardenia,Thursday,8:00,8:40
+Recess, VPEII 502,Gardenia,Thursday,8:40,9:20
+AP, VPEII 502,Gardenia,Thursday,9:20,9:50
+ValuesEducation, VPEII 502,Gardenia,Thursday,9:50,10:30
+TLE, VPEII 502,Gardenia,Thursday,10:30,11:10
+Mapeh, VPEII 502,Gardenia,Thursday,11:10,11:50
+ASYNC, VPEII 502,Gardenia,Thursday,12:30,12:55
+ASYNC, VPEII 502,Gardenia,Thursday,12:55,1:20
+Filipino, BCE 401,Hibiscus,Thursday,6:00,6:40
+English, BCE 401,Hibiscus,Thursday,6:40,7:20
+Mathematics, BCE 401,Hibiscus,Thursday,7:20,8:00
+Science, BCE 401,Hibiscus,Thursday,8:00,8:40
+Recess, BCE 401,Hibiscus,Thursday,8:40,9:20
+AP, BCE 401,Hibiscus,Thursday,9:20,9:50
+ValuesEducation, BCE 401,Hibiscus,Thursday,9:50,10:30
+TLE, BCE 401,Hibiscus,Thursday,10:30,11:10
+Mapeh, BCE 401,Hibiscus,Thursday,11:10,11:50
+ASYNC, BCE 401,Hibiscus,Thursday,12:30,12:55
+ASYNC, BCE 401,Hibiscus,Thursday,12:55,1:20
+Filipino, BCE 402,Iris,Thursday,6:00,6:40
+English, BCE 402,Iris,Thursday,6:40,7:20
+Mathematics, BCE 402,Iris,Thursday,7:20,8:00
+Science, BCE 402,Iris,Thursday,8:00,8:40
+Recess, BCE 402,Iris,Thursday,8:40,9:20
+AP, BCE 402,Iris,Thursday,9:20,9:50
+ValuesEducation, BCE 402,Iris,Thursday,9:50,10:30
+TLE, BCE 402,Iris,Thursday,10:30,11:10
+Mapeh, BCE 402,Iris,Thursday,11:10,11:50
+ASYNC, BCE 402,Iris,Thursday,12:30,12:55
+ASYNC, BCE 402,Iris,Thursday,12:55,1:20
+Filipino, BCE 403,Jasmine,Thursday,6:00,6:40
+English, BCE 403,Jasmine,Thursday,6:40,7:20
+Mathematics, BCE 403,Jasmine,Thursday,7:20,8:00
+Science, BCE 403,Jasmine,Thursday,8:00,8:40
+Recess, BCE 403,Jasmine,Thursday,8:40,9:20
+AP, BCE 403,Jasmine,Thursday,9:20,9:50
+ValuesEducation, BCE 403,Jasmine,Thursday,9:50,10:30
+TLE, BCE 403,Jasmine,Thursday,10:30,11:10
+Mapeh, BCE 403,Jasmine,Thursday,11:10,11:50
+NMP, BCE 403,Jasmine,Thursday,11:50,12:30
+ASYNC, BCE 403,Jasmine,Thursday,12:30,12:55
+ASYNC, BCE 403,Jasmine,Thursday,12:55,1:20
+Filipino, VPEIII 401,Kalmia,Thursday,6:00,6:40
+English, VPEIII 401,Kalmia,Thursday,6:40,7:20
+Mathematics, VPEIII 401,Kalmia,Thursday,7:20,8:00
+Science, VPEIII 401,Kalmia,Thursday,8:00,8:40
+Recess, VPEIII 401,Kalmia,Thursday,8:40,9:20
+AP, VPEIII 401,Kalmia,Thursday,9:20,9:50
+ValuesEducation, VPEIII 401,Kalmia,Thursday,9:50,10:30
+TLE, VPEIII 401,Kalmia,Thursday,10:30,11:10
+Mapeh, VPEIII 401,Kalmia,Thursday,11:10,11:50
+ASYNC, VPEIII 401,Kalmia,Thursday,12:30,12:55
+ASYNC, VPEIII 401,Kalmia,Thursday,12:55,1:20
+Filipino, VPEIII 402,Lavender,Thursday,6:00,6:40
+English, VPEIII 402,Lavender,Thursday,6:40,7:20
+Mathematics, VPEIII 402,Lavender,Thursday,7:20,8:00
+Science, VPEIII 402,Lavender,Thursday,8:00,8:40
+Recess, VPEIII 402,Lavender,Thursday,8:40,9:20
+AP, VPEIII 402,Lavender,Thursday,9:20,9:50
+ValuesEducation, VPEIII 402,Lavender,Thursday,9:50,10:30
+TLE, VPEIII 402,Lavender,Thursday,10:30,11:10
+Mapeh, VPEIII 402,Lavender,Thursday,11:10,11:50
+ASYNC, VPEIII 402,Lavender,Thursday,12:30,12:55
+ASYNC, VPEIII 402,Lavender,Thursday,12:55,1:20
+Filipino, VPEIII 403,Marigold,Thursday,6:00,6:40
+English, VPEIII 403,Marigold,Thursday,6:40,7:20
+Mathematics, VPEIII 403,Marigold,Thursday,7:20,8:00
+Science, VPEIII 403,Marigold,Thursday,8:00,8:40
+Recess, VPEIII 403,Marigold,Thursday,8:40,9:20
+AP, VPEIII 403,Marigold,Thursday,9:20,9:50
+ValuesEducation, VPEIII 403,Marigold,Thursday,9:50,10:30
+TLE, VPEIII 403,Marigold,Thursday,10:30,11:10
+Mapeh, VPEIII 403,Marigold,Thursday,11:10,11:50
+ASYNC, VPEIII 403,Marigold,Thursday,12:30,12:55
+ASYNC, VPEIII 403,Marigold,Thursday,12:55,1:20
+Filipino, BCE 301,Narcissus,Thursday,6:00,6:40
+English, BCE 301,Narcissus,Thursday,6:40,7:20
+Mathematics, BCE 301,Narcissus,Thursday,7:20,8:00
+Science, BCE 301,Narcissus,Thursday,8:00,8:40
+Recess, BCE 301,Narcissus,Thursday,8:40,9:20
+AP, BCE 301,Narcissus,Thursday,9:20,9:50
+ValuesEducation, BCE 301,Narcissus,Thursday,9:50,10:30
+TLE, BCE 301,Narcissus,Thursday,10:30,11:10
+Mapeh, BCE 301,Narcissus,Thursday,11:10,11:50
+ASYNC, BCE 301,Narcissus,Thursday,12:30,12:55
+ASYNC, BCE 301,Narcissus,Thursday,12:55,1:20
+Filipino, BCE 302,Orchid,Thursday,6:00,6:40
+English, BCE 302,Orchid,Thursday,6:40,7:20
+Mathematics, BCE 302,Orchid,Thursday,7:20,8:00
+Science, BCE 302,Orchid,Thursday,8:00,8:40
+Recess, BCE 302,Orchid,Thursday,8:40,9:20
+AP, BCE 302,Orchid,Thursday,9:20,9:50
+ValuesEducation, BCE 302,Orchid,Thursday,9:50,10:30
+TLE, BCE 302,Orchid,Thursday,10:30,11:10
+Mapeh, BCE 302,Orchid,Thursday,11:10,11:50
+ASYNC, BCE 302,Orchid,Thursday,12:30,12:55
+ASYNC, BCE 302,Orchid,Thursday,12:55,1:20
+NMP, BCE 302,Orchid,Thursday,11:50,12:30
+Filipino, BCE 303,Periwinkle,Thursday,6:00,6:40
+English, BCE 303,Periwinkle,Thursday,6:40,7:20
+Mathematics, BCE 303,Periwinkle,Thursday,7:20,8:00
+Science, BCE 303,Periwinkle,Thursday,8:00,8:40
+Recess, BCE 303,Periwinkle,Thursday,8:40,9:20
+AP, BCE 303,Periwinkle,Thursday,9:20,9:50
+ValuesEducation, BCE 303,Periwinkle,Thursday,9:50,10:30
+TLE, BCE 303,Periwinkle,Thursday,10:30,11:10
+Mapeh, BCE 303,Periwinkle,Thursday,11:10,11:50
+ASYNC, BCE 303,Periwinkle,Thursday,12:30,12:55
+ASYNC, BCE 303,Periwinkle,Thursday,12:55,1:20
+Filipino, DEPED 101,Quesnelia,Thursday,6:00,6:40
+English, DEPED 101,Quesnelia,Thursday,6:40,7:20
+Mathematics, DEPED 101,Quesnelia,Thursday,7:20,8:00
+Science, DEPED 101,Quesnelia,Thursday,8:00,8:40
+Recess, DEPED 101,Quesnelia,Thursday,8:40,9:20
+AP, DEPED 101,Quesnelia,Thursday,9:20,9:50
+ValuesEducation, DEPED 101,Quesnelia,Thursday,9:50,10:30
+TLE, DEPED 101,Quesnelia,Thursday,10:30,11:10
+Mapeh, DEPED 101,Quesnelia,Thursday,11:10,11:50
+ASYNC, DEPED 101,Quesnelia,Thursday,12:30,12:55
+ASYNC, DEPED 101,Quesnelia,Thursday,12:55,1:20
+Filipino, VPEI 302,Rose,Thursday,6:00,6:40
+English, VPEI 302,Rose,Thursday,6:40,7:20
+Mathematics, VPEI 302,Rose,Thursday,7:20,8:00
+Science, VPEI 302,Rose,Thursday,8:00,8:40
+Recess, VPEI 302,Rose,Thursday,8:40,9:20
+AP, VPEI 302,Rose,Thursday,9:20,9:50
+ValuesEducation, VPEI 302,Rose,Thursday,9:50,10:30
+TLE, VPEI 302,Rose,Thursday,10:30,11:10
+Mapeh, VPEI 302,Rose,Thursday,11:10,11:50
+ASYNC, VPEI 302,Rose,Thursday,12:30,12:55
+ASYNC, VPEI 302,Rose,Thursday,12:55,1:20
+NMP, VPEI 302,Rose,Thursday,11:50,12:30
+Filipino, BCE 501,Amiable,Thursday,12:50,1:30
+English, BCE 501,Amiable,Thursday,1:30,2:10
+Mathematics, BCE 501,Amiable,Thursday,2:10,2:50
+Science, BCE 501,Amiable,Thursday,2:50,3:30
+Recess, BCE 501,Amiable,Thursday,3:30,4:00
+AP, BCE 501,Amiable,Thursday,4:00,4:40
+ValuesEducation, BCE 501,Amiable,Thursday,4:40,5:20
+TLE, BCE 501,Amiable,Thursday,5:20,6:00
+Mapeh, BCE 501,Amiable,Thursday,6:00,6:40
+NMP, BCE 501,Amiable,Thursday,6:40,7:20
+ASYNC, BCE 501,Amiable,Thursday,7:20,7:45
+ASYNC, BCE 501,Amiable,Thursday,7:45,8:10
+Filipino, BCE 502,Brilliance,Thursday,12:50,1:30
+English, BCE 502,Brilliance,Thursday,1:30,2:10
+Mathematics, BCE 502,Brilliance,Thursday,2:10,2:50
+Science, BCE 502,Brilliance,Thursday,2:50,3:30
+Recess, BCE 502,Brilliance,Thursday,3:30,4:00
+AP, BCE 502,Brilliance,Thursday,4:00,4:40
+ValuesEducation, BCE 502,Brilliance,Thursday,4:40,5:20
+TLE, BCE 502,Brilliance,Thursday,5:20,6:00
+Mapeh, BCE 502,Brilliance,Thursday,6:00,6:40
+ASYNC, BCE 502,Brilliance,Thursday,7:20,7:45
+ASYNC, BCE 502,Brilliance,Thursday,7:45,8:10
+Filipino, BCE 503,Cheerful,Thursday,12:50,1:30
+English, BCE 503,Cheerful,Thursday,1:30,2:10
+Mathematics, BCE 503,Cheerful,Thursday,2:10,2:50
+Science, BCE 503,Cheerful,Thursday,2:50,3:30
+Recess, BCE 503,Cheerful,Thursday,3:30,4:00
+AP, BCE 503,Cheerful,Thursday,4:00,4:40
+ValuesEducation, BCE 503,Cheerful,Thursday,4:40,5:20
+TLE, BCE 503,Cheerful,Thursday,5:20,6:00
+Mapeh, BCE 503,Cheerful,Thursday,6:00,6:40
+ASYNC, BCE 503,Cheerful,Thursday,7:20,7:45
+ASYNC, BCE 503,Cheerful,Thursday,7:45,8:10
+Filipino, VPEIII 501,Diligence,Thursday,12:50,1:30
+English, VPEIII 501,Diligence,Thursday,1:30,2:10
+Mathematics, VPEIII 501,Diligence,Thursday,2:10,2:50
+Science, VPEIII 501,Diligence,Thursday,2:50,3:30
+Recess, VPEIII 501,Diligence,Thursday,3:30,4:00
+AP, VPEIII 501,Diligence,Thursday,4:00,4:40
+ValuesEducation, VPEIII 501,Diligence,Thursday,4:40,5:20
+TLE, VPEIII 501,Diligence,Thursday,5:20,6:00
+Mapeh, VPEIII 501,Diligence,Thursday,6:00,6:40
+ASYNC, VPEIII 501,Diligence,Thursday,7:20,7:45
+ASYNC, VPEIII 501,Diligence,Thursday,7:45,8:10
+Filipino, VPEIII 502,Excellence,Thursday,12:50,1:30
+English, VPEIII 502,Excellence,Thursday,1:30,2:10
+Mathematics, VPEIII 502,Excellence,Thursday,2:10,2:50
+Science, VPEIII 502,Excellence,Thursday,2:50,3:30
+Recess, VPEIII 502,Excellence,Thursday,3:30,4:00
+AP, VPEIII 502,Excellence,Thursday,4:00,4:40
+ValuesEducation, VPEIII 502,Excellence,Thursday,4:40,5:20
+TLE, VPEIII 502,Excellence,Thursday,5:20,6:00
+Mapeh, VPEIII 502,Excellence,Thursday,6:00,6:40
+ASYNC, VPEIII 502,Excellence,Thursday,7:20,7:45
+ASYNC, VPEIII 502,Excellence,Thursday,7:45,8:10
+Filipino, VPEIII 503,Fortitude,Thursday,12:50,1:30
+English, VPEIII 503,Fortitude,Thursday,1:30,2:10
+Mathematics, VPEIII 503,Fortitude,Thursday,2:10,2:50
+Science, VPEIII 503,Fortitude,Thursday,2:50,3:30
+Recess, VPEIII 503,Fortitude,Thursday,3:30,4:00
+AP, VPEIII 503,Fortitude,Thursday,4:00,4:40
+ValuesEducation, VPEIII 503,Fortitude,Thursday,4:40,5:20
+TLE, VPEIII 503,Fortitude,Thursday,5:20,6:00
+Mapeh, VPEIII 503,Fortitude,Thursday,6:00,6:40
+ASYNC, VPEIII 503,Fortitude,Thursday,7:20,7:45
+ASYNC, VPEIII 503,Fortitude,Thursday,7:45,8:10
+NMP, VPEIII 503,Fortitude,Thursday,6:40,7:20
+Filipino, BCE 401,Generous,Thursday,12:50,1:30
+English, BCE 401,Generous,Thursday,1:30,2:10
+Mathematics, BCE 401,Generous,Thursday,2:10,2:50
+Science, BCE 401,Generous,Thursday,2:50,3:30
+Recess, BCE 401,Generous,Thursday,3:30,4:00
+AP, BCE 401,Generous,Thursday,4:00,4:40
+ValuesEducation, BCE 401,Generous,Thursday,4:40,5:20
+TLE, BCE 401,Generous,Thursday,5:20,6:00
+Mapeh, BCE 401,Generous,Thursday,6:00,6:40
+ASYNC, BCE 401,Generous,Thursday,7:20,7:45
+ASYNC, BCE 401,Generous,Thursday,7:45,8:10
+NMP, BCE 401,Generous,Thursday,6:40,7:20
+Filipino, BCE 402,Humility,Thursday,12:50,1:30
+English, BCE 402,Humility,Thursday,1:30,2:10
+Mathematics, BCE 402,Humility,Thursday,2:10,2:50
+Science, BCE 402,Humility,Thursday,2:50,3:30
+Recess, BCE 402,Humility,Thursday,3:30,4:00
+AP, BCE 402,Humility,Thursday,4:00,4:40
+ValuesEducation, BCE 402,Humility,Thursday,4:40,5:20
+TLE, BCE 402,Humility,Thursday,5:20,6:00
+Mapeh, BCE 402,Humility,Thursday,6:00,6:40
+ASYNC, BCE 402,Humility,Thursday,7:20,7:45
+ASYNC, BCE 402,Humility,Thursday,7:45,8:10
+Filipino, VPE III 401,Joyful,Thursday,12:50,1:30
+English, VPE III 401,Joyful,Thursday,1:30,2:10
+Mathematics, VPE III 401,Joyful,Thursday,2:10,2:50
+Science, VPE III 401,Joyful,Thursday,2:50,3:30
+Recess, VPE III 401,Joyful,Thursday,3:30,4:00
+AP, VPE III 401,Joyful,Thursday,4:00,4:40
+ValuesEducation, VPE III 401,Joyful,Thursday,4:40,5:20
+TLE, VPE III 401,Joyful,Thursday,5:20,6:00
+Mapeh, VPE III 401,Joyful,Thursday,6:00,6:40
+ASYNC, VPE III 401,Joyful,Thursday,7:20,7:45
+ASYNC, VPE III 401,Joyful,Thursday,7:45,8:10
+Filipino, VPE III 402,Kindness,Thursday,12:50,1:30
+English, VPE III 402,Kindness,Thursday,1:30,2:10
+Mathematics, VPE III 402,Kindness,Thursday,2:10,2:50
+Science, VPE III 402,Kindness,Thursday,2:50,3:30
+Recess, VPE III 402,Kindness,Thursday,3:30,4:00
+AP, VPE III 402,Kindness,Thursday,4:00,4:40
+ValuesEducation, VPE III 402,Kindness,Thursday,4:40,5:20
+TLE, VPE III 402,Kindness,Thursday,5:20,6:00
+Mapeh, VPE III 402,Kindness,Thursday,6:00,6:40
+ASYNC, VPE III 402,Kindness,Thursday,7:20,7:45
+ASYNC, VPE III 402,Kindness,Thursday,7:45,8:10
+Filipino, VPE III 403,Lovable,Thursday,12:50,1:30
+English, VPE III 403,Lovable,Thursday,1:30,2:10
+Mathematics, VPE III 403,Lovable,Thursday,2:10,2:50
+Science, VPE III 403,Lovable,Thursday,2:50,3:30
+Recess, VPE III 403,Lovable,Thursday,3:30,4:00
+AP, VPE III 403,Lovable,Thursday,4:00,4:40
+ValuesEducation, VPE III 403,Lovable,Thursday,4:40,5:20
+TLE, VPE III 403,Lovable,Thursday,5:20,6:00
+Mapeh, VPE III 403,Lovable,Thursday,6:00,6:40
+ASYNC, VPE III 403,Lovable,Thursday,7:20,7:45
+ASYNC, VPE III 403,Lovable,Thursday,7:45,8:10
+Filipino, BCE 301,Magnificent,Thursday,12:50,1:30
+English, BCE 301,Magnificent,Thursday,1:30,2:10
+Mathematics, BCE 301,Magnificent,Thursday,2:10,2:50
+Science, BCE 301,Magnificent,Thursday,2:50,3:30
+Recess, BCE 301,Magnificent,Thursday,3:30,4:00
+AP, BCE 301,Magnificent,Thursday,4:00,4:40
+ValuesEducation, BCE 301,Magnificent,Thursday,4:40,5:20
+TLE, BCE 301,Magnificent,Thursday,5:20,6:00
+Mapeh, BCE 301,Magnificent,Thursday,6:00,6:40
+ASYNC, BCE 301,Magnificent,Thursday,7:20,7:45
+ASYNC, BCE 301,Magnificent,Thursday,7:45,8:10
+Filipino, BCE 302,Noble,Thursday,12:50,1:30
+English, BCE 302,Noble,Thursday,1:30,2:10
+Mathematics, BCE 302,Noble,Thursday,2:10,2:50
+Science, BCE 302,Noble,Thursday,2:50,3:30
+Recess, BCE 302,Noble,Thursday,3:30,4:00
+AP, BCE 302,Noble,Thursday,4:00,4:40
+ValuesEducation, BCE 302,Noble,Thursday,4:40,5:20
+TLE, BCE 302,Noble,Thursday,5:20,6:00
+Mapeh, BCE 302,Noble,Thursday,6:00,6:40
+ASYNC, BCE 302,Noble,Thursday,7:20,7:45
+ASYNC, BCE 302,Noble,Thursday,7:45,8:10
+Mapeh, 4F SPED BLDG,Piety,Thursday,6:00,6:40
+ValuesEducation, 4F SPED BLDG,Piety,Thursday,6:40,7:20
+TLE, 4F SPED BLDG,Piety,Thursday,7:20,8:00
+Mathematics, 4F SPED BLDG,Piety,Thursday,8:00,8:40
+Recess, 4F SPED BLDG,Piety,Thursday,8:40,9:10
+Filipino, 4F SPED BLDG,Piety,Thursday,9:10,9:50
+English, 4F SPED BLDG,Piety,Thursday,9:50,10:30
+AP, 4F SPED BLDG,Piety,Thursday,10:30,11:10
+Science, 4F SPED BLDG,Piety,Thursday,11:10,11:50
+HGP, 4F SPED BLDG,Piety,Thursday,11:50,12:30
+ASYNC, 4F SPED BLDG,Piety,Thursday,12:30,12:55
+ASYNC, 4F SPED BLDG,Piety,Thursday,12:55,1:20
+Mapeh, VPE I 302,Righteous,Thursday,6:00,6:40
+ValuesEducation, VPE I 302,Righteous,Thursday,6:40,7:20
+TLE, VPE I 302,Righteous,Thursday,7:20,8:00
+Mathematics, VPE I 302,Righteous,Thursday,8:00,8:40
+Recess, VPE I 302,Righteous,Thursday,8:40,9:10
+Filipino, VPE I 302,Righteous,Thursday,9:10,9:50
+English, VPE I 302,Righteous,Thursday,9:50,10:30
+AP, VPE I 302,Righteous,Thursday,10:30,11:10
+Science, VPE I 302,Righteous,Thursday,11:10,11:50
+ASYNC, VPE I 302,Righteous,Thursday,12:30,12:55
+ASYNC, VPE I 302,Righteous,Thursday,12:55,1:20
+TLE,401,Aurora,Thursday,12:50,1:30
+Mapeh,401,Aurora,Thursday,1:30,2:10
+ValuesEducation,401,Aurora,Thursday,2:10,2:50
+AP,401,Aurora,Thursday,2:50,3:30
+Science,401,Aurora,Thursday,3:30,4:00
+Recess,401,Aurora,Thursday,4:00,4:40
+Mathematics,401,Aurora,Thursday,4:40,5:20
+English,401,Aurora,Thursday,5:20,6:00
+Filipino,401,Aurora,Thursday,6:00,6:40
+ASYNC,401,Aurora,Thursday,7:20,7:45
+ASYNC,401,Aurora,Thursday,7:45,8:10
+TLE,402,Batanes,Thursday,12:50,1:30
+Mapeh,402,Batanes,Thursday,1:30,2:10
+ValuesEducation,402,Batanes,Thursday,2:10,2:50
+AP,402,Batanes,Thursday,2:50,3:30
+Science,402,Batanes,Thursday,3:30,4:00
+Recess,402,Batanes,Thursday,4:00,4:40
+Mathematics,402,Batanes,Thursday,4:40,5:20
+English,402,Batanes,Thursday,5:20,6:00
+Filipino,402,Batanes,Thursday,6:00,6:40
+ASYNC,402,Batanes,Thursday,7:20,7:45
+ASYNC,402,Batanes,Thursday,7:45,8:10
+TLE,403,Camiguin,Thursday,12:50,1:30
+Mapeh,403,Camiguin,Thursday,1:30,2:10
+ValuesEducation,403,Camiguin,Thursday,2:10,2:50
+AP,403,Camiguin,Thursday,2:50,3:30
+Science,403,Camiguin,Thursday,3:30,4:00
+Recess,403,Camiguin,Thursday,4:00,4:40
+Mathematics,403,Camiguin,Thursday,4:40,5:20
+English,403,Camiguin,Thursday,5:20,6:00
+Filipino,403,Camiguin,Thursday,6:00,6:40
+ASYNC,403,Camiguin,Thursday,7:20,7:45
+ASYNC,403,Camiguin,Thursday,7:45,8:10
+TLE,301,Cebu,Thursday,12:50,1:30
+Mapeh,301,Cebu,Thursday,1:30,2:10
+ValuesEducation,301,Cebu,Thursday,2:10,2:50
+AP,301,Cebu,Thursday,2:50,3:30
+Science,301,Cebu,Thursday,3:30,4:00
+Recess,301,Cebu,Thursday,4:00,4:40
+Mathematics,301,Cebu,Thursday,4:40,5:20
+English,301,Cebu,Thursday,5:20,6:00
+Filipino,301,Cebu,Thursday,6:00,6:40
+ASYNC,301,Cebu,Thursday,7:20,7:45
+ASYNC,301,Cebu,Thursday,7:45,8:10
+TLE,302,Davao,Thursday,12:50,1:30
+Mapeh,302,Davao,Thursday,1:30,2:10
+ValuesEducation,302,Davao,Thursday,2:10,2:50
+AP,302,Davao,Thursday,2:50,3:30
+Science,302,Davao,Thursday,3:30,4:00
+Recess,302,Davao,Thursday,4:00,4:40
+Mathematics,302,Davao,Thursday,4:40,5:20
+English,302,Davao,Thursday,5:20,6:00
+Filipino,302,Davao,Thursday,6:00,6:40
+ASYNC,302,Davao,Thursday,7:20,7:45
+ASYNC,302,Davao,Thursday,7:45,8:10
+TLE,303,Gen. Santos,Thursday,12:50,1:30
+Mapeh,303,Gen. Santos,Thursday,1:30,2:10
+ValuesEducation,303,Gen. Santos,Thursday,2:10,2:50
+AP,303,Gen. Santos,Thursday,2:50,3:30
+Science,303,Gen. Santos,Thursday,3:30,4:00
+Recess,303,Gen. Santos,Thursday,4:00,4:40
+Mathematics,303,Gen. Santos,Thursday,4:40,5:20
+English,303,Gen. Santos,Thursday,5:20,6:00
+Filipino,303,Gen. Santos,Thursday,6:00,6:40
+ASYNC,303,Gen. Santos,Thursday,7:20,7:45
+ASYNC,303,Gen. Santos,Thursday,7:45,8:10
+TLE, VPE III 301,Guimaras,Thursday,12:50,1:30
+Mapeh, VPE III 301,Guimaras,Thursday,1:30,2:10
+ValuesEducation, VPE III 301,Guimaras,Thursday,2:10,2:50
+AP, VPE III 301,Guimaras,Thursday,2:50,3:30
+Science, VPE III 301,Guimaras,Thursday,3:30,4:00
+Recess, VPE III 301,Guimaras,Thursday,4:00,4:40
+Mathematics, VPE III 301,Guimaras,Thursday,4:40,5:20
+English, VPE III 301,Guimaras,Thursday,5:20,6:00
+Filipino, VPE III 301,Guimaras,Thursday,6:00,6:40
+ASYNC, VPE III 301,Guimaras,Thursday,7:20,7:45
+ASYNC, VPE III 301,Guimaras,Thursday,7:45,8:01
+TLE, VPE III 302,Ilocos,Thursday,12:50,1:30
+Mapeh, VPE III 302,Ilocos,Thursday,1:30,2:10
+ValuesEducation, VPE III 302,Ilocos,Thursday,2:10,2:50
+AP, VPE III 302,Ilocos,Thursday,2:50,3:30
+Science, VPE III 302,Ilocos,Thursday,3:30,4:00
+Recess, VPE III 302,Ilocos,Thursday,4:00,4:40
+Mathematics, VPE III 302,Ilocos,Thursday,4:40,5:20
+English, VPE III 302,Ilocos,Thursday,5:20,6:00
+Filipino, VPE III 302,Ilocos,Thursday,6:00,6:40
+ASYNC, VPE III 302,Ilocos,Thursday,7:20,7:45
+ASYNC, VPE III 302,Ilocos,Thursday,7:45,8:10
+TLE, VPE I 301,Iloilo,Thursday,12:50,1:30
+Mapeh, VPE I 301,Iloilo,Thursday,1:30,2:10
+ValuesEducation, VPE I 301,Iloilo,Thursday,2:10,2:50
+AP, VPE I 301,Iloilo,Thursday,2:50,3:30
+Science, VPE I 301,Iloilo,Thursday,3:30,4:00
+Recess, VPE I 301,Iloilo,Thursday,4:00,4:40
+Mathematics, VPE I 301,Iloilo,Thursday,4:40,5:20
+English, VPE I 301,Iloilo,Thursday,5:20,6:00
+Filipino, VPE I 301,Iloilo,Thursday,6:00,6:40
+ASYNC, VPE I 301,Iloilo,Thursday,7:20,7:45
+ASYNC, VPE I 301,Iloilo,Thursday,7:45,8:10
+TLE, VPE I 303,Kalinga,Thursday,12:50,1:30
+Mapeh, VPE I 303,Kalinga,Thursday,1:30,2:10
+ValuesEducation, VPE I 303,Kalinga,Thursday,2:10,2:50
+AP, VPE I 303,Kalinga,Thursday,2:50,3:30
+Science, VPE I 303,Kalinga,Thursday,3:30,4:00
+Recess, VPE I 303,Kalinga,Thursday,4:00,4:40
+Mathematics, VPE I 303,Kalinga,Thursday,4:40,5:20
+English, VPE I 303,Kalinga,Thursday,5:20,6:00
+Filipino, VPE I 303,Kalinga,Thursday,6:00,6:40
+ASYNC, VPE I 303,Kalinga,Thursday,7:20,7:45
+ASYNC, VPE I 303,Kalinga,Thursday,7:45,8:10
+TLE, VPE I 304,Laguna,Thursday,12:50,1:30
+Mapeh, VPE I 304,Laguna,Thursday,1:30,2:10
+ValuesEducation, VPE I 304,Laguna,Thursday,2:10,2:50
+AP, VPE I 304,Laguna,Thursday,2:50,3:30
+Science, VPE I 304,Laguna,Thursday,3:30,4:00
+Recess, VPE I 304,Laguna,Thursday,4:00,4:40
+Mathematics, VPE I 304,Laguna,Thursday,4:40,5:20
+English, VPE I 304,Laguna,Thursday,5:20,6:00
+Filipino, VPE I 304,Laguna,Thursday,6:00,6:40
+ASYNC, VPE I 304,Laguna,Thursday,7:20,7:45
+ASYNC, VPE I 304,Laguna,Thursday,7:45,8:10
+TLE, DEPED 301,Masbate,Thursday,12:50,1:30
+Mapeh, DEPED 301,Masbate,Thursday,1:30,2:10
+ValuesEducation, DEPED 301,Masbate,Thursday,2:10,2:50
+AP, DEPED 301,Masbate,Thursday,2:50,3:30
+Science, DEPED 301,Masbate,Thursday,3:30,4:00
+Recess, DEPED 301,Masbate,Thursday,4:00,4:40
+Mathematics, DEPED 301,Masbate,Thursday,4:40,5:20
+English, DEPED 301,Masbate,Thursday,5:20,6:00
+Filipino, DEPED 301,Masbate,Thursday,6:00,6:40
+ASYNC, DEPED 301,Masbate,Thursday,7:20,7:45
+ASYNC, DEPED 301,Masbate,Thursday,7:45,8:10
+TLE, DEPED 302,Pasig,Thursday,12:50,1:30
+Mapeh, DEPED 302,Pasig,Thursday,1:30,2:10
+ValuesEducation, DEPED 302,Pasig,Thursday,2:10,2:50
+AP, DEPED 302,Pasig,Thursday,2:50,3:30
+Science, DEPED 302,Pasig,Thursday,3:30,4:00
+Recess, DEPED 302,Pasig,Thursday,4:00,4:40
+Mathematics, DEPED 302,Pasig,Thursday,4:40,5:20
+English, DEPED 302,Pasig,Thursday,5:20,6:00
+Filipino, DEPED 302,Pasig,Thursday,6:00,6:40
+ASYNC, DEPED 302,Pasig,Thursday,7:20,7:45
+ASYNC, DEPED 302,Pasig,Thursday,7:45,8:10
+TLE, DEPED 303,Romblon,Thursday,12:50,1:30
+Mapeh, DEPED 303,Romblon,Thursday,1:30,2:10
+ValuesEducation, DEPED 303,Romblon,Thursday,2:10,2:50
+AP, DEPED 303,Romblon,Thursday,2:50,3:30
+Science, DEPED 303,Romblon,Thursday,3:30,4:00
+Recess, DEPED 303,Romblon,Thursday,4:00,4:40
+Mathematics, DEPED 303,Romblon,Thursday,4:40,5:20
+English, DEPED 303,Romblon,Thursday,5:20,6:00
+Filipino, DEPED 303,Romblon,Thursday,6:00,6:40
+ASYNC, DEPED 303,Romblon,Thursday,7:20,7:45
+ASYNC, DEPED 303,Romblon,Thursday,7:45,8:10
+TLE, DEPED 201,Samar,Thursday,12:50,1:30
+Mapeh, DEPED 201,Samar,Thursday,1:30,2:10
+ValuesEducation, DEPED 201,Samar,Thursday,2:10,2:50
+AP, DEPED 201,Samar,Thursday,2:50,3:30
+Science, DEPED 201,Samar,Thursday,3:30,4:00
+Recess, DEPED 201,Samar,Thursday,4:00,4:40
+Mathematics, DEPED 201,Samar,Thursday,4:40,5:20
+English, DEPED 201,Samar,Thursday,5:20,6:00
+Filipino, DEPED 201,Samar,Thursday,6:00,6:40
+ASYNC, DEPED 201,Samar,Thursday,7:20,7:45
+ASYNC, DEPED 201,Samar,Thursday,7:45,8:10
+TLE, DEPED 202,Surigao,Thursday,12:50,1:30
+Mapeh, DEPED 202,Surigao,Thursday,1:30,2:10
+ValuesEducation, DEPED 202,Surigao,Thursday,2:10,2:50
+AP, DEPED 202,Surigao,Thursday,2:50,3:30
+Science, DEPED 202,Surigao,Thursday,3:30,4:00
+Recess, DEPED 202,Surigao,Thursday,4:00,4:40
+Mathematics, DEPED 202,Surigao,Thursday,4:40,5:20
+English, DEPED 202,Surigao,Thursday,5:20,6:00
+Filipino, DEPED 202,Surigao,Thursday,6:00,6:40
+ASYNC, DEPED 202,Surigao,Thursday,7:20,7:45
+ASYNC, DEPED 202,Surigao,Thursday,7:45,8:10
+TLE, DEPED 103,Tawi-Tawi,Thursday,6:00,6:40
+Mapeh, DEPED 103,Tawi-Tawi,Thursday,6:40,7:20
+ValuesEducation, DEPED 103,Tawi-Tawi,Thursday,7:20,8:00
+AP, DEPED 103,Tawi-Tawi,Thursday,8:00,8:40
+Science, DEPED 103,Tawi-Tawi,Thursday,8:40,9:10
+Recess, DEPED 103,Tawi-Tawi,Thursday,9:10,9:50
+Mathematics, DEPED 103,Tawi-Tawi,Thursday,9:50,10:30
+English, DEPED 103,Tawi-Tawi,Thursday,10:30,11:10
+Filipino, DEPED 103,Tawi-Tawi,Thursday,11:10,11:50
+NMP, DEPED 103,Tawi-Tawi,Thursday,11:50,12:30
+ASYNC, DEPED 103,Tawi-Tawi,Thursday,12:30,12:55
+ASYNC, DEPED 103,Tawi-Tawi,Thursday,12:55,1:20
+TLE, VPE I 302,Zamboanga,Thursday,6:00,6:40
+Mapeh, VPE I 302,Zamboanga,Thursday,6:40,7:20
+ValuesEducation, VPE I 302,Zamboanga,Thursday,7:20,8:00
+AP, VPE I 302,Zamboanga,Thursday,8:00,8:40
+Science, VPE I 302,Zamboanga,Thursday,8:40,9:10
+Recess, VPE I 302,Zamboanga,Thursday,9:10,9:50
+Mathematics, VPE I 302,Zamboanga,Thursday,9:50,10:30
+English, VPE I 302,Zamboanga,Thursday,10:30,11:10
+Filipino, VPE I 302,Zamboanga,Thursday,11:10,11:50
+NMP, VPE I 302,Zamboanga,Thursday,11:50,12:30
+ASYNC, VPE I 302,Zamboanga,Thursday,12:30,12:55
+ASYNC, VPE I 302,Zamboanga,Thursday,12:55,1:20
+TLE,401,Argon,Friday,6:00,6:40
+Mapeh,401,Argon,Friday,6:40,7:20
+ValuesEducation,401,Argon,Friday,7:20,8:00
+AP,401,Argon,Friday,8:00,8:40
+Science,401,Argon,Friday,8:40,9:20
+Recess,401,Argon,Friday,9:20,9:50
+Mathematics,401,Argon,Friday,9:50,10:30
+English,401,Argon,Friday,10:30,11:10
+Filipino,401,Argon,Friday,11:10,11:50
+NMP,401,Argon,Friday,11:50,12:30
+ASYNC,401,Argon,Friday,12:30,12:55
+ASYNC,401,Argon,Friday,12:55,1:20
+ValuesEducation,403,Barium,Friday,6:00,6:40
+TLE,402,Barium,Friday,6:40,7:20
+AP,402,Barium,Friday,7:20,8:00
+Science,402,Barium,Friday,8:00,8:40
+Mathematics,402,Barium,Friday,8:40,9:20
+Recess,402,Barium,Friday,9:20,9:50
+English,402,Barium,Friday,9:50,10:30
+Filipino,402,Barium,Friday,10:30,11:10
+Mapeh,402,Barium,Friday,11:10,11:50
+ASYNC,402,Barium,Friday,12:30,12:55
+ASYNC,402,Barium,Friday,12:55,1:20
+NMP,302,Europium,Friday,11:50,12:30
+HGP, VPEI 301,Iron,Friday,11:50,12:30
+NMP, VPEI 303,Krypton,Friday,11:50,12:30
+HGP, DEPED 303,Oxygen,Friday,11:50,12:30
+NMP, DEPED 203,Silver,Friday,11:50,12:30
+AP,403,Copper,Friday,6:00,6:40
+Science,403,Copper,Friday,6:40,7:20
+TLE,403,Copper,Friday,7:20,8:00
+Mathematics,403,Copper,Friday,8:00,8:40
+English,403,Copper,Friday,8:40,9:20
+Recess,403,Copper,Friday,9:20,9:50
+Filipino,403,Copper,Friday,9:50,10:30
+Mapeh,401,Copper,Friday,10:30,11:10
+ValuesEducation,403,Copper,Friday,11:10,11:50
+ASYNC,403,Copper,Friday,12:30,12:55
+ASYNC,403,Copper,Friday,12:55,1:20
+Science,403,Copper,Friday,6:00,6:40
+Mathematics,403,Copper,Friday,6:40,7:20
+English,403,Copper,Friday,7:20,8:00
+TLE,403,Copper,Friday,8:00,8:40
+Filipino,403,Copper,Friday,8:40,9:20
+Recess,403,Copper,Friday,9:20,9:50
+Mapeh,403,Copper,Friday,9:50,10:30
+ValuesEducation,401,Copper,Friday,10:30,11:10
+AP,403,Copper,Friday,11:10,11:50
+ASYNC,403,Copper,Friday,12:30,12:55
+ASYNC,403,Copper,Friday,12:55,1:20
+Science,301,Dubnium,Friday,6:00,6:40
+Mathematics,301,Dubnium,Friday,6:40,7:20
+English,301,Dubnium,Friday,7:20,8:00
+TLE,301,Dubnium,Friday,8:00,8:40
+Filipino,301,Dubnium,Friday,8:40,9:20
+Recess,301,Dubnium,Friday,9:20,9:50
+Mapeh,301,Dubnium,Friday,9:50,10:30
+ValuesEducation,301,Dubnium,Friday,10:30,11:10
+AP,301,Dubnium,Friday,11:10,11:50
+ASYNC,301,Dubnium,Friday,12:30,12:55
+ASYNC,301,Dubnium,Friday,12:55,1:20
+Mathematics,302,Europium,Friday,6:00,6:40
+English,302,Europium,Friday,6:40,7:20
+Filipino,302,Europium,Friday,7:20,8:00
+Mapeh,302,Europium,Friday,8:00,8:40
+TLE,302,Europium,Friday,8:40,9:20
+Recess,302,Europium,Friday,9:20,9:50
+ValuesEducation,302,Europium,Friday,9:50,10:30
+AP,302,Europium,Friday,10:30,11:10
+Science,302,Europium,Friday,11:10,11:50
+ASYNC,302,Europium,Friday,12:30,12:55
+ASYNC,302,Europium,Friday,12:55,1:20
+English,303,Fluorine,Friday,6:00,6:40
+Filipino,303,Fluorine,Friday,6:40,7:20
+Mapeh,303,Fluorine,Friday,7:20,8:00
+ValuesEducation,303,Fluorine,Friday,8:00,8:40
+AP,303,Fluorine,Friday,8:40,9:20
+Recess,303,Fluorine,Friday,9:20,9:50
+TLE,303,Fluorine,Friday,9:50,10:30
+Science,303,Fluorine,Friday,10:30,11:10
+Mathematics,303,Fluorine,Friday,11:10,11:50
+ASYNC,303,Fluorine,Friday,12:30,12:55
+ASYNC,303,Fluorine,Friday,12:55,1:20
+Filipino, VPEIII 301,Gold,Friday,6:00,6:40
+Mapeh, VPEIII 301,Gold,Friday,6:40,7:20
+ValuesEducation,302,Gold,Friday,7:20,8:00
+AP,302,Gold,Friday,8:00,8:40
+Science,302,Gold,Friday,8:40,9:20
+Recess,302,Gold,Friday,9:20,9:50
+Mathematics,302,Gold,Friday,9:50,10:30
+TLE,302,Gold,Friday,10:30,11:10
+English,302,Gold,Friday,11:10,11:50
+ASYNC,302,Gold,Friday,12:30,12:55
+ASYNC,302,Gold,Friday,12:55,1:20
+Mapeh, VPEIII 302,Hydrogen,Friday,6:00,6:40
+ValuesEducation, VPEIII 302,Hydrogen,Friday,6:40,7:20
+AP, VPEIII 302,Hydrogen,Friday,7:20,8:00
+Science, VPEIII 302,Hydrogen,Friday,8:00,8:40
+Mathematics, VPEIII 302,Hydrogen,Friday,8:40,9:20
+Recess, VPEIII 302,Hydrogen,Friday,9:20,9:50
+English, VPEIII 302,Hydrogen,Friday,9:50,10:30
+Filipino, VPEIII 302,Hydrogen,Friday,10:30,11:10
+TLE, VPEIII 302,Hydrogen,Friday,11:10,11:50
+ASYNC, VPEIII 302,Hydrogen,Friday,12:30,12:55
+ASYNC, VPEIII 302,Hydrogen,Friday,12:55,1:20
+ValuesEducation, VPEI 301,Iron,Friday,6:00,6:40
+AP, VPEI 301,Iron,Friday,6:40,7:20
+Science, VPEI 301,Iron,Friday,7:20,8:00
+Mathematics, VPEI 301,Iron,Friday,8:00,8:40
+Recess, VPEI 301,Iron,Friday,8:40,9:20
+Filipino, VPEI 301,Iron,Friday,9:20,9:50
+Mapeh, VPEI 301,Iron,Friday,10:30,11:10
+TLE, VPEI 301,Iron,Friday,11:10,11:50
+ASYNC, VPEI 301,Iron,Friday,12:30,12:55
+ASYNC, VPEI 301,Iron,Friday,12:55,1:20
+TLE, VPEI 303,Krypton,Friday,6:00,6:40
+Science, VPEI 303,Krypton,Friday,6:40,7:20
+Filipino, VPEI 303,Krypton,Friday,7:20,8:00
+Mathematics, VPEI 303,Krypton,Friday,8:00,8:40
+English, VPEI 303,Krypton,Friday,8:40,9:20
+Recess, VPEI 303,Krypton,Friday,9:20,9:50
+Mapeh, VPEI 303,Krypton,Friday,9:50,10:30
+ValuesEducation, VPEI 303,Krypton,Friday,10:30,11:10
+AP, VPEI 303,Krypton,Friday,11:10,11:50
+ASYNC, VPEI 303,Krypton,Friday,12:30,12:55
+ASYNC, VPEI 303,Krypton,Friday,12:55,1:20
+TLE, VPEI 304,Lithium,Friday,6:00,6:40
+Science, VPEI 304,Lithium,Friday,6:40,7:20
+Filipino, VPEI 304,Lithium,Friday,7:20,8:00
+Mathematics, VPEI 304,Lithium,Friday,8:00,8:40
+English, VPEI 304,Lithium,Friday,8:40,9:20
+Recess, VPEI 304,Lithium,Friday,9:20,9:50
+Mapeh, VPEI 304,Lithium,Friday,9:50,10:30
+ValuesEducation, VPEI 304,Lithium,Friday,10:30,11:10
+AP, VPEI 304,Lithium,Friday,11:10,11:50
+ASYNC, VPEI 304,Lithium,Friday,12:30,12:55
+ASYNC, VPEI 304,Lithium,Friday,12:55,1:20
+TLE, DEPED 301,Magnesium,Friday,6:00,6:40
+Science, DEPED 301,Magnesium,Friday,6:40,7:20
+Filipino, DEPED 301,Magnesium,Friday,7:20,8:00
+Mathematics, DEPED 301,Magnesium,Friday,8:00,8:40
+English, DEPED 301,Magnesium,Friday,8:40,9:20
+Recess, DEPED 301,Magnesium,Friday,9:20,9:50
+Mapeh, DEPED 301,Magnesium,Friday,9:50,10:30
+ValuesEducation, DEPED 301,Magnesium,Friday,10:30,11:10
+AP, DEPED 301,Magnesium,Friday,11:10,11:50
+ASYNC, DEPED 301,Magnesium,Friday,12:30,12:55
+ASYNC, DEPED 301,Magnesium,Friday,12:55,1:02
+TLE, DEPED 302,Neon,Friday,6:00,6:40
+Science, DEPED 302,Neon,Friday,6:40,7:20
+Filipino, DEPED 302,Neon,Friday,7:20,8:00
+Mathematics, DEPED 302,Neon,Friday,8:00,8:40
+English, DEPED 302,Neon,Friday,8:40,9:20
+Recess, DEPED 302,Neon,Friday,9:20,9:50
+Mapeh, DEPED 302,Neon,Friday,9:50,10:30
+ValuesEducation, DEPED 302,Neon,Friday,10:30,11:10
+AP, DEPED 302,Neon,Friday,11:10,11:50
+ASYNC, DEPED 302,Neon,Friday,12:30,12:55
+ASYNC, DEPED 302,Neon,Friday,12:55,1:20
+TLE, DEPED 303,Oxygen,Friday,6:00,6:40
+Science, DEPED 303,Oxygen,Friday,6:40,7:20
+Filipino, DEPED 303,Oxygen,Friday,7:20,8:00
+Mathematics, DEPED 303,Oxygen,Friday,8:00,8:40
+English, DEPED 303,Oxygen,Friday,8:40,9:20
+Recess, DEPED 303,Oxygen,Friday,9:20,9:50
+Mapeh, DEPED 303,Oxygen,Friday,9:50,10:30
+ValuesEducation, DEPED 303,Oxygen,Friday,10:30,11:10
+AP, DEPED 303,Oxygen,Friday,11:10,11:50
+ASYNC, DEPED 303,Oxygen,Friday,12:30,12:55
+ASYNC, DEPED 303,Oxygen,Friday,12:55,1:20
+TLE, DEPED 201,Platinum,Friday,6:00,6:40
+Science, DEPED 201,Platinum,Friday,6:40,7:20
+Filipino, DEPED 201,Platinum,Friday,7:20,8:00
+Mathematics, DEPED 201,Platinum,Friday,8:00,8:40
+English, DEPED 201,Platinum,Friday,8:40,9:20
+Recess, DEPED 201,Platinum,Friday,9:20,9:50
+Mapeh, DEPED 201,Platinum,Friday,9:50,10:30
+ValuesEducation, DEPED 201,Platinum,Friday,10:30,11:10
+AP, DEPED 201,Platinum,Friday,11:10,11:50
+ASYNC, DEPED 201,Platinum,Friday,12:30,12:55
+ASYNC, DEPED 201,Platinum,Friday,12:55,1:20
+TLE, DEPED 202,Radium,Friday,6:00,6:40
+Science, DEPED 202,Radium,Friday,6:40,7:20
+Filipino, DEPED 202,Radium,Friday,7:20,8:00
+Mathematics, DEPED 202,Radium,Friday,8:00,8:40
+English, DEPED 202,Radium,Friday,8:40,9:20
+Recess, DEPED 202,Radium,Friday,9:20,9:50
+Mapeh, DEPED 202,Radium,Friday,9:50,10:30
+ValuesEducation, DEPED 202,Radium,Friday,10:30,11:10
+AP, DEPED 202,Radium,Friday,11:10,11:50
+ASYNC, DEPED 202,Radium,Friday,12:30,12:55
+ASYNC, DEPED 202,Radium,Friday,12:55,1:20
+TLE, DEPED 203,Silver,Friday,6:00,6:40
+Science, DEPED 203,Silver,Friday,6:40,7:20
+Filipino, DEPED 203,Silver,Friday,7:20,8:00
+Mathematics, DEPED 203,Silver,Friday,8:00,8:40
+English, DEPED 203,Silver,Friday,8:40,9:20
+Recess, DEPED 203,Silver,Friday,9:20,9:50
+Mapeh, DEPED 203,Silver,Friday,9:50,10:30
+ValuesEducation, DEPED 203,Silver,Friday,10:30,11:10
+AP, DEPED 203,Silver,Friday,11:10,11:50
+ASYNC, DEPED 203,Silver,Friday,12:30,12:55
+ASYNC, DEPED 203,Silver,Friday,12:55,1:20
+TLE, SPED BLDG,Titanium,Friday,6:00,6:40
+Science, SPED BLDG,Titanium,Friday,6:40,7:20
+Filipino, SPED BLDG,Titanium,Friday,7:20,8:00
+Mathematics, SPED BLDG,Titanium,Friday,8:00,8:40
+English, SPED BLDG,Titanium,Friday,8:40,9:20
+Recess, SPED BLDG,Titanium,Friday,9:20,9:50
+Mapeh, SPED BLDG,Titanium,Friday,9:50,10:30
+ValuesEducation, SPED BLDG,Titanium,Friday,10:30,11:10
+AP, SPED BLDG,Titanium,Friday,11:10,11:50
+ASYNC, SPED BLDG,Titanium,Friday,12:30,12:55
+ASYNC, SPED BLDG,Titanium,Friday,12:55,1:20
+Mapeh, VPEI 302,Uranium,Friday,6:00,6:40
+ValuesEducation, VPEI 302,Uranium,Friday,6:40,7:20
+AP, VPEI 302,Uranium,Friday,7:20,8:00
+Science, VPEI 302,Uranium,Friday,8:00,8:40
+Mathematics, VPEI 302,Uranium,Friday,8:40,9:20
+Recess, VPEI 302,Uranium,Friday,9:20,9:50
+English, VPEI 302,Uranium,Friday,9:50,10:30
+Filipino, VPEI 302,Uranium,Friday,10:30,11:10
+TLE, VPEI 302,Uranium,Friday,11:10,11:50
+ASYNC, VPEI 302,Uranium,Friday,12:30,12:55
+ASYNC, VPEI 302,Uranium,Friday,12:55,1:20
+NMP, BCE 501,Anthurium,Friday,11:50,12:30
+HGP, VPEIII 502,Euphoria,Friday,11:50,12:30
+NMP, VPEII 502,Gardenia,Friday,11:50,12:30
+Filipino, BCE 501,Anthurium,Friday,6:00,6:40
+English, BCE 501,Anthurium,Friday,6:40,7:20
+Mathematics, BCE 501,Anthurium,Friday,7:20,8:00
+Science, BCE 501,Anthurium,Friday,8:00,8:40
+Recess, BCE 501,Anthurium,Friday,8:40,9:20
+AP, BCE 501,Anthurium,Friday,9:20,9:50
+ValuesEducation, BCE 501,Anthurium,Friday,9:50,10:30
+TLE, BCE 501,Anthurium,Friday,10:30,11:10
+Mapeh, BCE 501,Anthurium,Friday,11:10,11:50
+ASYNC, BCE 501,Anthurium,Friday,12:30,12:55
+ASYNC, BCE 501,Anthurium,Friday,12:55,1:20
+Filipino, BCE 502,Buttercup,Friday,6:00,6:40
+English, BCE 502,Buttercup,Friday,6:40,7:20
+Mathematics, BCE 502,Buttercup,Friday,7:20,8:00
+Science, BCE 502,Buttercup,Friday,8:00,8:40
+Recess, BCE 502,Buttercup,Friday,8:40,9:20
+AP, BCE 502,Buttercup,Friday,9:20,9:50
+ValuesEducation, BCE 502,Buttercup,Friday,9:50,10:30
+TLE, BCE 502,Buttercup,Friday,10:30,11:10
+Mapeh, BCE 502,Buttercup,Friday,11:10,11:50
+ASYNC, BCE 502,Buttercup,Friday,12:30,12:55
+ASYNC, BCE 502,Buttercup,Friday,12:55,1:20
+Filipino, BCE 503,Carnation,Friday,6:00,6:40
+English, BCE 503,Carnation,Friday,6:40,7:20
+Mathematics, BCE 503,Carnation,Friday,7:20,8:00
+Science, BCE 503,Carnation,Friday,8:00,8:40
+Recess, BCE 503,Carnation,Friday,8:40,9:20
+AP, BCE 503,Carnation,Friday,9:20,9:50
+ValuesEducation, BCE 503,Carnation,Friday,9:50,10:30
+TLE, BCE 503,Carnation,Friday,10:30,11:10
+Mapeh, BCE 503,Carnation,Friday,11:10,11:50
+ASYNC, BCE 503,Carnation,Friday,12:30,12:55
+ASYNC, BCE 503,Carnation,Friday,12:55,1:20
+Filipino, VPE III 501,Daffodil,Friday,6:00,6:40
+English, VPE III 501,Daffodil,Friday,6:40,7:20
+Mathematics, VPE III 501,Daffodil,Friday,7:20,8:00
+Science, VPE III 501,Daffodil,Friday,8:00,8:40
+Recess, VPE III 501,Daffodil,Friday,8:40,9:20
+AP, VPE III 501,Daffodil,Friday,9:20,9:50
+ValuesEducation, VPE III 501,Daffodil,Friday,9:50,10:30
+TLE, VPE III 501,Daffodil,Friday,10:30,11:10
+Mapeh, VPE III 501,Daffodil,Friday,11:10,11:50
+ASYNC, VPE III 501,Daffodil,Friday,12:30,12:55
+ASYNC, VPE III 501,Daffodil,Friday,12:55,1:20
+Filipino, VPE III 502,Euphoria,Friday,6:00,6:40
+English, VPE III 502,Euphoria,Friday,6:40,7:20
+Mathematics, VPE III 502,Euphoria,Friday,7:20,8:00
+Science, VPE III 502,Euphoria,Friday,8:00,8:40
+Recess, VPE III 502,Euphoria,Friday,8:40,9:20
+AP, VPE III 502,Euphoria,Friday,9:20,9:50
+ValuesEducation, VPE III 502,Euphoria,Friday,9:50,10:30
+TLE, VPE III 502,Euphoria,Friday,10:30,11:10
+Mapeh, VPE III 502,Euphoria,Friday,11:10,11:50
+ASYNC, VPE III 502,Euphoria,Friday,12:30,12:55
+ASYNC, VPE III 502,Euphoria,Friday,12:55,1:20
+Filipino, VPE III 503,Freesia,Friday,6:00,6:40
+English, VPE III 503,Freesia,Friday,6:40,7:20
+Mathematics, VPE III 503,Freesia,Friday,7:20,8:00
+Science, VPE III 503,Freesia,Friday,8:00,8:40
+Recess, VPE III 503,Freesia,Friday,8:40,9:20
+AP, VPE III 503,Freesia,Friday,9:20,9:50
+ValuesEducation, VPE III 503,Freesia,Friday,9:50,10:30
+TLE, VPE III 503,Freesia,Friday,10:30,11:10
+Mapeh, VPE III 503,Freesia,Friday,11:10,11:50
+ASYNC, VPE III 503,Freesia,Friday,12:30,12:55
+ASYNC, VPE III 503,Freesia,Friday,12:55,1:20
+Filipino, VPE II 502,Gardenia,Friday,6:00,6:40
+English, VPE II 502,Gardenia,Friday,6:40,7:20
+Mathematics, VPE II 502,Gardenia,Friday,7:20,8:00
+Science, VPE II 502,Gardenia,Friday,8:00,8:40
+Recess, VPE II 502,Gardenia,Friday,8:40,9:20
+AP, VPE II 502,Gardenia,Friday,9:20,9:50
+ValuesEducation, VPE II 502,Gardenia,Friday,9:50,10:30
+TLE, VPE II 502,Gardenia,Friday,10:30,11:10
+Mapeh, VPE II 502,Gardenia,Friday,11:10,11:50
+ASYNC, VPE II 502,Gardenia,Friday,12:30,12:55
+ASYNC, VPE II 502,Gardenia,Friday,12:55,1:20
+Filipino, BCE 401,Hibiscus,Friday,6:00,6:40
+English, BCE 401,Hibiscus,Friday,6:40,7:20
+Mathematics, BCE 401,Hibiscus,Friday,7:20,8:00
+Science, BCE 401,Hibiscus,Friday,8:00,8:40
+Recess, BCE 401,Hibiscus,Friday,8:40,9:20
+AP, BCE 401,Hibiscus,Friday,9:20,9:50
+ValuesEducation, BCE 401,Hibiscus,Friday,9:50,10:30
+TLE, BCE 401,Hibiscus,Friday,10:30,11:10
+Mapeh, BCE 401,Hibiscus,Friday,11:10,11:50
+ASYNC, BCE 401,Hibiscus,Friday,12:30,12:55
+ASYNC, BCE 401,Hibiscus,Friday,12:55,1:20
+Filipino, BCE 402,Iris,Friday,6:00,6:40
+English, BCE 402,Iris,Friday,6:40,7:20
+Mathematics, BCE 402,Iris,Friday,7:20,8:00
+Science, BCE 402,Iris,Friday,8:00,8:40
+Recess, BCE 402,Iris,Friday,8:40,9:20
+AP, BCE 402,Iris,Friday,9:20,9:50
+ValuesEducation, BCE 402,Iris,Friday,9:50,10:30
+TLE, BCE 402,Iris,Friday,10:30,11:10
+Mapeh, BCE 402,Iris,Friday,11:10,11:50
+ASYNC, BCE 402,Iris,Friday,12:30,12:55
+ASYNC, BCE 402,Iris,Friday,12:55,1:20
+Filipino, BCE 403,Jasmine,Friday,6:00,6:40
+English, BCE 403,Jasmine,Friday,6:40,7:20
+Mathematics, BCE 403,Jasmine,Friday,7:20,8:00
+Science, BCE 403,Jasmine,Friday,8:00,8:40
+Recess, BCE 403,Jasmine,Friday,8:40,9:20
+AP, BCE 403,Jasmine,Friday,9:20,9:50
+ValuesEducation, BCE 403,Jasmine,Friday,9:50,10:30
+TLE, BCE 403,Jasmine,Friday,10:30,11:10
+Mapeh, BCE 403,Jasmine,Friday,11:10,11:50
+NMP, BCE 403,Jasmine,Friday,11:50,12:30
+ASYNC, BCE 403,Jasmine,Friday,12:30,12:55
+ASYNC, BCE 403,Jasmine,Friday,12:55,1:20
+Filipino, VPE III 401,Kalmia,Friday,6:00,6:40
+English, VPE III 401,Kalmia,Friday,6:40,7:20
+Mathematics, VPE III 401,Kalmia,Friday,7:20,8:00
+Science, VPE III 401,Kalmia,Friday,8:00,8:40
+Recess, VPE III 401,Kalmia,Friday,8:40,9:20
+AP, VPE III 401,Kalmia,Friday,9:20,9:50
+ValuesEducation, VPE III 401,Kalmia,Friday,9:50,10:30
+TLE, VPE III 401,Kalmia,Friday,10:30,11:10
+Mapeh, VPE III 401,Kalmia,Friday,11:10,11:50
+ASYNC, VPE III 401,Kalmia,Friday,12:30,12:55
+ASYNC, VPE III 401,Kalmia,Friday,12:55,1:20
+Filipino, VPE III 402,Lavender,Friday,6:00,6:40
+English, VPE III 402,Lavender,Friday,6:40,7:20
+Mathematics, VPE III 402,Lavender,Friday,7:20,8:00
+Science, VPE III 402,Lavender,Friday,8:00,8:40
+Recess, VPE III 402,Lavender,Friday,8:40,9:20
+AP, VPE III 402,Lavender,Friday,9:20,9:50
+ValuesEducation, VPE III 402,Lavender,Friday,9:50,10:30
+TLE, VPE III 402,Lavender,Friday,10:30,11:10
+Mapeh, VPE III 402,Lavender,Friday,11:10,11:50
+ASYNC, VPE III 402,Lavender,Friday,12:30,12:55
+ASYNC, VPE III 402,Lavender,Friday,12:55,1:20
+Filipino, VPE III 403,Marigold,Friday,6:00,6:40
+English, VPE III 403,Marigold,Friday,6:40,7:20
+Mathematics, VPE III 403,Marigold,Friday,7:20,8:00
+Science, VPE III 403,Marigold,Friday,8:00,8:40
+Recess, VPE III 403,Marigold,Friday,8:40,9:20
+AP, VPE III 403,Marigold,Friday,9:20,9:50
+ValuesEducation, VPE III 403,Marigold,Friday,9:50,10:30
+TLE, VPE III 403,Marigold,Friday,10:30,11:10
+Mapeh, VPE III 403,Marigold,Friday,11:10,11:50
+ASYNC, VPE III 403,Marigold,Friday,12:30,12:55
+ASYNC, VPE III 403,Marigold,Friday,12:55,1:20
+Filipino, BCE 301,Narcissus,Friday,6:00,6:40
+English, BCE 301,Narcissus,Friday,6:40,7:20
+Mathematics, BCE 301,Narcissus,Friday,7:20,8:00
+Science, BCE 301,Narcissus,Friday,8:00,8:40
+Recess, BCE 301,Narcissus,Friday,8:40,9:20
+AP, BCE 301,Narcissus,Friday,9:20,9:50
+ValuesEducation, BCE 301,Narcissus,Friday,9:50,10:30
+TLE, BCE 301,Narcissus,Friday,10:30,11:10
+Mapeh, BCE 301,Narcissus,Friday,11:10,11:50
+ASYNC, BCE 301,Narcissus,Friday,12:30,12:55
+ASYNC, BCE 301,Narcissus,Friday,12:55,1:20
+Filipino, BCE 302,Orchid,Friday,6:00,6:40
+English, BCE 302,Orchid,Friday,6:40,7:20
+Mathematics, BCE 302,Orchid,Friday,7:20,8:00
+Science, BCE 302,Orchid,Friday,8:00,8:40
+Recess, BCE 302,Orchid,Friday,8:40,9:20
+AP, BCE 302,Orchid,Friday,9:20,9:50
+ValuesEducation, BCE 302,Orchid,Friday,9:50,10:30
+TLE, BCE 302,Orchid,Friday,10:30,11:10
+Mapeh, BCE 302,Orchid,Friday,11:10,11:50
+ASYNC, BCE 302,Orchid,Friday,12:30,12:55
+ASYNC, BCE 302,Orchid,Friday,12:55,1:20
+NMP, BCE 302,Orchid,Friday,11:50,12:30
+Filipino, BCE 303,Periwinkle,Friday,6:00,6:40
+English, BCE 303,Periwinkle,Friday,6:40,7:20
+Mathematics, BCE 303,Periwinkle,Friday,7:20,8:00
+Science, BCE 303,Periwinkle,Friday,8:00,8:40
+Recess, BCE 303,Periwinkle,Friday,8:40,9:20
+AP, BCE 303,Periwinkle,Friday,9:20,9:50
+ValuesEducation, BCE 303,Periwinkle,Friday,9:50,10:30
+TLE, BCE 303,Periwinkle,Friday,10:30,11:10
+Mapeh, BCE 303,Periwinkle,Friday,11:10,11:50
+ASYNC, BCE 303,Periwinkle,Friday,12:30,12:55
+ASYNC, BCE 303,Periwinkle,Friday,12:55,1:20
+Filipino, DEPED 101,Quesnelia,Friday,6:00,6:40
+English, DEPED 101,Quesnelia,Friday,6:40,7:20
+Mathematics, DEPED 101,Quesnelia,Friday,7:20,8:00
+Science, DEPED 101,Quesnelia,Friday,8:00,8:40
+Recess, DEPED 101,Quesnelia,Friday,8:40,9:20
+AP, DEPED 101,Quesnelia,Friday,9:20,9:50
+ValuesEducation, DEPED 101,Quesnelia,Friday,9:50,10:30
+TLE, DEPED 101,Quesnelia,Friday,10:30,11:10
+Mapeh, DEPED 101,Quesnelia,Friday,11:10,11:50
+ASYNC, DEPED 101,Quesnelia,Friday,12:30,12:55
+ASYNC, DEPED 101,Quesnelia,Friday,12:55,1:20
+Filipino, VPE I 302,Rose,Friday,6:00,6:40
+English, VPE I 302,Rose,Friday,6:40,7:20
+Mathematics, VPE I 302,Rose,Friday,7:20,8:00
+Science, VPE I 302,Rose,Friday,8:00,8:40
+Recess, VPE I 302,Rose,Friday,8:40,9:20
+AP, VPE I 302,Rose,Friday,9:20,9:50
+ValuesEducation, VPE I 302,Rose,Friday,9:50,10:30
+TLE, VPE I 302,Rose,Friday,10:30,11:10
+Mapeh, VPE I 302,Rose,Friday,11:10,11:50
+ASYNC, VPE I 302,Rose,Friday,12:30,12:55
+ASYNC, VPE I 302,Rose,Friday,12:55,1:20
+NMP, VPE I 302,Rose,Friday,11:50,12:30
+Filipino, BCE 501,Amiable,Friday,12:50,1:30
+English, BCE 501,Amiable,Friday,1:30,2:10
+Mathematics, BCE 501,Amiable,Friday,2:10,2:50
+Science, BCE 501,Amiable,Friday,2:50,3:30
+Recess, BCE 501,Amiable,Friday,3:30,4:00
+AP, BCE 501,Amiable,Friday,4:00,4:40
+ValuesEducation, BCE 501,Amiable,Friday,4:40,5:20
+TLE, BCE 501,Amiable,Friday,5:20,6:00
+Mapeh, BCE 501,Amiable,Friday,6:00,6:40
+NMP, BCE 501,Amiable,Friday,6:40,7:20
+ASYNC, BCE 501,Amiable,Friday,7:20,7:45
+ASYNC, BCE 501,Amiable,Friday,7:45,8:10
+Filipino, BCE 502,Brilliance,Friday,12:50,1:30
+English, BCE 502,Brilliance,Friday,1:30,2:10
+Mathematics, BCE 502,Brilliance,Friday,2:10,2:50
+Science, BCE 502,Brilliance,Friday,2:50,3:30
+Recess, BCE 502,Brilliance,Friday,3:30,4:00
+AP, BCE 502,Brilliance,Friday,4:00,4:40
+ValuesEducation, BCE 502,Brilliance,Friday,4:40,5:20
+TLE, BCE 502,Brilliance,Friday,5:20,6:00
+Mapeh, BCE 502,Brilliance,Friday,6:00,6:40
+ASYNC, BCE 502,Brilliance,Friday,7:20,7:45
+ASYNC, BCE 502,Brilliance,Friday,7:45,8:10
+Filipino, BCE 503,Cheerful,Friday,12:50,1:30
+English, BCE 503,Cheerful,Friday,1:30,2:10
+Mathematics, BCE 503,Cheerful,Friday,2:10,2:50
+Science, BCE 503,Cheerful,Friday,2:50,3:30
+Recess, BCE 503,Cheerful,Friday,3:30,4:00
+AP, BCE 503,Cheerful,Friday,4:00,4:40
+ValuesEducation, BCE 503,Cheerful,Friday,4:40,5:20
+TLE, BCE 503,Cheerful,Friday,5:20,6:00
+Mapeh, BCE 503,Cheerful,Friday,6:00,6:40
+ASYNC, BCE 503,Cheerful,Friday,7:20,7:45
+ASYNC, BCE 503,Cheerful,Friday,7:45,8:10
+Filipino, VPE III 501,Diligence,Friday,12:50,1:30
+English, VPE III 501,Diligence,Friday,1:30,2:10
+Mathematics, VPE III 501,Diligence,Friday,2:10,2:50
+Science, VPE III 501,Diligence,Friday,2:50,3:30
+Recess, VPE III 501,Diligence,Friday,3:30,4:00
+AP, VPE III 501,Diligence,Friday,4:00,4:40
+ValuesEducation, VPE III 501,Diligence,Friday,4:40,5:20
+TLE, VPE III 501,Diligence,Friday,5:20,6:00
+Mapeh, VPE III 501,Diligence,Friday,6:00,6:40
+ASYNC, VPE III 501,Diligence,Friday,7:20,7:45
+ASYNC, VPE III 501,Diligence,Friday,7:45,8:10
+Filipino, VPE III 502,Excellence,Friday,12:50,1:30
+English, VPE III 502,Excellence,Friday,1:30,2:10
+Mathematics, VPE III 502,Excellence,Friday,2:10,2:50
+Science, VPE III 502,Excellence,Friday,2:50,3:30
+Recess, VPE III 502,Excellence,Friday,3:30,4:00
+AP, VPE III 502,Excellence,Friday,4:00,4:40
+ValuesEducation, VPE III 502,Excellence,Friday,4:40,5:20
+TLE, VPE III 502,Excellence,Friday,5:20,6:00
+Mapeh, VPE III 502,Excellence,Friday,6:00,6:40
+ASYNC, VPE III 502,Excellence,Friday,7:20,7:45
+ASYNC, VPE III 502,Excellence,Friday,7:45,8:10
+HGP, VPE III 502,Excellence,Friday,6:40,7:20
+Filipino, VPE III 503,Fortitude,Friday,12:50,1:30
+English, VPE III 503,Fortitude,Friday,1:30,2:10
+Mathematics, VPE III 503,Fortitude,Friday,2:10,2:50
+Science, VPE III 503,Fortitude,Friday,2:50,3:30
+Recess, VPE III 503,Fortitude,Friday,3:30,4:00
+AP, VPE III 503,Fortitude,Friday,4:00,4:40
+ValuesEducation, VPE III 503,Fortitude,Friday,4:40,5:20
+TLE, VPE III 503,Fortitude,Friday,5:20,6:00
+Mapeh, VPE III 503,Fortitude,Friday,6:00,6:40
+ASYNC, VPE III 503,Fortitude,Friday,7:20,7:45
+ASYNC, VPE III 503,Fortitude,Friday,7:45,8:10
+NMP, VPE III 503,Fortitude,Friday,6:40,7:20
+Filipino, BCE 401,Generous,Friday,12:50,1:30
+English, BCE 401,Generous,Friday,1:30,2:10
+Mathematics, BCE 401,Generous,Friday,2:10,2:50
+Science, BCE 401,Generous,Friday,2:50,3:30
+Recess, BCE 401,Generous,Friday,3:30,4:00
+AP, BCE 401,Generous,Friday,4:00,4:40
+ValuesEducation, BCE 401,Generous,Friday,4:40,5:20
+TLE, BCE 401,Generous,Friday,5:20,6:00
+Mapeh, BCE 401,Generous,Friday,6:00,6:40
+ASYNC, BCE 401,Generous,Friday,7:20,7:45
+ASYNC, BCE 401,Generous,Friday,7:45,8:10
+NMP, BCE 401,Generous,Friday,6:40,7:20
+Filipino, BCE 402,Humility,Friday,12:50,1:30
+English, BCE 402,Humility,Friday,1:30,2:10
+Mathematics, BCE 402,Humility,Friday,2:10,2:50
+Science, BCE 402,Humility,Friday,2:50,3:30
+Recess, BCE 402,Humility,Friday,3:30,4:00
+AP, BCE 402,Humility,Friday,4:00,4:40
+ValuesEducation, BCE 402,Humility,Friday,4:40,5:20
+TLE, BCE 402,Humility,Friday,5:20,6:00
+Mapeh, BCE 402,Humility,Friday,6:00,6:40
+ASYNC, BCE 402,Humility,Friday,7:20,7:45
+ASYNC, BCE 402,Humility,Friday,7:45,8:10
+Filipino, VPE III 401,Joyful,Friday,12:50,1:30
+English, VPE III 401,Joyful,Friday,1:30,2:10
+Mathematics, VPE III 401,Joyful,Friday,2:10,2:50
+Science, VPE III 401,Joyful,Friday,2:50,3:30
+Recess, VPE III 401,Joyful,Friday,3:30,4:00
+AP, VPE III 401,Joyful,Friday,4:00,4:40
+ValuesEducation, VPE III 401,Joyful,Friday,4:40,5:20
+TLE, VPE III 401,Joyful,Friday,5:20,6:00
+Mapeh, VPE III 401,Joyful,Friday,6:00,6:40
+ASYNC, VPE III 401,Joyful,Friday,7:20,7:45
+ASYNC, VPE III 401,Joyful,Friday,7:45,8:10
+Filipino, VPE III 402,Kindness,Friday,12:50,1:30
+English, VPE III 402,Kindness,Friday,1:30,2:10
+Mathematics, VPE III 402,Kindness,Friday,2:10,2:50
+Science, VPE III 402,Kindness,Friday,2:50,3:30
+Recess, VPE III 402,Kindness,Friday,3:30,4:00
+AP, VPE III 402,Kindness,Friday,4:00,4:40
+ValuesEducation, VPE III 402,Kindness,Friday,4:40,5:20
+TLE, VPE III 402,Kindness,Friday,5:20,6:00
+Mapeh, VPE III 402,Kindness,Friday,6:00,6:40
+ASYNC, VPE III 402,Kindness,Friday,7:20,7:45
+ASYNC, VPE III 402,Kindness,Friday,7:45,8:10
+Filipino, VPE III 403,Lovable,Friday,12:50,1:30
+English, VPE III 403,Lovable,Friday,1:30,2:10
+Mathematics, VPE III 403,Lovable,Friday,2:10,2:50
+Science, VPE III 403,Lovable,Friday,2:50,3:30
+Recess, VPE III 403,Lovable,Friday,3:30,4:00
+AP, VPE III 403,Lovable,Friday,4:00,4:40
+ValuesEducation, VPE III 403,Lovable,Friday,4:40,5:20
+TLE, VPE III 403,Lovable,Friday,5:20,6:00
+Mapeh, VPE III 403,Lovable,Friday,6:00,6:40
+ASYNC, VPE III 403,Lovable,Friday,7:20,7:45
+ASYNC, VPE III 403,Lovable,Friday,7:45,8:10
+Filipino, BCE 301,Magnificent,Friday,12:50,1:30
+English, BCE 301,Magnificent,Friday,1:30,2:10
+Mathematics, BCE 301,Magnificent,Friday,2:10,2:50
+Science, BCE 301,Magnificent,Friday,2:50,3:30
+Recess, BCE 301,Magnificent,Friday,3:30,4:00
+AP, BCE 301,Magnificent,Friday,4:00,4:40
+ValuesEducation, BCE 301,Magnificent,Friday,4:40,5:20
+TLE, BCE 301,Magnificent,Friday,5:20,6:00
+Mapeh, BCE 301,Magnificent,Friday,6:00,6:40
+ASYNC, BCE 301,Magnificent,Friday,7:20,7:45
+ASYNC, BCE 301,Magnificent,Friday,7:45,8:10
+Filipino, BCE 302,Noble,Friday,12:50,1:30
+English, BCE 302,Noble,Friday,1:30,2:10
+Mathematics, BCE 302,Noble,Friday,2:10,2:50
+Science, BCE 302,Noble,Friday,2:50,3:30
+Recess, BCE 302,Noble,Friday,3:30,4:00
+AP, BCE 302,Noble,Friday,4:00,4:40
+ValuesEducation, BCE 302,Noble,Friday,4:40,5:20
+TLE, BCE 302,Noble,Friday,5:20,6:00
+Mapeh, BCE 302,Noble,Friday,6:00,6:40
+ASYNC, BCE 302,Noble,Friday,7:20,7:45
+ASYNC, BCE 302,Noble,Friday,7:45,8:10
+Mapeh, 4F SPED BLDG,Piety,Friday,6:00,6:40
+ValuesEducation, 4F SPED BLDG,Piety,Friday,6:40,7:20
+TLE, 4F SPED BLDG,Piety,Friday,7:20,8:00
+Mathematics, 4F SPED BLDG,Piety,Friday,8:00,8:40
+Recess, 4F SPED BLDG,Piety,Friday,8:40,9:10
+Filipino, 4F SPED BLDG,Piety,Friday,9:10,9:50
+English, 4F SPED BLDG,Piety,Thursday,9:50,10:30
+AP, 4F SPED BLDG,Piety,Friday,10:30,11:10
+Science, 4F SPED BLDG,Piety,Friday,11:10,11:50
+HGP, 4F SPED BLDG,Piety,Friday,11:50,12:30
+ASYNC, 4F SPED BLDG,Piety,Friday,12:30,12:55
+ASYNC, 4F SPED BLDG,Piety,Friday,12:55,1:20
+Mapeh, VPE I 302,Righteous,Friday,6:00,6:40
+ValuesEducation, VPE I 302,Righteous,Friday,6:40,7:20
+TLE, VPE I 302,Righteous,Friday,7:20,8:00
+Mathematics, VPE I 302,Righteous,Friday,8:00,8:40
+Recess, VPE I 302,Righteous,Friday,8:40,9:10
+Filipino, VPE I 302,Righteous,Friday,9:10,9:50
+English, VPE I 302,Righteous,Thursday,9:50,10:30
+AP, VPE I 302,Righteous,Friday,10:30,11:10
+Science, VPE I 302,Righteous,Friday,11:10,11:50
+ASYNC, VPE I 302,Righteous,Friday,12:30,12:55
+ASYNC, VPE I 302,Righteous,Friday,12:55,1:20
+TLE,401,Aurora,Friday,12:50,1:30
+Mapeh,401,Aurora,Friday,1:30,2:10
+ValuesEducation,401,Aurora,Friday,2:10,2:50
+AP,401,Aurora,Friday,2:50,3:30
+Science,401,Aurora,Friday,3:30,4:00
+Recess,401,Aurora,Friday,4:00,4:40
+Mathematics,401,Aurora,Friday,4:40,5:20
+English,401,Aurora,Friday,5:20,6:00
+Filipino,401,Aurora,Friday,6:00,6:40
+ASYNC,401,Aurora,Friday,7:20,7:45
+ASYNC,401,Aurora,Friday,7:45,8:10
+TLE,402,Batanes,Friday,12:50,1:30
+Mapeh,402,Batanes,Friday,1:30,2:10
+ValuesEducation,402,Batanes,Friday,2:10,2:50
+AP,402,Batanes,Friday,2:50,3:30
+Science,402,Batanes,Friday,3:30,4:00
+Recess,402,Batanes,Friday,4:00,4:40
+Mathematics,402,Batanes,Friday,4:40,5:20
+English,402,Batanes,Friday,5:20,6:00
+Filipino,402,Batanes,Friday,6:00,6:40
+ASYNC,402,Batanes,Friday,7:20,7:45
+ASYNC,402,Batanes,Friday,7:45,8:10
+TLE,403,Camiguin,Friday,12:50,1:30
+Mapeh,403,Camiguin,Friday,1:30,2:10
+ValuesEducation,403,Camiguin,Friday,2:10,2:50
+AP,403,Camiguin,Friday,2:50,3:30
+Science,403,Camiguin,Friday,3:30,4:00
+Recess,403,Camiguin,Friday,4:00,4:40
+Mathematics,403,Camiguin,Friday,4:40,5:20
+English,403,Camiguin,Friday,5:20,6:00
+Filipino,403,Camiguin,Friday,6:00,6:40
+ASYNC,403,Camiguin,Friday,7:20,7:45
+ASYNC,403,Camiguin,Friday,7:45,8:10
+TLE,301,Cebu,Friday,12:50,1:30
+Mapeh,301,Cebu,Friday,1:30,2:10
+ValuesEducation,301,Cebu,Friday,2:10,2:50
+AP,301,Cebu,Friday,2:50,3:30
+Science,301,Cebu,Friday,3:30,4:00
+Recess,301,Cebu,Friday,4:00,4:40
+Mathematics,301,Cebu,Friday,4:40,5:20
+English,301,Cebu,Friday,5:20,6:00
+Filipino,301,Cebu,Friday,6:00,6:40
+ASYNC,301,Cebu,Friday,7:20,7:45
+ASYNC,301,Cebu,Friday,7:45,8:10
+Filipino, VPE III 402,Kindness,Friday,12:50,1:30
+English, VPE III 402,Kindness,Friday,1:30,2:10
+Mathematics, VPE III 402,Kindness,Friday,2:10,2:50
+Science, VPE III 402,Kindness,Friday,2:50,3:30
+Recess, VPE III 402,Kindness,Friday,3:30,4:00
+AP, VPE III 402,Kindness,Friday,4:00,4:40
+ValuesEducation, VPE III 402,Kindness,Friday,4:40,5:20
+TLE, VPE III 402,Kindness,Friday,5:20,6:00
+Mapeh, VPE III 402,Kindness,Friday,6:00,6:40
+ASYNC, VPE III 402,Kindness,Friday,7:20,7:45
+ASYNC, VPE III 402,Kindness,Friday,7:45,8:10
+Filipino, VPE III 403,Lovable,Friday,12:50,1:30
+English, VPE III 403,Lovable,Friday,1:30,2:10
+Mathematics, VPE III 403,Lovable,Friday,2:10,2:50
+Science, VPE III 403,Lovable,Friday,2:50,3:30
+Recess, VPE III 403,Lovable,Friday,3:30,4:00
+AP, VPE III 403,Lovable,Friday,4:00,4:40
+ValuesEducation, VPE III 403,Lovable,Friday,4:40,5:20
+TLE, VPE III 403,Lovable,Friday,5:20,6:00
+Mapeh, VPE III 403,Lovable,Friday,6:00,6:40
+ASYNC, VPE III 403,Lovable,Friday,7:20,7:45
+ASYNC, VPE III 403,Lovable,Friday,7:45,8:10
+Filipino, BCE 301,Magnificent,Friday,12:50,1:30
+English, BCE 301,Magnificent,Friday,1:30,2:10
+Mathematics, BCE 301,Magnificent,Friday,2:10,2:50
+Science, BCE 301,Magnificent,Friday,2:50,3:30
+Recess, BCE 301,Magnificent,Friday,3:30,4:00
+AP, BCE 301,Magnificent,Friday,4:00,4:40
+ValuesEducation, BCE 301,Magnificent,Friday,4:40,5:20
+TLE, BCE 301,Magnificent,Friday,5:20,6:00
+Mapeh, BCE 301,Magnificent,Friday,6:00,6:40
+ASYNC, BCE 301,Magnificent,Friday,7:20,7:45
+ASYNC, BCE 301,Magnificent,Friday,7:45,8:10
+Filipino, BCE 302,Noble,Friday,12:50,1:30
+English, BCE 302,Noble,Friday,1:30,2:10
+Mathematics, BCE 302,Noble,Friday,2:10,2:50
+Science, BCE 302,Noble,Friday,2:50,3:30
+Recess, BCE 302,Noble,Friday,3:30,4:00
+AP, BCE 302,Noble,Friday,4:00,4:40
+ValuesEducation, BCE 302,Noble,Friday,4:40,5:20
+TLE, BCE 302,Noble,Friday,5:20,6:00
+Mapeh, BCE 302,Noble,Friday,6:00,6:40
+ASYNC, BCE 302,Noble,Friday,7:20,7:45
+ASYNC, BCE 302,Noble,Friday,7:45,8:10
+Mapeh, 4F SPED BLDG,Piety,Friday,6:00,6:40
+ValuesEducation, 4F SPED BLDG,Piety,Friday,6:40,7:20
+TLE, 4F SPED BLDG,Piety,Friday,7:20,8:00
+Mathematics, 4F SPED BLDG,Piety,Friday,8:00,8:40
+Recess, 4F SPED BLDG,Piety,Friday,8:40,9:10
+Filipino, 4F SPED BLDG,Piety,Friday,9:10,9:50
+English, 4F SPED BLDG,Piety,Thursday,9:50,10:30
+AP, 4F SPED BLDG,Piety,Friday,10:30,11:10
+Science, 4F SPED BLDG,Piety,Friday,11:10,11:50
+HGP, 4F SPED BLDG,Piety,Friday,11:50,12:30
+ASYNC, 4F SPED BLDG,Piety,Friday,12:30,12:55
+ASYNC, 4F SPED BLDG,Piety,Friday,12:55,1:20
+Mapeh, VPE I 302,Righteous,Friday,6:00,6:40
+ValuesEducation, VPE I 302,Righteous,Friday,6:40,7:20
+TLE, VPE I 302,Righteous,Friday,7:20,8:00
+Mathematics, VPE I 302,Righteous,Friday,8:00,8:40
+Recess, VPE I 302,Righteous,Friday,8:40,9:10
+Filipino, VPE I 302,Righteous,Friday,9:10,9:50
+English, VPE I 302,Righteous,Thursday,9:50,10:30
+AP, VPE I 302,Righteous,Friday,10:30,11:10
+Science, VPE I 302,Righteous,Friday,11:10,11:50
+ASYNC, VPE I 302,Righteous,Friday,12:30,12:55
+ASYNC, VPE I 302,Righteous,Friday,12:55,1:20
+TLE,401,Aurora,Friday,12:50,1:30
+Mapeh,401,Aurora,Friday,1:30,2:10
+ValuesEducation,401,Aurora,Friday,2:10,2:50
+AP,401,Aurora,Friday,2:50,3:30
+Science,401,Aurora,Friday,3:30,4:00
+Recess,401,Aurora,Friday,4:00,4:40
+Mathematics,401,Aurora,Friday,4:40,5:20
+English,401,Aurora,Friday,5:20,6:00
+Filipino,401,Aurora,Friday,6:00,6:40
+ASYNC,401,Aurora,Friday,7:20,7:45
+ASYNC,401,Aurora,Friday,7:45,8:10
+TLE,402,Batanes,Friday,12:50,1:30
+Mapeh,402,Batanes,Friday,1:30,2:10
+ValuesEducation,402,Batanes,Friday,2:10,2:50
+AP,402,Batanes,Friday,2:50,3:30
+Science,402,Batanes,Friday,3:30,4:00
+Recess,402,Batanes,Friday,4:00,4:40
+Mathematics,402,Batanes,Friday,4:40,5:20
+English,402,Batanes,Friday,5:20,6:00
+Filipino,402,Batanes,Friday,6:00,6:40
+ASYNC,402,Batanes,Friday,7:20,7:45
+ASYNC,402,Batanes,Friday,7:45,8:10
+TLE,403,Camiguin,Friday,12:50,1:30
+Mapeh,403,Camiguin,Friday,1:30,2:10
+ValuesEducation,403,Camiguin,Friday,2:10,2:50
+AP,403,Camiguin,Friday,2:50,3:30
+Science,403,Camiguin,Friday,3:30,4:00
+Recess,403,Camiguin,Friday,4:00,4:40
+Mathematics,403,Camiguin,Friday,4:40,5:20
+English,403,Camiguin,Friday,5:20,6:00
+Filipino,403,Camiguin,Friday,6:00,6:40
+ASYNC,403,Camiguin,Friday,7:20,7:45
+ASYNC,403,Camiguin,Friday,7:45,8:10
+TLE,301,Cebu,Friday,12:50,1:30
+Mapeh,301,Cebu,Friday,1:30,2:10
+ValuesEducation,301,Cebu,Friday,2:10,2:50
+AP,301,Cebu,Friday,2:50,3:30
+Science,301,Cebu,Friday,3:30,4:00
+Recess,301,Cebu,Friday,4:00,4:40
+Mathematics,301,Cebu,Friday,4:40,5:20
+English,301,Cebu,Friday,5:20,6:00
+Filipino,301,Cebu,Friday,6:00,6:40
+ASYNC,301,Cebu,Friday,7:20,7:45
+ASYNC,301,Cebu,Friday,7:45,8:10
+TLE, VPE I 304,Laguna,Friday,12:50,1:30
+Mapeh, VPE I 304,Laguna,Friday,1:30,2:10
+ValuesEducation, VPE I 304,Laguna,Friday,2:10,2:50
+AP, VPE I 304,Laguna,Friday,2:50,3:30
+Science, VPE I 304,Laguna,Friday,3:30,4:00
+Recess, VPE I 304,Laguna,Friday,4:00,4:40
+Mathematics, VPE I 304,Laguna,Friday,4:40,5:20
+English, VPE I 304,Laguna,Friday,5:20,6:00
+Filipino, VPE I 304,Laguna,Friday,6:00,6:40
+ASYNC, VPE I 304,Laguna,Friday,7:20,7:45
+ASYNC, VPE I 304,Laguna,Friday,7:45,8:10
+TLE, DEPED 301,Masbate,Friday,12:50,1:30
+Mapeh, DEPED 301,Masbate,Friday,1:30,2:10
+ValuesEducation, DEPED 301,Masbate,Friday,2:10,2:50
+AP, DEPED 301,Masbate,Friday,2:50,3:30
+Science, DEPED 301,Masbate,Friday,3:30,4:00
+Recess, DEPED 301,Masbate,Friday,4:00,4:40
+Mathematics, DEPED 301,Masbate,Friday,4:40,5:20
+English, DEPED 301,Masbate,Friday,5:20,6:00
+Filipino, DEPED 301,Masbate,Friday,6:00,6:40
+ASYNC, DEPED 301,Masbate,Friday,7:20,7:45
+ASYNC, DEPED 301,Masbate,Friday,7:45,8:10
+TLE, DEPED 302,Pasig,Friday,12:50,1:30
+Mapeh, DEPED 302,Pasig,Friday,1:30,2:10
+ValuesEducation, DEPED 302,Pasig,Friday,2:10,2:50
+AP, DEPED 302,Pasig,Friday,2:50,3:30
+Science, DEPED 302,Pasig,Friday,3:30,4:00
+Recess, DEPED 302,Pasig,Friday,4:00,4:40
+Mathematics, DEPED 302,Pasig,Friday,4:40,5:20
+English, DEPED 302,Pasig,Friday,5:20,6:00
+Filipino, DEPED 302,Pasig,Friday,6:00,6:40
+ASYNC, DEPED 302,Pasig,Friday,7:20,7:45
+ASYNC, DEPED 302,Pasig,Friday,7:45,8:10
+TLE, DEPED 303,Romblon,Friday,12:50,1:30
+Mapeh, DEPED 303,Romblon,Friday,1:30,2:10
+ValuesEducation, DEPED 303,Romblon,Friday,2:10,2:50
+AP, DEPED 303,Romblon,Friday,2:50,3:30
+Science, DEPED 303,Romblon,Friday,3:30,4:00
+Recess, DEPED 303,Romblon,Friday,4:00,4:40
+Mathematics, DEPED 303,Romblon,Friday,4:40,5:20
+English, DEPED 303,Romblon,Friday,5:20,6:00
+Filipino, DEPED 303,Romblon,Friday,6:00,6:40
+ASYNC, DEPED 303,Romblon,Friday,7:20,7:45
+ASYNC, DEPED 303,Romblon,Friday,7:45,8:10
+TLE, DEPED 201,Samar,Friday,12:50,1:30
+Mapeh, DEPED 201,Samar,Friday,1:30,2:10
+ValuesEducation, DEPED 201,Samar,Friday,2:10,2:50
+AP, DEPED 201,Samar,Friday,2:50,3:30
+Science, DEPED 201,Samar,Friday,3:30,4:00
+Recess, DEPED 201,Samar,Friday,4:00,4:40
+Mathematics, DEPED 201,Samar,Friday,4:40,5:20
+English, DEPED 201,Samar,Friday,5:20,6:00
+Filipino, DEPED 201,Samar,Friday,6:00,6:40
+ASYNC, DEPED 201,Samar,Friday,7:20,7:45
+ASYNC, DEPED 201,Samar,Friday,7:45,8:10
+TLE, DEPED 202,Surigao,Friday,12:50,1:30
+Mapeh, DEPED 202,Surigao,Friday,1:30,2:10
+ValuesEducation, DEPED 202,Surigao,Friday,2:10,2:50
+AP, DEPED 202,Surigao,Friday,2:50,3:30
+Science, DEPED 202,Surigao,Friday,3:30,4:00
+Recess, DEPED 202,Surigao,Friday,4:00,4:40
+Mathematics, DEPED 202,Surigao,Friday,4:40,5:20
+English, DEPED 202,Surigao,Friday,5:20,6:00
+Filipino, DEPED 202,Surigao,Friday,6:00,6:40
+ASYNC, DEPED 202,Surigao,Friday,7:20,7:45
+ASYNC, DEPED 202,Surigao,Friday,7:45,8:10
+TLE, DEPED 103,Tawi-Tawi,Friday,6:00,6:40
+Mapeh, DEPED 103,Tawi-Tawi,Friday,6:40,7:20
+ValuesEducation, DEPED 103,Tawi-Tawi,Friday,7:20,8:00
+AP, DEPED 103,Tawi-Tawi,Friday,8:00,8:40
+Science, DEPED 103,Tawi-Tawi,Friday,8:40,9:10
+Recess, DEPED 103,Tawi-Tawi,Friday,9:10,9:50
+Mathematics, DEPED 103,Tawi-Tawi,Friday,9:50,10:30
+English, DEPED 103,Tawi-Tawi,Friday,10:30,11:10
+Filipino, DEPED 103,Tawi-Tawi,Friday,11:10,11:50
+NMP, DEPED 103,Tawi-Tawi,Friday,11:50,12:30
+ASYNC, DEPED 103,Tawi-Tawi,Friday,12:30,12:55
+ASYNC, DEPED 103,Tawi-Tawi,Friday,12:55,1:20
+TLE, VPE I 302,Zamboanga,Friday,6:00,6:40
+Mapeh, VPE I 302,Zamboanga,Friday,6:40,7:20
+ValuesEducation, VPE I 302,Zamboanga,Friday,7:20,8:00
+AP, VPE I 302,Zamboanga,Friday,8:00,8:40
+Science, VPE I 302,Zamboanga,Friday,8:40,9:10
+Recess, VPE I 302,Zamboanga,Friday,9:10,9:50
+Mathematics, VPE I 302,Zamboanga,Friday,9:50,10:30
+English, VPE I 302,Zamboanga,Friday,10:30,11:10
+Filipino, VPE I 302,Zamboanga,Friday,11:10,11:50
+NMP, VPE I 302,Zamboanga,Friday,11:50,12:30
+ASYNC, VPE I 302,Zamboanga,Friday,12:30,12:55
+ASYNC, VPE I 302,Zamboanga,Friday,12:55,1:20

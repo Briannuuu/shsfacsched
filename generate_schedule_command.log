@@ -1,0 +1,1 @@
+python3 py/generate_schedule.py "{ instructor : M. Del Barrio }"

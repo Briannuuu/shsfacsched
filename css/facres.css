@@ -1,0 +1,463 @@
+/* General reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Fixed Header */
+.main_header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    transition: 0.6s;
+}
+
+/* Background overlay for opacity */
+.header-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('../img/bg.png') center no-repeat;
+    background-size: cover;
+    opacity: 0.4; /* Adjust opacity here */
+    z-index: -1; /* Keep it behind the logo and other content */
+}
+
+/* Logo Styling */
+.header-logo .logo {
+    height: 60px;
+    width: auto;
+}
+
+/* Dropdown styling */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropbtn {
+    background: none;
+    border: none;
+    font-size: 24px;
+    color: white;
+    cursor: pointer;
+}
+
+/* Dropdown Content */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #004080;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-item {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-item:hover {
+    background-color: #0059b3;
+}
+
+.sidebar {
+    position: fixed;
+    top: 90px; /* Leave space for the fixed header */
+    left: 0;
+    width: 80px;
+    height: calc(100% - 90px); /* Full height minus the header */
+    background-color: #f4ecec;
+    padding: .4rem .8rem;
+    transition: all 0.5s ease;
+    overflow: hidden; /* Prevent sidebar from scrolling */
+}
+
+.sidebar.active ~ .main-content {
+    margin-left: 250px; /* Shift main content when sidebar expands */
+}
+
+.sidebar.active ~ header{	
+	left: 250px;
+	width: calc(100% - 250px)
+}
+
+.sidebar.active{
+	width: 250px;
+
+}
+
+.sidebar #btn {
+	position: absolute;
+	color: black;
+	top: 1rem;
+	left: 50%;
+	font-size:2.7rem;
+	line-height: 50px;
+	transform: translateX(-50%);
+	cursor: pointer;
+
+}
+
+.sidebar.active #btn {
+	left: 90%;
+}
+
+.sidebar .top .logo {
+	color:black;
+	font-size: 200%;
+	display: flex;
+	height: 50px;
+	width: 100%;
+	align-items: center;
+	pointer-events: none;
+	opacity: 0;
+    transition: all 0.4s ease-out;
+}
+
+.sidebar.active .top .logo{
+	opacity: 1;
+    transition: all 0.4s ease;
+}
+
+.sidebar p{
+	opacity: 0;
+}
+
+.sidebar.active p{
+	opacity: 1;
+}
+
+.sidebar .nav-links li{
+	position: relative;
+	list-style-type: none;
+	height: 70px;
+	width: 90%;
+	margin: 0.8rem auto;
+	line-height: 0px;
+}
+
+.sidebar .nav-links li a{
+	color: black;
+	display:flex;
+	align-items: center;
+	text-decoration: none;
+    margin-left: -25px;
+	border-radius: 0.8rem;
+	font-size: 1.4rem;
+}
+
+.sidebar .nav-links li a:hover{
+	background-color: #007FFF;
+	color:  white;
+    transition: all 0.1s ease;
+}
+
+.sidebar .nav-links li a i {
+	min-width: 50px;
+	text-align: center;
+	height: 50px;
+	border-radius: 12px;
+	line-height: 50px;
+}
+
+.top .logo i{
+	font-size: 3rem;
+	margin-right: 5px;
+}
+
+.user {
+	display: flex;
+	align-items: center;
+	margin: 2rem 0;
+}
+
+.user p{
+	color: black;
+	opacity: 1;
+	margin-left: 1rem;
+	font-size: 1.2rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.sidebar.active .user p {
+    margin-left: 5rem; /* Shift main content when sidebar expands */
+}
+
+.user .image{
+    display: inline-block;
+    padding-left: 1rem;
+}
+
+.user .image-circle{
+    border-radius: 50%;
+}
+
+.user img{
+    height: auto;
+    width: 3.1rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.user .info{
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.user .info{
+    display: inline-flex;
+    padding: 12px;
+    flex-direction: row;
+    align-content: center;
+    justify-content: flex-start;
+}
+
+.user .info a{
+    opacity: 0;
+    color: black;
+    font-family: sans-serif;
+    text-decoration: none;
+    transition: all 0.2s ease-out;
+}
+
+.sidebar.active .user .info a{
+    opacity: 1;
+    transition: all 0.4s ease-in;
+}
+
+.bold{
+	font-weight: 600;
+}
+
+.sidebar .nav-item{	
+	opacity: 0;
+    transition: all 0.4s ease-out;
+}
+
+.sidebar.active .nav-item{
+	opacity: 1;
+	padding: 1.2rem 1.2rem;
+	line-height: 1.3rem;
+    transition: all 0.4s ease-in;
+}
+
+.sidebar ul li .tooltip{
+	position: absolute;
+	left: 105px;
+	top: 20px;
+	transform: translate(-50%, -50%);
+	box-shadow: 0 0.5rem 0.8rem rgba(0, 0, 0, 0.2);
+	border-radius: .6rem;
+	padding: .4rem 1.2rem;
+	line-height: 1.8rem;
+	z-index: 20;
+	opacity: 0;
+}
+
+.sidebar ul li:hover .tooltip{
+	opacity: 1;
+}
+
+.sidebar.active ul li .tooltip{
+	display: none;
+}
+
+.main-content {
+    margin-top: 90px; /* Space for the header */
+    margin-left: 80px; /* Space for the collapsed sidebar */
+    padding: 1rem;
+    height: calc(100% - 90px); /* Full height minus header */
+    overflow-y: auto; /* Enable scrolling only in the main content */
+    transition: all 0.5s ease;
+	z-index: 0;
+}
+
+.sidebar.active ~ .main-content {
+    margin-left: 250px; /* Shift the main content when the sidebar expands */
+    width: calc(100% - 250px); /* Adjust the main content width when the sidebar is active */
+}
+
+.main-content p{
+	color: black;
+}
+
+.container-fluid {
+    position: absolute;
+    width: 1000px;
+    max-width: 100%;
+    margin-left: 50px;
+    margin-top: 200px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: margin-left 0.5s ease; /* Add transition for smooth shifting */
+}
+
+.sidebar.active ~ .main-content .container-fluid {
+    margin-left: 150px; /* Adjust the container-fluid margin when sidebar is active */
+}
+
+.box {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.box-header {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.box-title {
+	position: relative;
+	top: 5px;
+	font-size: large;
+    margin: 0;
+}
+
+.box-body {
+    padding: 15px;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    background-color: #fff;
+}
+
+.table-bordered {
+    border: 1px solid #ddd;
+}
+
+.table th, .table td {
+    padding: 5px;
+    text-align: left;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+	border-left: 2px solid #ddd;
+}
+
+.table th {
+    background-color: #f5f5f5;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* Improved and Responsive Button CSS */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px 5px;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 6px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    transform: translateY(-3px);
+}
+
+.btn-success {
+    background-color: #28a745;
+    color: #fff;
+    border-color: #28a745;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    transform: translateY(-3px);
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    color: #fff;
+    border-color: #dc3545;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+    transform: translateY(-3px);
+}
+
+/* Responsive Design for Small Screens */
+@media (max-width: 576px) {
+    .btn {
+        width: 100%;
+        margin: 5px 0;
+        font-size: 16px;
+    }
+}
+
+.btn ion-icon{
+	font-size: 1.3em;
+}
+
+
+footer {
+	background-color: #009af3;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+footer p{
+	color: black;
+}
+
+.sidebar.active footer{
+	text-align: center;
+    height: 65px;
+	width: 283px;
+	transition: 0.5s;
+}
+
+.sidebar footer{
+	margin-left: -14px;
+}
+
+.current-page{
+	background-color: #F1C93B;
+}

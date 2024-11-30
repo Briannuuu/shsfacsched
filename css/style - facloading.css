@@ -1,0 +1,750 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden; /* Prevent body scrolling */
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+	height: 80px;
+    width: calc(100% - 20px); /* Adjust width for the sidebar */
+    background: linear-gradient(rgba(255, 255, 254, 0.767), rgba(255, 255, 254, 0.767)), url("../img/bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 100000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    transition: 0.6s;
+}
+
+header div {
+	width: 25%;
+	display: flex;
+	justify-content: space-between;
+	padding-left: 1em;
+}
+
+header a {
+	text-decoration: none;
+	color: #eef2f6;
+	float: left; 
+	margin: auto;
+	transition: 0.6s;
+	padding: .5em;
+}
+
+header.sticky {
+    opacity: 0;
+    padding: 5px 100px;
+    background: #fff;
+}
+
+.header-button{
+	margin-left: -1000px;
+}
+
+.logo {
+	block-size: 80px;
+}
+
+.nav-button {
+	transition: 0.6s;
+}
+
+.dropbtn {
+    position: absolute;
+    background-color: transparent;
+    color: #fff;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    top: -20px;
+	margin-left: 300px;
+}
+
+.dropbtn ion-icon{
+    font-size: 2.5em;
+}
+
+.dropdown {
+    padding-bottom: 20px;
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 35px;
+	margin-left: 250px;
+    background-color: #009af3;
+    min-width: 120px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #fff;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    color: #F1C93B;
+	transition: 0.6s;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    transition: 0.6s;
+}
+
+.dropdown:hover .dropbtn {
+    color: #009af3;
+	transition: 0.6s;
+}
+
+
+.sidebar {
+    position: fixed;
+    top: 90px; /* Leave space for the fixed header */
+    left: 0;
+    width: 80px;
+    height: calc(100% - 90px); /* Full height minus the header */
+    background-color: #f4ecec;
+    padding: .4rem .8rem;
+    transition: all 0.5s ease;
+    overflow: hidden; /* Prevent sidebar from scrolling */
+}
+
+.sidebar.active ~ .main-content {
+    margin-left: 250px; /* Shift main content when sidebar expands */
+}
+
+.sidebar.active ~ header{	
+	left: 250px;
+	width: calc(100% - 250px)
+}
+
+.sidebar.active{
+	width: 250px;
+}
+
+.sidebar #btn {
+	position: absolute;
+	color: black;
+	top: 1rem;
+	left: 50%;
+	font-size:2.7rem;
+	line-height: 50px;
+	transform: translateX(-50%);
+	cursor: pointer;
+
+}
+
+.sidebar.active #btn {
+	left: 90%;
+}
+
+.sidebar .top .logo {
+	color:black;
+	font-size: 200%;
+	display: flex;
+	height: 50px;
+	width: 100%;
+	align-items: center;
+	pointer-events: none;
+	opacity: 0;
+    transition: all 0.4s ease-out;
+}
+
+.sidebar.active .top .logo{
+	opacity: 1;
+    transition: all 0.4s ease;
+}
+
+.sidebar p{
+	opacity: 0;
+}
+
+.sidebar.active p{
+	opacity: 1;
+}
+
+.sidebar .nav-links li{
+	position: relative;
+	list-style-type: none;
+	height: 70px;
+	width: 90%;
+	margin: 0.8rem auto;
+	line-height: 0px;
+}
+
+.sidebar .nav-links li a{
+	color: black;
+	display:flex;
+	align-items: center;
+	text-decoration: none;
+    margin-left: -25px;
+	border-radius: 0.8rem;
+	font-size: 1.4rem;
+}
+
+.sidebar .nav-links li a:hover{
+	background-color: #007FFF;
+	color:  white;
+    transition: all 0.1s ease;
+}
+
+.sidebar .nav-links li a i {
+	min-width: 50px;
+	text-align: center;
+	height: 50px;
+	border-radius: 12px;
+	line-height: 50px;
+}
+
+.top .logo i{
+	font-size: 3rem;
+	margin-right: 5px;
+}
+
+.user {
+	display: flex;
+	align-items: center;
+	margin: 2rem 0;
+}
+
+.user p{
+	color: black;
+	opacity: 1;
+	margin-left: 1rem;
+	font-size: 1.2rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.sidebar.active .user p {
+    margin-left: 5rem; /* Shift main content when sidebar expands */
+}
+
+.user .image{
+    display: inline-block;
+    padding-left: 1rem;
+}
+
+.user .image-circle{
+    border-radius: 50%;
+}
+
+.user img{
+    height: auto;
+    width: 3.1rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.user .info{
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.user .info{
+    display: inline-block;
+    padding: 5px 5px 15px 10px;
+}
+
+.user .info a{
+    opacity: 0;
+    color: black;
+    font-family: sans-serif;
+    text-decoration: none;
+    transition: all 0.2s ease-out;
+}
+
+.sidebar.active .user .info a{
+    opacity: 1;
+    transition: all 0.4s ease-in;
+}
+
+.bold{
+	font-weight: 600;
+}
+
+.sidebar .nav-item{	
+	opacity: 0;
+    transition: all 0.4s ease-out;
+}
+
+.sidebar.active .nav-item{
+	opacity: 1;
+	padding: 1.2rem 1.2rem;
+	line-height: 1.3rem;
+    transition: all 0.4s ease-in;
+}
+
+.sidebar ul li .tooltip{
+	position: absolute;
+	left: 105px;
+	top: 20px;
+	transform: translate(-50%, -50%);
+	box-shadow: 0 0.5rem 0.8rem rgba(0, 0, 0, 0.2);
+	border-radius: .6rem;
+	padding: .4rem 1.2rem;
+	line-height: 1.8rem;
+	z-index: 20;
+	opacity: 0;
+}
+
+.sidebar ul li:hover .tooltip{
+	opacity: 1;
+}
+
+.sidebar.active ul li .tooltip{
+	display: none;
+}
+
+.main-content {
+    margin-top: 90px; /* Space for the header */
+    margin-left: 80px; /* Space for the collapsed sidebar */
+    padding: 1rem;
+    height: calc(100% - 90px); /* Full height minus header */
+    overflow-y: auto; /* Enable scrolling only in the main content */
+    transition: all 0.5s ease;
+	z-index: 0;
+}
+
+.sidebar.active ~ .main-content {
+    margin-left: 250px; /* Shift the main content when the sidebar expands */
+    width: calc(100% - 250px); /* Adjust the main content width when the sidebar is active */
+}
+
+.main-content p{
+	color: black;
+}
+
+.container-fluid {
+    position: absolute;
+    width: 1500px;
+    max-width: 100%;
+    margin-left: 50px;
+    margin-top: 150px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: margin-left 0.5s ease; /* Add transition for smooth shifting */
+    z-index: 100000000000000000;
+}
+
+.sidebar.active ~ .main-content .container-fluid {
+    margin-left: 150px; /* Adjust the container-fluid margin when sidebar is active */
+}
+
+
+.container-fluid1 {
+	position: absolute;
+	width: 600px;
+    max-width: 100%;
+    margin-top: 230px;
+	margin-left: -400px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+    transition: margin-left 0.5s ease; /* Add transition for smooth shifting */
+}
+
+.sidebar.active ~ .main-content .container-fluid1 {
+    margin-left: -300px; /* Adjust the container-fluid margin when sidebar is active */
+}
+
+
+.container-fluid2 {
+	position: absolute;
+	width: 850px;
+    max-width: 100%;
+    margin-top: 150px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+    transition: margin-left 0.5s ease; /* Add transition for smooth shifting */
+    z-index: 0;
+}
+
+.sidebar.active ~ .main-content .container-fluid2 {
+    margin-left: 470px; /* Adjust the container-fluid margin when sidebar is active */
+}
+
+
+.box {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.box-header {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.box-title {
+	position: relative;
+	top: 5px;
+	font-size: large;
+    margin: 0;
+}
+
+.box-body {
+    display: flex;
+    padding: 15px;
+}
+
+.table {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    background-color: #fff;
+    left: 50px;
+}
+
+.table-bordered {
+    border: 1px solid #ddd;
+}
+
+.table th, .table td {
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+	border-left: 2px solid #ddd;
+}
+
+.table th {
+    background-color: #f5f5f5;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.btn {
+	position: relative;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+	left: 50%;
+	transform: translate(-50%);
+}
+
+.btn1 {
+	position: relative;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+	left: 50%;
+	transform: translate(180%);
+}
+
+.btn ion-icon{
+	font-size: 1.3em;
+}
+
+.btn-view {
+    left: 40px;
+    color: #fff;
+    background-color: #266099;
+    border-color: #266099;
+}
+
+.btn-view1 {
+    left: 80px;
+    color: #fff;
+    background-color: #266099;
+    border-color: #266099;
+}
+
+.btn-del {
+    color: #fff;
+    background-color: red;
+    border-color: red;
+}
+
+.btn-prog{
+	position: relative;
+	padding: 6px 12px;
+	top: -10px;
+    font-size: 14px;
+    font-weight: normal;
+	text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+	margin-left: 600px;
+	left: 50%;
+	transform: translate(-50%);
+}
+
+footer {
+	background-color: #009af3;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+footer p{
+	color: black;
+}
+
+.sidebar.active footer{
+	text-align: center;
+    height: 65px;
+	width: 283px;
+	transition: 0.5s;
+}
+
+.sidebar footer{
+	margin-left: -14px;
+}
+
+.current-page{
+	background-color: #F1C93B;
+}
+
+
+.select-menu {
+    margin-right: 50px;
+    width: 200px;
+    position: relative; /* Relative positioning for the dropdown button */
+    z-index: 100; /* Add z-index to make sure it's above other elements */
+    pointer-events: auto; /* Ensure it's clickable */
+}
+
+.select-btn {
+    display: flex;
+    height: 25px;
+    background: #fff;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 8px;
+    align-items: center;
+    cursor: pointer;
+    justify-content: space-between;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    z-index: 200; /* Ensure the button is clickable */
+}
+
+.select-btn i {
+    font-size: 25px;
+    transition: 0.3s;
+}
+
+.select-menu.active .select-btn i {
+    transform: rotate(-180deg);
+}
+
+.options {
+    position: absolute; /* Make sure the dropdown doesn't expand the parent */
+    top: 100%; /* Position the options just below the button */
+    left: 0;
+    padding: 10px 0;
+    width: 100%; /* Ensure it fits within the width of the button */
+    margin-top: 10px;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 0 3px rgba(0,0,0,0.1);
+    display: none; /* Hidden by default */
+    z-index: 150; /* Ensure dropdown options stay on top */
+}
+
+.select-menu.active .options {
+    display: block; /* Show the options when active */
+}
+
+.options .option {
+    display: flex;
+    height: 55px;
+    cursor: pointer;
+    padding: 0 16px;
+    border-radius: 8px;
+    align-items: center;
+    background: #fff;
+}
+
+.options .option:hover {
+    background: #F2F2F2;
+}
+
+.option i {
+    font-size: 25px;
+    margin-right: 12px;
+}
+
+.option .option-text {
+    font-size: 18px;
+    color: #333;
+}
+
+.text-box {
+    margin-bottom: 20px;
+}
+
+.label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.input-group {
+    display: flex;
+    max-width: 300px; /* Adjust as needed */
+}
+
+#courseInput {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 5px;
+}
+
+.btn-search {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn-search:hover {
+    background-color: #45a049;
+}
+
+
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+.data-table th, .data-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.data-table th {
+    background-color: #f2f2f2;
+}
+
+/* Ensure the dropdown menu stays above other elements */
+.select-menu {
+    position: relative; /* Ensure dropdown is positioned relative to its container */
+    z-index: 100; /* Place the dropdown above the table */
+}
+
+/* Dropdown options styling */
+.select-menu .options {
+    position: absolute; /* Position dropdown absolutely */
+    top: 100%; /* Position directly below the button */
+    left: 0;
+    right: 0;
+    max-height: 200px; /* Limit dropdown height */
+    overflow-y: auto; /* Enable vertical scrolling */
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+    background-color: #fff; /* Dropdown background color */
+    border: 1px solid #ccc; /* Add border */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+    z-index: 100; /* Ensure it stays above other elements */
+}
+
+/* Prevent dropdown overlap with other elements */
+.select-menu .options::-webkit-scrollbar {
+    width: 6px; /* Narrow scrollbar for dropdown */
+}
+
+.select-menu .options::-webkit-scrollbar-thumb {
+    background-color: #ccc; /* Scrollbar color */
+    border-radius: 3px; /* Rounded corners */
+}
+
+/* Responsive table wrapper */
+/* Ensure the table does not push the dropdown down */
+.table-responsive {
+    margin-top: 20px; /* Add a margin between the dropdown and table */
+    width: 100%;
+    max-height: 400px; /* Limit table height */
+    overflow-y: auto; /* Enable vertical scrolling */
+    overflow-x: auto; /* Enable horizontal scrolling */
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for table */
+.table {
+    width: 100%; /* Full width inside the wrapper */
+    border-collapse: collapse; /* Remove gaps between table cells */
+}
+
+.table th, .table td {
+    text-align: left; /* Align text to the left */
+    padding: 8px; /* Add padding for readability */
+    border: 1px solid #ccc; /* Add borders to table cells */
+    white-space: nowrap; /* Prevent text wrapping */
+}
+
+.table th {
+    background-color: #f2f2f2; /* Light background for headers */
+}
+
+/* Adjustments for smaller screens */
+@media (max-width: 768px) {
+    .table th, .table td {
+        font-size: 12px; /* Reduce font size */
+    }
+
+    .table th {
+        text-align: center; /* Center-align headers */
+    }
+}

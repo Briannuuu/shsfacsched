@@ -1,0 +1,2090 @@
+Connected to the Database!
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Monday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Monday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Monday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Monday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'ARGON', 'day': 'Monday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'ARGON', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'ARGON', 'day': 'Monday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'ARGON', 'day': 'Monday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'ARGON', 'day': 'Monday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'ARGON', 'day': 'Monday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'ARGON', 'day': 'Tuesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'ARGON', 'day': 'Tuesday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'NMP', 'section': 'ARGON', 'day': 'Monday', 'start_time': Decimal('11.8333'), 'end_time': Decimal('12.5000')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'HGP', 'section': 'ARGON', 'day': 'Friday', 'start_time': Decimal('11.8333'), 'end_time': Decimal('12.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Fil', 'section': 'ARGON', 'day': 'Monday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Math', 'section': 'ARGON', 'day': 'Tuesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - AP', 'section': 'ARGON', 'day': 'Wednesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - English', 'section': 'ARGON', 'day': 'Monday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Science', 'section': 'ARGON', 'day': 'Tuesday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - VE', 'section': 'ARGON', 'day': 'Wednesday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - MAPEH', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'ARGON', 'day': 'Tuesday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPE III 401
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'ARGON', 'day': 'Wednesday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'ARGON', 'day': 'Friday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Tuesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Tuesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Tuesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Tuesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Wednesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Wednesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Wednesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Wednesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Friday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Friday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Friday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ARGON', 'day': 'Friday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'ARGON', 'day': 'Tuesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'ARGON', 'day': 'Wednesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'ARGON', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'ARGON', 'day': 'Tuesday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPE III 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'ARGON', 'day': 'Friday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'ARGON', 'day': 'Tuesday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room:  VPE III 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'ARGON', 'day': 'Friday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'ARGON', 'day': 'Wednesday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.3333')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'ARGON', 'day': 'Friday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.3333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'ARGON', 'day': 'Wednesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'ARGON', 'day': 'Friday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'ARGON', 'day': 'Wednesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPEI 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'ARGON', 'day': 'Friday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'ARGON', 'day': 'Wednesday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'ARGON', 'day': 'Friday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'BARIUM', 'day': 'Monday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'BARIUM', 'day': 'Tuesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'BARIUM', 'day': 'Thursday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'BARIUM', 'day': 'Friday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Monday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Monday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Monday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Monday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Tuesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Tuesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Tuesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Tuesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Wednesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Wednesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Wednesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Wednesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BARIUM', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'BARIUM', 'day': 'Tuesday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPE III 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'BARIUM', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'BARIUM', 'day': 'Friday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'BARIUM', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'BARIUM', 'day': 'Monday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'BARIUM', 'day': 'Wednesday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'BARIUM', 'day': 'Thursday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'BARIUM', 'day': 'Friday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'BARIUM', 'day': 'Monday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'BARIUM', 'day': 'Wednesday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'BARIUM', 'day': 'Thursday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.3333')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'BARIUM', 'day': 'Friday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.3333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BARIUM', 'day': 'Monday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BARIUM', 'day': 'Tuesday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPE III 401
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BARIUM', 'day': 'Wednesday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BARIUM', 'day': 'Thursday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BARIUM', 'day': 'Friday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'BARIUM', 'day': 'Tuesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'BARIUM', 'day': 'Wednesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'BARIUM', 'day': 'Thursday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'BARIUM', 'day': 'Friday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BARIUM', 'day': 'Tuesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BARIUM', 'day': 'Wednesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BARIUM', 'day': 'Thursday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPEI 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BARIUM', 'day': 'Friday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'BARIUM', 'day': 'Monday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'BARIUM', 'day': 'Tuesday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'BARIUM', 'day': 'Wednesday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'BARIUM', 'day': 'Friday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'HGP', 'section': 'BARIUM', 'day': 'Friday', 'start_time': Decimal('11.8333'), 'end_time': Decimal('12.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'NMP', 'section': 'BARIUM', 'day': 'Tuesday', 'start_time': Decimal('11.8333'), 'end_time': Decimal('12.5000')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Fil', 'section': 'BARIUM', 'day': 'Monday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Math', 'section': 'BARIUM', 'day': 'Tuesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - AP', 'section': 'BARIUM', 'day': 'Wednesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'ARGON', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - English', 'section': 'BARIUM', 'day': 'Monday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Science', 'section': 'BARIUM', 'day': 'Tuesday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - VE', 'section': 'BARIUM', 'day': 'Wednesday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - MAPEH', 'section': 'BARIUM', 'day': 'Thursday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPE III 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPE III 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPE III 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPE III 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.3333')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.3333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPE III 401
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('9.3333'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'NMP', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('11.8333'), 'end_time': Decimal('12.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'NMP', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('11.8333'), 'end_time': Decimal('12.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Fil', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Math', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - AP', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - English', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Science', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - VE', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - MAPEH', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Wednesday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Wednesday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Wednesday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Wednesday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Friday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Friday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Friday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Friday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'AURORA', 'day': 'Monday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'AURORA', 'day': 'Tuesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'AURORA', 'day': 'Wednesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'AURORA', 'day': 'Friday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'AURORA', 'day': 'Monday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'AURORA', 'day': 'Tuesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPEIII 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'AURORA', 'day': 'Friday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'AURORA', 'day': 'Monday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'AURORA', 'day': 'Wednesday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'AURORA', 'day': 'Friday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'AURORA', 'day': 'Monday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.1667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'AURORA', 'day': 'Wednesday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.1667')}
+Predicted Room:  VPE I 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.1667')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'AURORA', 'day': 'Friday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Monday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Monday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Monday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'AURORA', 'day': 'Monday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'AURORA', 'day': 'Monday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'AURORA', 'day': 'Tuesday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'AURORA', 'day': 'Wednesday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'AURORA', 'day': 'Friday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'AURORA', 'day': 'Monday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'AURORA', 'day': 'Wednesday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'AURORA', 'day': 'Friday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'AURORA', 'day': 'Tuesday', 'start_time': Decimal('5.3333'), 'end_time': Decimal('6.0000')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'AURORA', 'day': 'Wednesday', 'start_time': Decimal('5.3333'), 'end_time': Decimal('6.0000')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('5.3333'), 'end_time': Decimal('6.0000')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'AURORA', 'day': 'Friday', 'start_time': Decimal('5.3333'), 'end_time': Decimal('6.0000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'AURORA', 'day': 'Tuesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'AURORA', 'day': 'Wednesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'AURORA', 'day': 'Friday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'NMP', 'section': 'AURORA', 'day': 'Monday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'HGP', 'section': 'AURORA', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - MAPEH', 'section': 'AURORA', 'day': 'Thursday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - VE', 'section': 'AURORA', 'day': 'Wednesday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - AP', 'section': 'AURORA', 'day': 'Wednesday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Science', 'section': 'AURORA', 'day': 'Tuesday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Math', 'section': 'AURORA', 'day': 'Tueday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - English', 'section': 'AURORA', 'day': 'Monday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Filipino', 'section': 'AURORA', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'BATANES', 'day': 'Monday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'BATANES', 'day': 'Tuesday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'BATANES', 'day': 'Thursday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'BATANES', 'day': 'Friday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Monday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Monday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Monday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Monday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Tuesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Tuesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Tuesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Tuesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Wednesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Wednesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Wednesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Wednesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Friday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Friday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Friday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BATANES', 'day': 'Friday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'BATANES', 'day': 'Monday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'BATANES', 'day': 'Tuesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'BATANES', 'day': 'Thursday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPEIII 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'BATANES', 'day': 'Friday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'BATANES', 'day': 'Monday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'BATANES', 'day': 'Wednesday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'BATANES', 'day': 'Thursday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'BATANES', 'day': 'Friday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'BATANES', 'day': 'Monday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.1667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'BATANES', 'day': 'Wednesday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.1667')}
+Predicted Room:  VPE I 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'BATANES', 'day': 'Thursday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.1667')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'BATANES', 'day': 'Friday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BATANES', 'day': 'Monday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BATANES', 'day': 'Tuesday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BATANES', 'day': 'Wednesday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BATANES', 'day': 'Thursday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BATANES', 'day': 'Friday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'BATANES', 'day': 'Tuesday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'BATANES', 'day': 'Wednesday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'BATANES', 'day': 'Thursday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'BATANES', 'day': 'Friday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BATANES', 'day': 'Tuesday', 'start_time': Decimal('5.3333'), 'end_time': Decimal('6.0000')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BATANES', 'day': 'Wednesday', 'start_time': Decimal('5.3333'), 'end_time': Decimal('6.0000')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BATANES', 'day': 'Thursday', 'start_time': Decimal('5.3333'), 'end_time': Decimal('6.0000')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BATANES', 'day': 'Friday', 'start_time': Decimal('5.3333'), 'end_time': Decimal('6.0000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'BATANES', 'day': 'Monday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'BATANES', 'day': 'Tuesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'BATANES', 'day': 'Wednesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'BATANES', 'day': 'Friday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'NMP', 'section': 'BATANES', 'day': 'Tuesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'HGP', 'section': 'BATANES', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'BATANES', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'BATANES', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'BATANES', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'BATANES', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - MAPEH', 'section': 'BATANES', 'day': 'Thursday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - VE', 'section': 'BATANES', 'day': 'Wednesday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - AP', 'section': 'BATANES', 'day': 'Wednesday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Science', 'section': 'BATANES', 'day': 'Tuesday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Math', 'section': 'BATANES', 'day': 'Tueday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - English', 'section': 'BATANES', 'day': 'Monday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Filipino', 'section': 'BATANES', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'CAMIGUIN', 'day': 'Monday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'CAMIGUIN', 'day': 'Tuesday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'CAMIGUIN', 'day': 'Thursday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'CAMIGUIN', 'day': 'Friday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'CAMIGUIN', 'day': 'Monday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'CAMIGUIN', 'day': 'Wednesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'CAMIGUIN', 'day': 'Thursday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'CAMIGUIN', 'day': 'Friday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Monday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Monday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Mondau', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Monday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Monday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Tuesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Tuesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Tuesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Tuesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Tuesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Wednesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Wednesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Wednesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Wednesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Wednesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Friday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Friday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Friday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Friday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CAMIGUIN', 'day': 'Friday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'CAMIGUIN', 'day': 'Monday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'CAMIGUIN', 'day': 'Wednesday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'CAMIGUIN', 'day': 'Thursday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'CAMIGUIN', 'day': 'Friday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'CAMIGUIN', 'day': 'Tuesday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'CAMIGUIN', 'day': 'Wednesday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.1667')}
+Predicted Room:  VPE I 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'CAMIGUIN', 'day': 'Thursday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.1667')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'CAMIGUIN', 'day': 'Friday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CAMIGUIN', 'day': 'Monday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CAMIGUIN', 'day': 'Tuesday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CAMIGUIN', 'day': 'Wednesday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CAMIGUIN', 'day': 'Thursday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CAMIGUIN', 'day': 'Friday', 'start_time': Decimal('4.1667'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CAMIGUIN', 'day': 'Tuesday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CAMIGUIN', 'day': 'Wednesday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CAMIGUIN', 'day': 'Thursday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CAMIGUIN', 'day': 'Friday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'CAMIGUIN', 'day': 'Monday', 'start_time': Decimal('5.3333'), 'end_time': Decimal('6.0000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'CAMIGUIN', 'day': 'Tuesday', 'start_time': Decimal('5.3333'), 'end_time': Decimal('6.0000')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'CAMIGUIN', 'day': 'Wednesday', 'start_time': Decimal('5.3333'), 'end_time': Decimal('6.0000')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'CAMIGUIN', 'day': 'Friday', 'start_time': Decimal('5.3333'), 'end_time': Decimal('6.0000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'CAMIGUIN', 'day': 'Monday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'CAMIGUIN', 'day': 'Tuesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'CAMIGUIN', 'day': 'Thursday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPEIII 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'CAMIGUIN', 'day': 'Friday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'NMP', 'section': 'CAMIGUIN', 'day': 'Tuesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'HGP', 'section': 'CAMIGUIN', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'CAMIGUIN', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'CAMIGUIN', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'CAMIGUIN', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'CAMIGUIN', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'CAMIGUIN', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - MAPEH', 'section': 'CAMIGUIN', 'day': 'Thursday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - VE', 'section': 'CAMIGUIN', 'day': 'Wednesday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - AP', 'section': 'CAMIGUIN', 'day': 'Wednesday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Science', 'section': 'CAMIGUIN', 'day': 'Tuesday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Math', 'section': 'CAMIGUIN', 'day': 'Tueday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - English', 'section': 'CAMIGUIN', 'day': 'Monday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Filipino', 'section': 'CAMIGUIN', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CHEERFUL', 'day': 'Monday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CHEERFUL', 'day': 'Wednesday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CHEERFUL', 'day': 'Thursday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CHEERFUL', 'day': 'Friday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'CHEERFUL', 'day': 'Monday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'CHEERFUL', 'day': 'Tuesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'CHEERFUL', 'day': 'Wednesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'CHEERFUL', 'day': 'Friday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CHEERFUL', 'day': 'Monday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CHEERFUL', 'day': 'Tuesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CHEERFUL', 'day': 'Wednesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CHEERFUL', 'day': 'Friday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'CHEERFUL', 'day': 'Friday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'CHEERFUL', 'day': 'Thursday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'CHEERFUL', 'day': 'Wednesday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'CHEERFUL', 'day': 'Tuesday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CHEERFUL', 'day': 'Monday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CHEERFUL', 'day': 'Tuesday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CHEERFUL', 'day': 'Wednesday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room:  VPE I 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CHEERFUL', 'day': 'Thursday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CHEERFUL', 'day': 'Friday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'CHEERFUL', 'day': 'Monday', 'start_time': Decimal('4.0000'), 'end_time': Decimal('4.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'CHEERFUL', 'day': 'Wednesday', 'start_time': Decimal('4.0000'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'CHEERFUL', 'day': 'Thursday', 'start_time': Decimal('4.0000'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'CHEERFUL', 'day': 'Friday', 'start_time': Decimal('4.0000'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'CHEERFUL', 'day': 'Monday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'CHEERFUL', 'day': 'Wednesday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'CHEERFUL', 'day': 'Thursday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'CHEERFUL', 'day': 'Friday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'CHEERFUL', 'day': 'Monday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'CHEERFUL', 'day': 'Tuesday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'CHEERFUL', 'day': 'Thursday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'CHEERFUL', 'day': 'Friday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'CHEERFUL', 'day': 'Monday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'CHEERFUL', 'day': 'Tuesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'CHEERFUL', 'day': 'Thursday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPEIII 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'CHEERFUL', 'day': 'Friday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'NMP', 'section': 'CHEERFUL', 'day': 'Tuesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'HGP', 'section': 'CHEERFUL', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'CHEERFUL', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - MAPEH', 'section': 'CHEERFUL', 'day': 'Thursday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - VE', 'section': 'CHEERFUL', 'day': 'Wednesday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - AP', 'section': 'CHEERFUL', 'day': 'Wednesday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Science', 'section': 'CHEERFUL', 'day': 'Tuesday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Math', 'section': 'CHEERFUL', 'day': 'Tueday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - English', 'section': 'CHEERFUL', 'day': 'Monday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Filipino', 'section': 'CHEERFUL', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'DILIGENCE', 'day': 'Monday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'DILIGENCE', 'day': 'Wednesday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'DILIGENCE', 'day': 'Thursday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'DILIGENCE', 'day': 'Friday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'DILIGENCE', 'day': 'Monday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'DILIGENCE', 'day': 'Tuesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'DILIGENCE', 'day': 'Wednesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'DILIGENCE', 'day': 'Friday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'DILIGENCE', 'day': 'Monday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'DILIGENCE', 'day': 'Tuesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'DILIGENCE', 'day': 'Wednesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'DILIGENCE', 'day': 'Friday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'DILIGENCE', 'day': 'Friday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'DILIGENCE', 'day': 'Thursday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'DILIGENCE', 'day': 'Wednesday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'DILIGENCE', 'day': 'Tuesday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'DILIGENCE', 'day': 'Monday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'DILIGENCE', 'day': 'Tuesday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'DILIGENCE', 'day': 'Wednesday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room:  VPE I 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'DILIGENCE', 'day': 'Thursday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'DILIGENCE', 'day': 'Friday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'DILIGENCE', 'day': 'Monday', 'start_time': Decimal('4.0000'), 'end_time': Decimal('4.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'DILIGENCE', 'day': 'Wednesday', 'start_time': Decimal('4.0000'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'DILIGENCE', 'day': 'Thursday', 'start_time': Decimal('4.0000'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'DILIGENCE', 'day': 'Friday', 'start_time': Decimal('4.0000'), 'end_time': Decimal('4.6667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'DILIGENCE', 'day': 'Monday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'DILIGENCE', 'day': 'Wednesday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'DILIGENCE', 'day': 'Thursday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'DILIGENCE', 'day': 'Friday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'DILIGENCE', 'day': 'Monday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'DILIGENCE', 'day': 'Tuesday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'DILIGENCE', 'day': 'Thursday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'DILIGENCE', 'day': 'Friday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'DILIGENCE', 'day': 'Monday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'DILIGENCE', 'day': 'Tuesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'DILIGENCE', 'day': 'Thursday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPEIII 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'DILIGENCE', 'day': 'Friday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'NMP', 'section': 'DILIGENCE', 'day': 'Tuesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'HGP', 'section': 'DILIGENCE', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'DILIGENCE', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - MAPEH', 'section': 'DILIGENCE', 'day': 'Thursday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - VE', 'section': 'DILIGENCE', 'day': 'Wednesday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - AP', 'section': 'DILIGENCE', 'day': 'Wednesday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Science', 'section': 'DILIGENCE', 'day': 'Tuesday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Math', 'section': 'DILIGENCE', 'day': 'Tuesday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - English', 'section': 'DILIGENCE', 'day': 'Monday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Filipino', 'section': 'DILIGENCE', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'EXCELLENCE', 'day': 'Monday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'EXCELLENCE', 'day': 'Wednesday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'EXCELLENCE', 'day': 'Thursday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'EXCELLENCE', 'day': 'Friday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'EXCELLENCE', 'day': 'Monday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'EXCELLENCE', 'day': 'Tuesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'EXCELLENCE', 'day': 'Wednesday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'EXCELLENCE', 'day': 'Friday', 'start_time': Decimal('1.5000'), 'end_time': Decimal('2.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'EXCELLENCE', 'day': 'Monday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'EXCELLENCE', 'day': 'Tuesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'EXCELLENCE', 'day': 'Wednesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'EXCELLENCE', 'day': 'Friday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'EXCELLENCE', 'day': 'Friday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'EXCELLENCE', 'day': 'Thursday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'EXCELLENCE', 'day': 'Wednesday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'English', 'section': 'EXCELLENCE', 'day': 'Tuesday', 'start_time': Decimal('2.8333'), 'end_time': Decimal('3.5000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'EXCELLENCE', 'day': 'Monday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'EXCELLENCE', 'day': 'Tuesday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'EXCELLENCE', 'day': 'Wednesday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room:  VPE I 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'EXCELLENCE', 'day': 'Thursday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'EXCELLENCE', 'day': 'Friday', 'start_time': Decimal('3.5000'), 'end_time': Decimal('4.0000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'EXCELLENCE', 'day': 'Monday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'EXCELLENCE', 'day': 'Wednesday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'EXCELLENCE', 'day': 'Thursday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPEIII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'EXCELLENCE', 'day': 'Friday', 'start_time': Decimal('4.6667'), 'end_time': Decimal('5.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'EXCELLENCE', 'day': 'Monday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'EXCELLENCE', 'day': 'Tuesday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'EXCELLENCE', 'day': 'Thursday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'EXCELLENCE', 'day': 'Friday', 'start_time': Decimal('12.8333'), 'end_time': Decimal('1.5000')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'EXCELLENCE', 'day': 'Monday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'EXCELLENCE', 'day': 'Tuesday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'EXCELLENCE', 'day': 'Thursday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPEIII 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'EXCELLENCE', 'day': 'Friday', 'start_time': Decimal('2.1667'), 'end_time': Decimal('2.8333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'NMP', 'section': 'EXCELLENCE', 'day': 'Tuesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'HGP', 'section': 'EXCELLENCE', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'EXCELLENCE', 'day': 'Thursday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - MAPEH', 'section': 'EXCELLENCE', 'day': 'Thursday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPEIII 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - VE', 'section': 'EXCELLENCE', 'day': 'Wednesday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - AP', 'section': 'EXCELLENCE', 'day': 'Wednesday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Science', 'section': 'EXCELLENCE', 'day': 'Tuesday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Math', 'section': 'EXCELLENCE', 'day': 'Tuesday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - English', 'section': 'EXCELLENCE', 'day': 'Monday', 'start_time': Decimal('7.7500'), 'end_time': Decimal('8.1667')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Filipino', 'section': 'EXCELLENCE', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('7.7500')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Fil', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Math', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - AP', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'COPPER', 'day': 'Friday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Fil', 'section': 'COPPER', 'day': 'Monday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Math', 'section': 'COPPER', 'day': 'Tuesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - AP', 'section': 'COPPER', 'day': 'Wednesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'ANTHURIUM', 'day': 'Tuesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'ANTHURIUM', 'day': 'Wednesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'ANTHURIUM', 'day': 'Thursday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'ANTHURIUM', 'day': 'Friday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'ANTHURIUM', 'day': 'Monday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'ANTHURIUM', 'day': 'Wednesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'ANTHURIUM', 'day': 'Thursday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'ANTHURIUM', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ANTHURIUM', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ANTHURIUM', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ANTHURIUM', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'ANTHURIUM', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'ANTHURIUM', 'day': 'Monday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'ANTHURIUM', 'day': 'Wednesday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'ANTHURIUM', 'day': 'Thursday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'ANTHURIUM', 'day': 'Friday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'ANTHURIUM', 'day': 'Monday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'ANTHURIUM', 'day': 'Tuesday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'ANTHURIUM', 'day': 'Wednesday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'ANTHURIUM', 'day': 'Thursday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'ANTHURIUM', 'day': 'Friday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'ANTHURIUM', 'day': 'Monday', 'start_time': Decimal('9.1667'), 'end_time': Decimal('9.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'ANTHURIUM', 'day': 'Tuesday', 'start_time': Decimal('9.1667'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPE III 401
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'ANTHURIUM', 'day': 'Thursday', 'start_time': Decimal('9.1667'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'ANTHURIUM', 'day': 'Friday', 'start_time': Decimal('9.1667'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'ANTHURIUM', 'day': 'Tuesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'ANTHURIUM', 'day': 'Wednesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'ANTHURIUM', 'day': 'Thursday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'ANTHURIUM', 'day': 'Friday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'ANTHURIUM', 'day': 'Monday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'ANTHURIUM', 'day': 'Tuesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'ANTHURIUM', 'day': 'Wednesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'ANTHURIUM', 'day': 'Friday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'ANTHURIUM', 'day': 'Monday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'ANTHURIUM', 'day': 'Tuesday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'ANTHURIUM', 'day': 'Thursday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'ANTHURIUM', 'day': 'Friday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'NMP', 'section': 'ANTHURIUM', 'day': 'Wednesday', 'start_time': Decimal('11.8333'), 'end_time': Decimal('12.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'HGP', 'section': 'ANTHURIUM', 'day': 'Friday', 'start_time': Decimal('11.8333'), 'end_time': Decimal('12.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'COPPER', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Fil', 'section': 'ANTHURIUM', 'day': 'Monday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Math', 'section': 'ANTHURIUM', 'day': 'Tuesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - AP', 'section': 'ANTHURIUM', 'day': 'Wednesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - English', 'section': 'ANTHURIUM', 'day': 'Monday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Science', 'section': 'ANTHURIUM', 'day': 'Tuesday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - VE', 'section': 'ANTHURIUM', 'day': 'Wednesday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - MAPEH', 'section': 'ANTHURIUM', 'day': 'Thursday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BUTTERCUP', 'day': 'Tuesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BUTTERCUP', 'day': 'Wednesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BUTTERCUP', 'day': 'Thursday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BUTTERCUP', 'day': 'Friday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'BUTTERCUP', 'day': 'Monday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'BUTTERCUP', 'day': 'Wednesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'BUTTERCUP', 'day': 'Thursday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'BUTTERCUP', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BUTTERCUP', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BUTTERCUP', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BUTTERCUP', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'BUTTERCUP', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'BUTTERCUP', 'day': 'Monday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'BUTTERCUP', 'day': 'Wednesday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'BUTTERCUP', 'day': 'Thursday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'BUTTERCUP', 'day': 'Friday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BUTTERCUP', 'day': 'Monday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BUTTERCUP', 'day': 'Tuesday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BUTTERCUP', 'day': 'Wednesday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BUTTERCUP', 'day': 'Thursday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'BUTTERCUP', 'day': 'Friday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'BUTTERCUP', 'day': 'Monday', 'start_time': Decimal('9.1667'), 'end_time': Decimal('9.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'BUTTERCUP', 'day': 'Tuesday', 'start_time': Decimal('9.1667'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPE III 401
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'BUTTERCUP', 'day': 'Thursday', 'start_time': Decimal('9.1667'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'BUTTERCUP', 'day': 'Friday', 'start_time': Decimal('9.1667'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BUTTERCUP', 'day': 'Tuesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BUTTERCUP', 'day': 'Wednesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BUTTERCUP', 'day': 'Thursday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'BUTTERCUP', 'day': 'Friday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'BUTTERCUP', 'day': 'Monday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'BUTTERCUP', 'day': 'Tuesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'BUTTERCUP', 'day': 'Wednesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'BUTTERCUP', 'day': 'Friday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'BUTTERCUP', 'day': 'Monday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'BUTTERCUP', 'day': 'Tuesday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'BUTTERCUP', 'day': 'Thursday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'BUTTERCUP', 'day': 'Friday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'NMP', 'section': 'BUTTERCUP', 'day': 'Wednesday', 'start_time': Decimal('11.8333'), 'end_time': Decimal('12.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'HGP', 'section': 'BUTTERCUP', 'day': 'Friday', 'start_time': Decimal('11.8333'), 'end_time': Decimal('12.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'BUTTERCUP', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Fil', 'section': 'BUTTERCUP', 'day': 'Monday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Math', 'section': 'BUTTERCUP', 'day': 'Tuesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - AP', 'section': 'BUTTERCUP', 'day': 'Wednesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - English', 'section': 'BUTTERCUP', 'day': 'Monday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Science', 'section': 'BUTTERCUP', 'day': 'Tuesday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - VE', 'section': 'BUTTERCUP', 'day': 'Wednesday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - MAPEH', 'section': 'BUTTERCUP', 'day': 'Thursday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CARNATION', 'day': 'Tuesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CARNATION', 'day': 'Wednesday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CARNATION', 'day': 'Thursday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CARNATION', 'day': 'Friday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('6.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'CARNATION', 'day': 'Monday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'CARNATION', 'day': 'Wednesday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'CARNATION', 'day': 'Thursday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Science', 'section': 'CARNATION', 'day': 'Friday', 'start_time': Decimal('6.6667'), 'end_time': Decimal('7.3333')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CARNATION', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CARNATION', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CARNATION', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'TLE', 'section': 'CARNATION', 'day': 'Monday', 'start_time': Decimal('7.3333'), 'end_time': Decimal('8.0000')}
+Predicted Room: 302
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'CARNATION', 'day': 'Monday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'CARNATION', 'day': 'Wednesday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'CARNATION', 'day': 'Thursday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Math', 'section': 'CARNATION', 'day': 'Friday', 'start_time': Decimal('8.0000'), 'end_time': Decimal('8.6667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CARNATION', 'day': 'Monday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CARNATION', 'day': 'Tuesday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CARNATION', 'day': 'Wednesday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CARNATION', 'day': 'Thursday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Recess', 'section': 'CARNATION', 'day': 'Friday', 'start_time': Decimal('8.6667'), 'end_time': Decimal('9.1667')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'CARNATION', 'day': 'Monday', 'start_time': Decimal('9.1667'), 'end_time': Decimal('9.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'CARNATION', 'day': 'Tuesday', 'start_time': Decimal('9.1667'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPE III 401
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'CARNATION', 'day': 'Thursday', 'start_time': Decimal('9.1667'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Araling Panlipunan', 'section': 'CARNATION', 'day': 'Friday', 'start_time': Decimal('9.1667'), 'end_time': Decimal('9.8333')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CARNATION', 'day': 'Tuesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CARNATION', 'day': 'Wednesday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CARNATION', 'day': 'Thursday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPEIII 402
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Filipino', 'section': 'CARNATION', 'day': 'Friday', 'start_time': Decimal('9.8333'), 'end_time': Decimal('10.5000')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'CARNATION', 'day': 'Monday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'CARNATION', 'day': 'Tuesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'CARNATION', 'day': 'Wednesday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'MAPEH', 'section': 'CARNATION', 'day': 'Friday', 'start_time': Decimal('10.5000'), 'end_time': Decimal('11.1667')}
+Predicted Room:  VPE III 501
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'CARNATION', 'day': 'Monday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'CARNATION', 'day': 'Tuesday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPE III 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'CARNATION', 'day': 'Thursday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Values Education', 'section': 'CARNATION', 'day': 'Friday', 'start_time': Decimal('11.1667'), 'end_time': Decimal('11.8333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'NMP', 'section': 'CARNATION', 'day': 'Wednesday', 'start_time': Decimal('11.8333'), 'end_time': Decimal('12.5000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'HGP', 'section': 'CARNATION', 'day': 'Friday', 'start_time': Decimal('11.8333'), 'end_time': Decimal('12.5000')}
+Predicted Room:  VPE III 503
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - TLE', 'section': 'CARNATION', 'day': 'Thursday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Fil', 'section': 'CARNATION', 'day': 'Monday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Math', 'section': 'CARNATION', 'day': 'Tuesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - AP', 'section': 'CARNATION', 'day': 'Wednesday', 'start_time': Decimal('12.5000'), 'end_time': Decimal('12.9167')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - English', 'section': 'CARNATION', 'day': 'Monday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - Science', 'section': 'CARNATION', 'day': 'Tuesday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room:  VPEI 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - VE', 'section': 'CARNATION', 'day': 'Wednesday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Processing input features: {'subject': 'Asynch - MAPEH', 'section': 'CARNATION', 'day': 'Thursday', 'start_time': Decimal('12.9167'), 'end_time': Decimal('13.3333')}
+Predicted Room:  VPEII 502
+Invalid room or room not found in the database.
+Processing input features: {'subject': '', 'section': '', 'day': 'Monday', 'start_time': Decimal('6.0000'), 'end_time': Decimal('7.0000')}
+Predicted Room: 303
+Invalid room or room not found in the database.
+Predicted Room: 401
+Connected to the Database!
+Validated Room ID: 1
+Optimized Schedule: {'start_time': '6:00:00', 'end_time': '7:00:00'}
+Schedule inserted successfully!
+Predicted Room: 401
+Connected to the Database!
+Validated Room ID: 1
+Optimized Schedule: {'start_time': '6:00:00', 'end_time': '7:00:00'}
+Schedule inserted successfully!
+Predicted Room: 401
+Connected to the Database!
+Validated Room ID: 1
+Optimized Schedule: {'start_time': '6:00:00', 'end_time': '7:00:00'}
+Schedule inserted successfully!
+Predicted Room: 401
+Connected to the Database!
+Validated Room ID: 1
+Optimized Schedule: {'start_time': '6:00:00', 'end_time': '7:00:00'}
+Schedule inserted successfully!
+Predicted Room: 401
+Connected to the Database!
+Validated Room ID: 1
+Optimized Schedule: {'start_time': '6:00:00', 'end_time': '7:00:00'}
+Schedule inserted successfully!

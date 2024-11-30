@@ -1,0 +1,224 @@
+html{
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.half {
+    flex: 1;
+    height: 100%;
+    position: relative;
+}
+
+.image-half {
+    background: linear-gradient(rgba(255, 255, 254, 0.767), rgba(255, 255, 254, 0.767)), url("../img/bg.png");
+    background-position: center;
+    background-size:auto;
+    background-repeat: no-repeat;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70%; /* Adjust the height as needed */
+    
+}
+  
+.logo {
+    block-size: 300px;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.form-box{
+    position: absolute;
+    width: 90%;
+    height: 700px;
+    max-width: 450px;
+    top: 35%;
+    transform: translate(-2%, -10%);
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.form-box h2{
+    position: relative;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+    color: black;
+    text-align: center;
+}
+
+.form-box h2::after{
+    content: '';
+    width: 30px;
+    height: 4px;
+    border-radius: 3px;
+    background: black;
+    position: absolute;
+    margin-bottom: 5px;
+    bottom: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.inputbox{
+    position: relative;
+    margin: 15px 0;
+    width: 400px;
+    border-radius: 80px;
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    background: transparent;
+    max-height: 65px;
+    transition: max-height 0.5s;
+    overflow: hidden;
+}
+
+input:focus ~ label,
+input:valid ~ label{
+top: -5px;
+}
+
+.inputbox input {
+    font-family: sans-serif;
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    font-size: 1em;
+    margin-left: 35px;
+    padding:0 35px 0 5px;
+    color: black;
+}
+
+.inputbox input::placeholder{
+    color: black;
+}
+
+.inputbox ion-icon{
+    position: absolute;
+    left: 8px;
+    color: black;
+    font-size: 1.3em;
+    top: 13px;
+}
+
+.forget{
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 10px 15px 25px ;
+    font-size: .9em;
+    color: black;
+    display: flex;
+    justify-content: space-between;  
+}
+
+.forget label input{
+    margin-right: 3px;
+}
+
+.forget a{
+    color: black;
+    text-decoration: none;
+}
+
+.forget a:hover{
+    text-decoration: underline;
+}
+
+.btn-field{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-field button{
+    flex-basis: 48%;
+    background: #006aa7;
+    color: #fff;
+    height: 40px;
+    border-radius: 80px;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    transition: background 1s;
+}
+
+.btn-field button.disable{
+    background: #eaeaea;
+    color: #555;
+}
+
+.sign{
+    margin-top: 10px;
+    justify-content: center;
+}
+.sign p a{
+    color: black;
+    text-decoration: none;
+}
+.sign p a:hover{
+    text-decoration: underline;
+}
+
+.main-text h5 {
+    color: black;
+    font-size: 3em;
+    line-height: 1.5sem;
+    font-weight: 800;
+    font-family: Times New Roman;
+  }
+  
+.main-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 100px;
+    min-height: 100%;
+}
+
+.main-text p {
+    margin-top: -50px;
+    font: 300 16px/26px "Poppins", sans-serif; 
+}
+
+@media (min-width: 768px) {
+    .main-text{
+        margin-top: 50px;
+    }
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+}

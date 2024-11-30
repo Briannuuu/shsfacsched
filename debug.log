@@ -1,0 +1,6 @@
+Command: python model/generate_schedule.py "{ instructor : M. Del Barrio }"
+Output: 
+JSON Decode Error: Syntax error
+Command: python model/generate_schedule.py "{ instructor : M. Del Barrio }"
+Output: 
+JSON Decode Error: Syntax error

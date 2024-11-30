@@ -1,0 +1,166 @@
+<?php
+session_start();
+error_reporting(0);
+include('includes/dbcon.php');
+
+// Check if session ID is set, if not, redirect to logout
+if (empty($_SESSION['sid'])) {
+    header('location:logout.php');
+    exit();
+}
+
+// If the session destroy request is received (from the back button)
+if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action']) && $_POST['action'] == 'destroy') {
+    // Only destroy the session if "remember me" was not checked
+    if (empty($_COOKIE['user_login']) && empty($_COOKIE['userpassword'])) {
+        session_unset();
+        session_destroy();
+    }
+    exit(); // Stop further processing
+}
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sagad High School Loading System</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="img/logo.png">
+    <link rel="stylesheet" href="css/style - facmemhome.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<header class="">
+    <div class="header-logo">
+        <img src="img/logo.png" alt="logo" class="logo">
+    </div>
+    <div class="dropdown">
+        <button class="dropbtn" type="button" data-bs-toggle="dropdown" aria-expanded="false"><ion-icon name="log-out-outline"></ion-icon></button>
+        <ul class="dropdown-content">
+          <a class="dropdown-item" href="logout.php">Logout</a>
+        </ul>
+      </div>
+</header>
+<body>
+    <div class="sidebar">
+        <div class="top">
+            <div class="logo">
+                <i class = "bx bxl-netlify"></i>
+                <span>Welcome</span>
+            </div>
+            <i class = "bx bx-menu" id ="btn"></i>
+        </div>
+        
+
+        <div class="user">
+            <div>
+                <p>Faculty Member</p>
+                <?php
+                    $eid=$_SESSION['sid'];
+                    $sql="SELECT * from facmembers where mem_id=:eid ";                                    
+                    $query = $dbh -> prepare($sql);
+                    $query-> bindParam(':eid', $eid, PDO::PARAM_STR);
+                    $query->execute();
+                    $results=$query->fetchAll(PDO::FETCH_OBJ);
+
+                    $cnt=1;
+                    if($query->rowCount() > 0)
+                    {
+                        foreach($results as $row)
+                        {    
+                        ?>
+                        <div class="image">
+                            <img class="img-circle"
+                            src="facimages/<?php echo htmlentities($row->facImage);?>" width="90px" height="90px" class="user-image"
+                            alt="User profile picture">
+                        </div>
+                        <div class="info">
+                            <a href="#" class="d-block"><?php echo ($row->emp_name); ?></a>
+                        </div>
+                        <?php 
+                        }
+                    } 
+                ?>
+            </div>
+        </div>
+
+        <ul class="nav-links">
+            <li>
+                <a href="#" class="current-page"><i class = "bx bxs-dashboard"></i><span class="nav-item">Dashboard</span></a>
+            </li>
+            <li>
+                <a href="facloading.html"><i class='bx bx-loader' ></i></i><span class="nav-item">Schedules</span></a>
+            </li>
+            <li>
+                <a href="facsettings.html"><i class='bx bx-slider-alt'></i></i><span class="nav-item">Settings</span></a>
+            </li>
+        </ul>
+
+        <footer>
+            <p>All rights Reserved.</p> 
+        </footer>
+    </div>
+   
+    <div class="main-content">
+        <div class="container-fluid">
+            <div class="box box-default">
+                <div class="box-header">
+                    <h5 class="box-title">Academic Programs</h5>
+                </div>
+                <div class="box-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th width="25%">Subject ID</th>
+                                    <th>Subject Description</th>
+                                    <th width="10%">View</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>ESP</td>
+                                    <td>Edukasyon sa Pagpapakatao</td>
+                                    <td class="text-center"><a href="#" class="btn btn-view"><ion-icon name="eye-outline"></ion-icon></a></td>
+                                </tr>
+                                <tr>
+                                    <td>EPP</td>
+                                    <td>Edukasyong Pantahanan at Pangkabuhayan</td>
+                                    <td class="text-center"><a href="#" class="btn btn-view"><ion-icon name="eye-outline"></ion-icon></a></td>
+                                </tr>
+                                <tr>
+                                    <td>TLE</td>
+                                    <td>Technology and Livelihood Education</td>
+                                    <td class="text-center"><a href="#" class="btn btn-view"><ion-icon name="eye-outline"></ion-icon></a></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+let btn = document.querySelector('#btn');
+let sidebar = document.querySelector('.sidebar');
+
+btn.onclick = function (){
+    sidebar.classList.toggle('active');
+};
+</script>
+<script>
+    window.onpopstate = function(event) {
+    // Send an AJAX request to destroy the session
+    var xhr = new XMLHttpRequest();
+    xhr.open("POST", "logout.php", true);
+    xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    xhr.send("action=destroy");
+    };
+</script>
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</html>
