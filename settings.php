@@ -39,7 +39,7 @@ session_start();
     <div class="dropdown">
         <button class="dropbtn" type="button" data-bs-toggle="dropdown" aria-expanded="false"><ion-icon name="log-out-outline"></ion-icon></button>
         <ul class="dropdown-content">
-          <a class="dropdown-item" href="login.html">Logout</a>
+          <a class="dropdown-item" href="index.php">Logout</a>
         </ul>
       </div>
 </header>
@@ -130,8 +130,8 @@ session_start();
                             <!-- General Tab -->
                             <div class="tab-pane fade active show" id="account-general">
                                 <div class="card-body media align-items-center">
-                                    <img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt=""
-                                    class="d-block ui-w-80">
+                                    <img src="staff_images/<?php echo htmlentities($row->u_image);?>" alt="User profile picture" width="90px" height="90px"
+                                    class="user-image">
                                     <div class="media-body ml-4">
                                         <label class="btn btn-outline-primary">
                                             Upload New Photo
@@ -145,34 +145,26 @@ session_start();
                                 <div class="card-body">
                                     <!-- Non-editable fields -->
                                     <div class="form-group">
-                                        <label class="form-label">Employee Number</label>
-                                        <input type="text" class="form-control mb-1" value="001" readonly>
+                                        <label class="form-label">Admin ID</label>
+                                        <input type="text" class="form-control mb-1" value="<?php echo htmlspecialchars($row->admin_id); ?>" readonly>
                                     </div>
                                     <div class="form-group">
                                         <label class="form-label">Name</label>
-                                        <input type="text" class="form-control" value="M.Del Barrio" readonly>
+                                        <input type="text" class="form-control" value="<?php echo htmlspecialchars($row->name); ?>" readonly>
                                     </div>
 
                                     <!-- Editable fields -->
                                     <div class="form-group">
                                         <label class="form-label">Email</label>
-                                        <input type="text" class="form-control mb-1" value="">
+                                        <input type="text" class="form-control mb-1" value="<?php echo htmlspecialchars($row->email_add);?>">
                                     </div>
-                                    <div class="form-group">
+                                    <!-- <div class="form-group">
                                         <label class="form-label">Status</label>
                                         <select class="custom-select">
                                             <option selected>Active</option>
                                             <option>Inactive</option>
                                         </select>
-                                    </div>
-                                    <div class="form-group">
-                                        <label class="form-label">Role</label>
-                                        <select class="custom-select">
-                                            <option>Admin</option>
-                                            <option selected>Member</option>
-                                            <option>Guest</option>
-                                        </select>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
 
@@ -198,13 +190,13 @@ session_start();
                             <div class="tab-pane fade" id="account-info">
                                 <div class="card-body">
                                     <!-- Personal Info -->
-                                    <div class="form-group">
+                                    <!-- <div class="form-group">
                                         <label class="form-label">Birthday</label>
                                         <input type="date" class="form-control" value="">
-                                    </div>
+                                    </div> -->
 
                                     <!-- Address Selector -->
-                                    <div class="form-group">
+                                    <!-- <div class="form-group">
                                         <label class="form-label">Region *</label>
                                         <select name="region" class="form-control form-control-md" id="region"></select>
                                         <input type="hidden" class="form-control form-control-md" name="region_text"
@@ -232,12 +224,12 @@ session_start();
                                         <label for="street-text" class="form-label">Street (Optional)</label>
                                         <input type="text" class="form-control form-control-md" name="street_text"
                                             id="street-text">
-                                    </div>
+                                    </div> -->
 
                                     <!-- Contact Number -->
                                     <div class="form-group">
                                         <label class="form-label">Contact Number</label>
-                                        <input type="text" class="form-control" >
+                                        <input type="text" class="form-control" value="<?php echo htmlspecialchars($row->contact_no);?>">
                                     </div>
                                 </div>
                             </div>

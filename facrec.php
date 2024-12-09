@@ -43,7 +43,7 @@ session_start();
     <div class="dropdown">
         <button class="dropbtn" type="button" data-bs-toggle="dropdown" aria-expanded="false"><ion-icon name="log-out-outline"></ion-icon></button>
         <ul class="dropdown-content">
-          <a class="dropdown-item" href="login.html">Logout</a>
+          <a class="dropdown-item" href="index.php">Logout</a>
         </ul>
       </div>
 </header>
@@ -134,8 +134,14 @@ session_start();
                         <div class="col-12">
                             <div class="card">
                                 <div class="card-header">
-                                    <h3 class="card-title">Manage Faculty Members</h3>    
+                                    <h3 class="card-title">Manage Faculty Members</h3>
+                                    <div class="card-tools">
+                                        <a href="add_faculty_member.php"><button type="button" class="btn btn-sm btn-primary"  ><span style="color: #fff;"><i class="fas fa-plus" ></i>  New Faculty Member</span>
+                                        </button> </a>                  
+                                    </div> 
+                                    
                                 </div>
+                                
                                 <!--/.card-header -->
 
                                 <div class="card-body mt-2">
@@ -219,7 +225,7 @@ session_start();
         <div class="modal-dialog modal-xl custom-modal" role="document" id="modalDialog">
             <div class="modal-content" id="modalContentContainer">
                 <div class="modal-header" id="modalHeader">
-                    <h5 class="modal-title" id="editFacultyModalLabel">Faculty Member Information</h5>
+                    <h5 class="modal-title" id="editFacultyModalLabel"></h5>
                 </div>
                 <div id="modalContent" class="modal-body">
                     <!-- Dynamically loaded content -->
@@ -253,6 +259,27 @@ session_start();
         });
 
         $(document).ready(function() {
+
+            $(document).on('click', '.add-btn', function () {
+                var add_id = $(this).data('id');
+                console.log("Add button clicked for Faculty ID: " + edit_id);
+
+                $.ajax({
+                    url: 'modal/add_faculty_member_content.php',
+                    type: 'POST',
+                    data: { edit_id: edit_id },
+                    success: function (response) {
+                        console.log(response); // Log the response
+                        $('#modalContent').html(response);
+                        $('#editFacultyModal').modal('show');
+                    },
+                    error: function (xhr, status, error) {
+                        console.log(xhr.responseText);
+                        alert('Failed to load content. Please try again.');
+                    }
+                });
+            });
+
             // When the Edit button is clicked
             $(document).on('click', '.edit-btn', function () {
                 var edit_id = $(this).data('id');

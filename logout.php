@@ -12,5 +12,5 @@ $query->execute();
 $_SESSION['errmsg']="You have successfully logout";
 unset($_SESSION['cpmsaid']);
 session_destroy(); // destroy session
-header("location:admin_login.php"); 
+header("location:index.php"); 
 ?>

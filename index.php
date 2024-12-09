@@ -80,12 +80,12 @@ if(isset($_POST['login']))
           header("location:http://$host$uri/$extra");
           exit();                 
         } else { 
-          echo "<script>alert('Your account was blocked please approach Admin');document.location ='admin_login.php';</script>";                                        
+          echo "<script>alert('Your account was blocked please approach Admin');document.location ='index.php';</script>";                                        
         }  
 
       } } 
     } else{ 
-      $extra="admin_login.php";
+      $extra="index.php";
       $username=$_POST['username'];
       $uip=$_SERVER['REMOTE_ADDR'];
       $status=0;
